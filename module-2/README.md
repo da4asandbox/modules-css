@@ -89,7 +89,7 @@ Through this module, students will be able to define and consider the following 
 
 ### Data Biography
 
-[Linnk to Data Biography](/module-2/data-biography/)
+[Link to full assignment description](/module-2/data-biography/)
 
 
 .ve-footer
