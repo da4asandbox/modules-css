@@ -1,5 +1,5 @@
 .ve-header "Data Biography" position=top sticky
-    - [Module 2: Historicizing Data](/module-2/) 
+    - [Return to Module 2: Historicizing Data](/module-2/) 
 
 # Data Biography
 
