@@ -1,4 +1,4 @@
-.ve-header "Data 4 All" wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg position=top sticky
+.ve-header "Data 4 All" position=top sticky
     - [CU Denver](https://ucdenver.edu)
     - [Module Overview](#module-overview)
     - [Learning Outcomes](#learning-outcomes) 
@@ -24,29 +24,34 @@ Data Biography
 
 ## Module Readings
 Through this module, students will engage with the following texts either in their entirety or in excerpts:
-“Chapter 2: Collect, Analyze, Imagine, Teach” in Catherine D’Ignazio and Lauren Klein, Data Feminism (MIT Press, 2020)
-Dan Bouk, “Standing on the Crater of a Volcano”
-Dan Bouk, House Arrest https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf - 1920s apportionment
-Jessica Marie Johnson, “Markup Bodies”
+- “Chapter 2: Collect, Analyze, Imagine, Teach” in Catherine D’Ignazio and Lauren Klein, Data Feminism (MIT Press, 2020)
+- Dan Bouk, “Standing on the Crater of a Volcano”
+- Dan Bouk, House Arrest https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf - 1920s apportionment
+- Jessica Marie Johnson, “Markup Bodies”
 
 ## Schedule of Activities:
 
-### Day 2.1: Data Histories
+### {.tabs style=height:400px}
+
+#### Day 2
+.ve-media wc:Sunflower_sky_backdrop.jpg right
+This example adds the `right` positioning attribute to the `.ve-media` tag to position the media viewer on the right side of the page.  The width is set to 50% of the essay size and the height will be automatically calculated to preserve the aspect ratio of the source item.
+.1: Data Histories
 “Chapter 2: Collect, Analyze, Imagine, Teach” in Catherine D’Ignazio and Lauren Klein, Data Feminism (MIT Press, 2020)
 HOLC redlining activity for Denver: https://dsl.richmond.edu/panorama/redlining/#loc=12/39.71/-105.061&city=denver-co 
 
-### Day 2.2: Slavery and Data
+#### Day 2.2: Slavery and Data
 Jessica Marie Johnson, “Markup Bodies”
 Data Ethnography project overview and practice: https://cblevins.github.io/f21-data/in-class/transatlantic-slave-trade-database/ 
 Workshop: Tabular data and spreadsheet functions
 
-### Day 2.3: The US Census
+#### Day 2.3: The US Census
 Dan Bouk, readings https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf 
 Digitization and Optical Character Recognition (OCR)
 Chronicling America
 Transcription project
 
-### Day 2.4: Working with Census Data
+#### Day 2.4: Working with Census Data
 
 
 ## Workshop: Structuring datasets
@@ -56,9 +61,14 @@ Transcription project
 
 ### HOLC Redlining Maps
 
+.ve-media wc:Sunflower_sky_backdrop.jpg right
+This example adds the `right` positioning attribute to the `.ve-media` tag to position the media viewer on the right side of the page.  The width is set to 50% of the essay size and the height will be automatically calculated to preserve the aspect ratio of the source item.
+
 ### Chronicling America and OCR
 
 
+.ve-iframe https://ucdenver.edu right
+test lorum ipsum 
 
 ## Assessment
 
