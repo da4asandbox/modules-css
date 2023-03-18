@@ -1,4 +1,4 @@
-.ve-header Data 4 All background=#5B152E test=https://ucdenver.edu
+.ve-header Data4All background=#5B152E test=https://ucdenver.edu
     - CU Denver
 
 # Title
