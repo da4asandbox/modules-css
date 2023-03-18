@@ -1,10 +1,10 @@
 .ve-header "Data 4 All" wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg position=top sticky
     - [CU Denver](https://ucdenver.edu)
-    - [Module Overview](#TestModule)
+    - [Module Overview](#Test-Module)
 
 # Module 2: Historicizing Data
 
-## TestModule
+# Test Module
 
 ## Learning Outcomes
 Through this module, students will be able to:
