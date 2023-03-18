@@ -1,3 +1,6 @@
+.ve-header "Data Biography" position=top sticky
+    - [Module 2: Historicizing Data](/module-2/) 
+
 # Data Biography
 
 Your assignment is to write a "data biography" about a historical dataset that I have selected for you. First, read Heather Krause, ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) *Global Investigative Journalism Network* (March 27, 2017) to get a better sense for what a "data biography" is and why it is important.
