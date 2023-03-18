@@ -1,58 +1,69 @@
-.ve-header "Data 4 All" background=#5B152E
+.ve-header "Data 4 All" wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg position=top sticky
     - [CU Denver](https://ucdenver.edu)
+    - [Module Overview](#TestModule)
 
-# Title
+# Module 2: Historicizing Data
 
-Test text
+## TestModule
 
-# Markdown example
+## Learning Outcomes
+Through this module, students will be able to:
+Approach data as a historical artifact and archive
+Understand how data was collected, used, and misused within different historical contexts
+Analyze the origins of particular datasets: who, what, when, where, why, and how they were created
+Work with tabular data and spreadsheets
 
-## Markdown paragraphs
+Key Concepts
+Through this module, students will be able to define and consider the following concepts:
+Data as Archive
+Digitization and Optical Character Recognition (OCR)
+Data Biography
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu non. Lectus urna duis convallis convallis tellus id interdum. Mi bibendum neque egestas congue quisque egestas diam in. 
+Module Readings
+Through this module, students will engage with the following texts either in their entirety or in excerpts:
+“Chapter 2: Collect, Analyze, Imagine, Teach” in Catherine D’Ignazio and Lauren Klein, Data Feminism (MIT Press, 2020)
+Dan Bouk, “Standing on the Crater of a Volcano”
+Dan Bouk, House Arrest https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf - 1920s apportionment
+Jessica Marie Johnson, “Markup Bodies”
 
-Proin nibh nisl condimentum id. Donec massa sapien faucibus et molestie ac feugiat. Sit amet est placerat in egestas erat imperdiet sed euismod. Nunc aliquet bibendum enim facilisis. Metus aliquam eleifend mi in nulla posuere. Odio eu feugiat pretium nibh ipsum consequat nisl vel.
+Schedule of Activities:
 
-## Markdown lists
+Day 2.1: Data Histories
+“Chapter 2: Collect, Analyze, Imagine, Teach” in Catherine D’Ignazio and Lauren Klein, Data Feminism (MIT Press, 2020)
+HOLC redlining activity for Denver: https://dsl.richmond.edu/panorama/redlining/#loc=12/39.71/-105.061&city=denver-co 
 
-**An unordered list:**
-- First list item
-- Second list item
-- Third list item
+Day 2.2: Slavery and Data
+Jessica Marie Johnson, “Markup Bodies”
+Data Ethnography project overview and practice: https://cblevins.github.io/f21-data/in-class/transatlantic-slave-trade-database/ 
+Workshop: Tabular data and spreadsheet functions
 
-**An ordered list:**
-1. First list item
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[^1]
-
-[^1]: Lorem ipsum text obtained from [https://loremipsum.io/#generator](https://loremipsum.io/#generator)
-
-1. Second list item
-1. Third list item
-
-## A blockquote
-
-&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu non. Lectus urna duis convallis convallis tellus id interdum. Mi bibendum neque egestas congue quisque egestas diam in. 
-
-## Word and phrase formatting
-
-- This is **a bolded text**
-- This is _italicized text_
-- This is ***a bolded and italicized text***
-- This is a [link](https://some-url.net)
+Day 2.3: The US Census
+Dan Bouk, readings https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf 
+Digitization and Optical Character Recognition (OCR)
+Chronicling America
+Transcription project
 
 
+Day 2.4: Working with Census Data
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[^1]
 
-# Bedroom in Arles
+Workshop: Structuring datasets
 
-**Bedroom in Arles** (French: _La Chambre à Arles_; Dutch: _Slaapkamer te Arles_) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter ==Vincent van Gogh=={Q5582}.
 
-**Bedroom in Arles** (French: _La Chambre à Arles_; Dutch: _Slaapkamer te Arles_) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter ==Vincent van Gogh=={"test popover text"}.
+Activity Assignments: 
 
-test commit paragraph
+HOLC Redlining Maps
+
+Chronicling America and OCR
+
+
+
+Assessment: 
+
+Data Biography
+
 
 .ve-footer
-    - Data for all
+    - Data 4 All
     - [![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
     - [About](/about)
