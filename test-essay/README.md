@@ -1,4 +1,4 @@
-.ve-header Example background=#5B152E test=ucdenver.edu
+.ve-header Example background=#5B152E test=https://ucdenver.edu
     - CU Denver
 
 # Title
