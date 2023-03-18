@@ -1,12 +1,12 @@
 .ve-header "Data 4 All" wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg position=top sticky
     - [CU Denver](https://ucdenver.edu)
-    - [Module Overview](#Test-Module)
+    - [Module Overview](#learning-outcomes)
 
 # Module 2: Historicizing Data
 
 # Test Module
 
-## Learning Outcomes
+# Learning Outcomes
 Through this module, students will be able to:
 Approach data as a historical artifact and archive
 Understand how data was collected, used, and misused within different historical contexts
