@@ -62,6 +62,8 @@ Through this module, students will be able to define and consider the following 
 
 ### HOLC Redlining Maps
 
+.ve-iframe https://docs.google.com/presentation/d/e/2PACX-1vQNnfbXsl64HZlW3InBqGLe9fI6doLtZbnlvxlDDJqETa-4oLgaJA-r1R0tVGny71Cmr4n0XGd8d-r6/embed?start=true&loop=true&delayms=30000 frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+
 1.  Open this [1938 interactive map of Denver](https://dsl.richmond.edu/panorama/redlining/#loc=11/39.71/-105.117&city=denver-co ) produced by the ==Homeowner’s Loan Corporation (HOLC)=={Q3139614}
 2.  Spend a few minutes familiarizing yourself with the site and its interface. Try to get a handle on what kind of information is there and how to navigate the site. Bonus: try to find your school, home, church, favorite restaurant, etc.
 3.  Locate the four areas assigned to your group by zooming and “panning” around the map. 
