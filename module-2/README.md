@@ -89,6 +89,8 @@ Through this module, students will be able to define and consider the following 
 
 ### Data Biography
 
+[Linnk to Data Biography](/data-biography/)
+
 
 .ve-footer
     - Data 4 All
