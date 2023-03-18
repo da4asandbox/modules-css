@@ -65,7 +65,7 @@ Through this module, students will be able to define and consider the following 
 
 ### HOLC Redlining Maps
 
-1.  Open the 1938 interactive map of Denver produced by the ==Homeowner’s Loan Corporation (HOLC)=={Q3139614}: https://dsl.richmond.edu/panorama/redlining/#loc=11/39.71/-105.117&city=denver-co 
+1.  Open this [1938 interactive map of Denver](https://dsl.richmond.edu/panorama/redlining/#loc=11/39.71/-105.117&city=denver-co ) produced by the ==Homeowner’s Loan Corporation (HOLC)=={Q3139614}
 2.  Spend a few minutes familiarizing yourself with the site and its interface. Try to get a handle on what kind of information is there and how to navigate the site. Bonus: try to find your school, home, church, favorite restaurant, etc.
 3.  Locate the four areas assigned to your group by zooming and “panning” around the map. 
 
@@ -83,10 +83,6 @@ Through this module, students will be able to define and consider the following 
 .ve-iframe https://dsl.richmond.edu/panorama/redlining/#loc=12/39.71/-105.061&city=denver-co
 
 ### Chronicling America and OCR
- 
-
-.ve-iframe https://ucdenver.edu right
-test lorum ipsum 
 
 ## Assessment
 
