@@ -1,7 +1,9 @@
 .ve-header "Module 2: Historicizing Data" position=top sticky
     - [Data 4 All](https://data4all.com)
-    - [Module Overview](#overview)
+    - [Overview](#overview)
     - [Learning Outcomes](#outcomes) 
+    - [Key Concepts](#concepts)
+    - [Readings]
 
 # Module 2: Historicizing Data
 
@@ -27,7 +29,7 @@ Through this module, students will be able to define and consider the following 
 - Data Ethnography 
 - Tabular Data and Spreadsheets
 
-## Module Readings {#readings}
+## Readings {#readings}
 
 - Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
     - *This reading introduces students to some larger concepts related to data and data feminism*
@@ -70,7 +72,7 @@ Through this module, students will be able to define and consider the following 
 
 ## Activities {#activities}
 
->```We can either have these as stand-alone activities or have them embedded within a separate sub-page either for ex. Day 2.1 or even their own separate modules``
+>```We can either have these as stand-alone activities or have them embedded within a separate sub-page either for ex. Day 2.1 or even their own separate Juncutre sub-page``
 
 ### HOLC Redlining Maps
 
