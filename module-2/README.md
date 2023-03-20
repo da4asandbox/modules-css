@@ -20,17 +20,16 @@ Through this module, students will be able to:
 - Analyze the origins of particular datasets: who, what, when, where, why, and how they were created
 - Work with tabular data and spreadsheets
 
-## Key Concepts
+## Key Concepts {#concepts}
 
 Through this module, students will be able to define and consider the following concepts:
 
 - Data as Archive
 - The Historical Production of Data
-- Digitization and Optical Character Recognition
-- Data Biography
+- Data Ethnography 
 - Tabular Data and Spreadsheets
 
-## Module Readings
+## Module Readings {#readings}
 
 - Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
     - *This reading introduces students to some larger concepts related to data and data feminism*
@@ -39,39 +38,41 @@ Through this module, students will be able to define and consider the following 
 - Dan Bouk, [House Arrest](https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf)
 - Jessica Marie Johnson, [“Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads”](https://doi.org/10.1215/01642472-7145658) *Social Text* (2018) 36 (4 (137)): 57–79.
 
-## Schedule of Activities:
+## Schedule of Activities: {#schedule}
 
 >```A few different options for how to break up larger sections.``` 
 
->1. ```We could have sub-essays for each of the day's with full lesson plans:```
+>```Option: We could have sub-essays for each of the day's with full lesson plans:```
 
 #### [Day 2.1: Data Histories](/module-2/2-1/)
 #### Day 2.2: Slavery and Data
+#### Day 2.3: The US Census
+#### Day 2.4: Working with Census Data
 
->```Another options: example of how we could divide a section into different tabs within single Juncture essay```
+>```Option: example of how we could divide a section into different tabs within single Juncture essay```
 
 ### {.tabs style=height:400px}
 
 #### Day 2.1: Data Histories
 - “Chapter 2: Collect, Analyze, Imagine, Teach” in Catherine D’Ignazio and Lauren Klein, Data Feminism (MIT Press, 2020)
-.ve-iframe https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4
+- Activity: HOLC Redlining Maps
 
 #### Day 2.2: Slavery and Data
 - Jessica Marie Johnson, “Markup Bodies”
-- Data Ethnography project overview and practice: https://cblevins.github.io/f21-data/in-class/transatlantic-slave-trade-database/ 
-- Workshop: Tabular data and spreadsheet functions
+- Data Biography assignment overview and practice (modeled after https://cblevins.github.io/f21-data/in-class/transatlantic-slave-trade-database/)
+- Activity: Tabular data
 
 #### Day 2.3: The US Census
-- Dan Bouk, readings https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf 
-- Digitization and Optical Character Recognition (OCR)
-- Chronicling America
-- Transcription project
+- Dan Bouk, Census Stories
+- Activity: Transcription
 
 #### Day 2.4: Working with Census Data
+- Dan Bouk: https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf 
+- Activity: Spreadsheet Functions
 
+## Activities {#activities}
 
-
-## Activities
+>```We can either have these as stand-alone activities or have them embedded within a separate sub-page either for ex. Day 2.1 or even their own separate modules``
 
 ### HOLC Redlining Maps
 
@@ -96,7 +97,7 @@ Through this module, students will be able to define and consider the following 
 
 ### Chronicling America and OCR
 
-### Workshop: Tabular Data and Spreadsheets
+### Activity: Tabular Data and Spreadsheets
 
 ## Assessment
 
