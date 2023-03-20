@@ -41,6 +41,15 @@ Through this module, students will be able to define and consider the following 
 
 ## Schedule of Activities:
 
+>```A few different options for how to break up larger sections.``` 
+
+>1. ```We could have sub-essays for each of the day's with full lesson plans:```
+
+#### [Day 2.1: Data Histories](/module-2/2.1/)
+#### Day 2.2: Slavery and Data
+
+>```Another options: example of how we could divide a section into different tabs within single Juncture essay```
+
 ### {.tabs style=height:400px}
 
 #### Day 2.1: Data Histories
@@ -59,6 +68,8 @@ Through this module, students will be able to define and consider the following 
 - Transcription project
 
 #### Day 2.4: Working with Census Data
+
+
 
 ## Activities
 
