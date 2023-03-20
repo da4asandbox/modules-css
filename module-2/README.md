@@ -1,17 +1,17 @@
 .ve-header "Module 2: Historicizing Data" position=top sticky
     - [Data 4 All](https://data4all.com)
-    - [Module Overview](#module-overview)
-    - [Learning Outcomes](#learning-outcomes) 
+    - [Module Overview](#overview)
+    - [Learning Outcomes](#outcomes) 
 
 # Module 2: Historicizing Data
 
-[Learning Outcomes](#learning-outcomes)
+[Learning Outcomes](#outcomes) 
 
-## Module Overview
+## Module Overview {#overview}
 
 This module teaches students about the historical dimensions of data: both the historical process and context within which datasets are produced, and how data has been used and misused at different points in history.
 
-## Learning Outcomes
+## Learning Outcomes {#outcomes}
 
 Through this module, students will be able to:
 
