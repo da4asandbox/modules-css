@@ -35,8 +35,6 @@ Through this module, students will be able to define and consider the following 
 ## Readings {#readings}
 
 - Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
-    - *This reading introduces students to some larger concepts related to data and data feminism*
-    - "From data ethics to data justice"
 - Dan Bouk, [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html)
 - Dan Bouk, [House Arrest](https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf)
 - Jessica Marie Johnson, [“Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads”](https://doi.org/10.1215/01642472-7145658) *Social Text* (2018) 36 (4 (137)): 57–79.
