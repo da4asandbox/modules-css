@@ -6,6 +6,7 @@
     - [Readings](#readings)
     - [Schedule](#schedule)
     - [Activities](#activities)
+    - [Assessment](#assessment)
 
 # Module 2: Historicizing Data
 
@@ -101,7 +102,7 @@ Through this module, students will be able to define and consider the following 
 
 ### Tabular Data and Spreadsheets
 
-## Assessment
+## Assessment {#activities}
 
 ### [Data Biography](/module-2/data-biography/)
 
