@@ -3,7 +3,9 @@
     - [Overview](#overview)
     - [Learning Outcomes](#outcomes) 
     - [Key Concepts](#concepts)
-    - [Readings]
+    - [Readings](#readings)
+    - [Schedule](#schedule)
+    - [Activities](#activities)
 
 # Module 2: Historicizing Data
 
@@ -72,7 +74,7 @@ Through this module, students will be able to define and consider the following 
 
 ## Activities {#activities}
 
->```We can either have these as stand-alone activities or have them embedded within a separate sub-page either for ex. Day 2.1 or even their own separate Juncutre sub-page``
+>```Question for group: do we want these as stand-alone activities on a main page or have them embedded within a separate sub-page ex. Day 2.1 or even their own separate Juncture sub-page``
 
 ### HOLC Redlining Maps
 
@@ -97,16 +99,16 @@ Through this module, students will be able to define and consider the following 
 
 ### Chronicling America and OCR
 
-### Activity: Tabular Data and Spreadsheets
+### Tabular Data and Spreadsheets
 
 ## Assessment
 
-### Data Biography
+### [Data Biography](/module-2/data-biography/)
 
 [Link to full assignment description](/module-2/data-biography/)
 
 
 .ve-footer
-    - Data 4 All
-    - [![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-    - [About](/about)
+    - [Previous Modeul: Module 1](/module-1/)
+    - [Data 4 All icon](somelink)
+    - [Next Module: Module 3](/module-3/)
