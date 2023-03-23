@@ -46,7 +46,7 @@ Through this module, students will be able to define and consider the following 
 >```Option: We could have sub-essays for each of the day's with full lesson plans:```
 
 #### [Day 2.1: Data Histories](/module-2/2-1/)
-#### Day 2.2: Slavery and Data
+#### [Day 2.2: Slavery and Data](/module-2/2-2/)
 #### Day 2.3: The US Census
 #### Day 2.4: Working with Census Data
 
