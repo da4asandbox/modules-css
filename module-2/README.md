@@ -28,12 +28,13 @@ Through this module, students will be able to:
 Through this module, students will be able to define and consider the following concepts:
 
 **Data as Archive**
-> All datasets have a history. In this module, students will learn to approach data as a historical artificat more akin to an archival source rather than simply a piece of quantitative, objective information. 
+> Students will learn to approach data as historical artificats. Rather than seeing data as purely a source of quantitative information, this module approaches data as archival documents with their own cultural, political, and social histories.
 
-**Data Ethnography**
-> All datasets were actively produced.
+**Data Biography**
+> All datasets are actively created. Rather than seeing data as objective reflections of the world, this module teaches students how to analyze the creators and contexts of datasets: the historical who, when, where, how, and why of a dataset's creation.
 
-**Tabular Data Structures and Functions**
+**Tabular Data**
+> Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data.
 
 ## Readings {#readings}
 
