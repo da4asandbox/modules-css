@@ -60,17 +60,17 @@ Further Reading:
 - [Day 2.3: The US Census](/module-2/2-3/)
 - [Day 2.4: Working with Data](/module-2/2-4/)
 
-### {.tabs style=height:400px}
+### {.tabs style=height:300px}
 
 #### Day 2.1: Data Histories
 
-This class provides an introduction to the idea that all data has a history while going over some of the larger concepts, assignments, and goals of this module.
+This class provides an introduction to the idea that all data has a history while going over some of the larger concepts, assignments, and goals of this module. It revolves around a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19. 
 
 [Link to full lesson plan.](/module-2/2-1/)
 
 #### Day 2.2: Slavery and Data
 
-This class examines one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.
+This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.
 
 - Data Biography practice: modified version of: https://cblevins.github.io/f21-data/in-class/transatlantic-slave-trade-database/)
 - Activity: Exploring tabular data (common file formats, structuring, filtering, sorting).
