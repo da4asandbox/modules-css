@@ -39,7 +39,7 @@ Through this module, students will be able to define and consider the following 
 ## Readings {#readings}
 
 - Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
-- Dan Bouk, [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html)
+- Dan Bouk, [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html) and ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html), *Census Stories, USA*
 - Dan Bouk, [House Arrest](https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf)
 - Jessica Marie Johnson, [“Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads”](https://doi.org/10.1215/01642472-7145658) *Social Text* (2018) 36 (4 (137)): 57–79.
 
@@ -52,8 +52,6 @@ Through this module, students will be able to define and consider the following 
 #### [Day 2.3: The US Census](/module-2/2-3/)
 #### [Day 2.4: Working with Census Data](/module-2/2-4/)
 
->```Option: example of how we could divide a section into different tabs within single Juncture essay```
-
 ### {.tabs style=height:400px}
 
 #### Day 2.1: Data Histories
@@ -61,7 +59,7 @@ Through this module, students will be able to define and consider the following 
 - Activity: HOLC Redlining Maps
 
 #### Day 2.2: Slavery and Data
-- Jessica Marie Johnson, “Markup Bodies”
+- Jessica Marie Johnson, “Markup Bodies” OR 
 - Data Biography assignment overview and practice (modeled after https://cblevins.github.io/f21-data/in-class/transatlantic-slave-trade-database/)
 - Activity: Tabular data
 
@@ -69,7 +67,7 @@ Through this module, students will be able to define and consider the following 
 - Dan Bouk, Census Stories
 - Activity: Transcription
 
-#### Day 2.4: Working with Census Data
+#### Day 2.4: Working with Data
 - Dan Bouk: https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf 
 - Activity: Spreadsheet Functions
 
