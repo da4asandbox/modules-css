@@ -47,8 +47,7 @@ Through this module, students will be able to define and consider the following 
     - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
 - ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
  
-**Further Reading: **
-- Jessica Marie Johnson, [“Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads”](https://doi.org/10.1215/01642472-7145658) *Social Text* (2018) 36 (4 (137)): 57–79.
+
 - Dan Bouk, [House Arrest](https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf)
 
 ## Schedule: {#schedule}
