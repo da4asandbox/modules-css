@@ -46,9 +46,6 @@ Through this module, students will be able to define and consider the following 
     - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
     - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
 - ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
- 
-
-- Dan Bouk, [House Arrest](https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf)
 
 ## Schedule: {#schedule}
 
@@ -63,27 +60,29 @@ Through this module, students will be able to define and consider the following 
 
 #### Day 2.1: Data Histories
 
-This class provides an introduction to the idea that all data has a history while going over some of the larger concepts, assignments, and goals of this module. It revolves around a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19. 
-
 [Link to full lesson plan.](/module-2/2-1/)
 
 #### Day 2.2: Slavery and Data
 
 This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.
 
+[Link to full lesson plan.](/module-2/2-2/)
+
 #### Day 2.3: The US Census
 
-This class 
-- Activity: Transcription
+This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. 
+
+[Link to full lesson plan.](/module-2/2-3/)
 
 #### Day 2.4: Working with Data
 
-- Activity: Spreadsheet Functions
-- HOLC
+This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19. 
+
+[Link to full lesson plan.](/module-2/2-4/)
 
 ## Activities {#activities}
 
->`CB: I think we should get rid of the Activities section on module overview page and just have ACtivities listed under each lesson plan for a class`
+>`CB: I think we should get rid of the Activities section on module overview page and just have Activities listed under each lesson plan for a class`
 
 ## Assessment {#assessment}
 
