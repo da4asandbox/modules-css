@@ -53,7 +53,7 @@ Further Reading:
 
 ## Schedule: {#schedule}
 
->```We might think about different URL / subfolder conventions. Ex. /historicizing-data/ is the main folder and overview page for the module, then we could have /historicizing-data/day-1/ as the URL to lesson plan for Day 2.1```
+>`CB:We might think about different URL / subfolder conventions. Ex. /historicizing-data/ is the main folder and overview page for the module, then we could have /historicizing-data/day-1/ as the URL to lesson plan for Day 2.1`
 
 - [Day 2.1: Data Histories](/module-2/2-1/)
 - [Day 2.2: Slavery and Data](/module-2/2-2/)
@@ -87,7 +87,7 @@ This class
 
 ## Activities {#activities}
 
->```Note: I think we should get rid of the Activities section on module overview page and just have ACtivities listed under each lesson plan for a class```
+>```CB: I think we should get rid of the Activities section on module overview page and just have ACtivities listed under each lesson plan for a class```
 
 ## Assessment {#assessment}
 
