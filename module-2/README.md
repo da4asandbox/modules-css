@@ -49,7 +49,7 @@ Through this module, students will be able to define and consider the following 
 
 ## Schedule: {#schedule}
 
->`CB:We might think about different URL / subfolder conventions. Ex. /historicizing-data/ is the main folder and overview page for the module, then we could have /historicizing-data/day-1/ as the URL to lesson plan for Day 2.1`
+>`CB: I'm providing two options for how we might want to offer an overview of each lesson plan - either as a list of links or using Juncutre's tab version. Also, we might think about different URL / subfolder conventions. Ex. /historicizing-data/ is the main folder and overview page for the module, then we could have /historicizing-data/day-1/ as the URL to lesson plan for Day 2.1`
 
 - [Day 2.1: Data Histories](/module-2/2-1/)
 - [Day 2.2: Slavery and Data](/module-2/2-2/)
@@ -59,6 +59,8 @@ Through this module, students will be able to define and consider the following 
 ### {.tabs style=height:300px}
 
 #### Day 2.1: Data Histories
+
+This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production. 
 
 [Link to full lesson plan.](/module-2/2-1/)
 
