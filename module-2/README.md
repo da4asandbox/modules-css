@@ -8,8 +8,6 @@
     - [Activities](#activities)
     - [Assessment](#assessment)
 
-CAMERON TEST CHANGE COMMIT ON GITHUB
-
 # Module 2: Historicizing Data
 
 ## Overview {#overview}
