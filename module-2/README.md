@@ -9,7 +9,7 @@
     #juncture .contents li, #readings li { margin: 0; }
 </style>
 
-.ve-header pretitle="Historicizing Data" "Module 2:" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg subtitle="Historicizing Data"
+.ve-header subtitle="Module 2" "Module 2:" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg subtitle="Historicizing Data"
     - [Data 4 All](https://data4all.com)
     - [Overview](#overview)
     - [Learning Outcomes](#outcomes) 
