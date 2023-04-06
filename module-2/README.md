@@ -45,7 +45,6 @@
 - 2.5 [Schedule of Activities](#activities)
 - 2.6 [Activity Assignments](#assignments)
 - 2.7 [Assessment](#assessment)
-- 1.8 [Bibliography](#bibliography)
 
 # Overview {#overview}
 
@@ -143,8 +142,6 @@ Note that, like most historical datasets, answering some of these questions will
 [^1]: Heather Krause provides a working definition of "data biography" in ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) *Global Investigative Journalism Network* (March 27, 2017).
 
 >`CB: Alternatively we could have a short one-sentence summary of the assignment on the overview page and then have something like: [Link to full assignment description](/module-2/data-biography/) with a separate page for the assignment itself.`
-
-# Bibliography
 
 .ve-footer
     - [Previous Module: Module 1](/module-1/)
