@@ -10,7 +10,8 @@
 </style>
 
 .ve-header "Module 2: Historicizing Data" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg
-    - [Data Advocacy 4 All](https://data4all.com)
+    - [Homepage](https://data4all.com)
+    - [All Modules] (https://data4all.com/modules)
     - [Overview](#overview)
     - [Learning Outcomes](#outcomes) 
     - [Key Concepts](#concepts)
@@ -18,7 +19,6 @@
     - [Schedule](#schedule)
     - [Activities](#activities)
     - [Assessment](#assessment)
-    font-size=30px
 
 # Overview {#overview}
 
