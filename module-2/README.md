@@ -4,7 +4,7 @@
     #juncture { font-family: Montserrat; font-size: 20px; }
     #juncture h1 { font-size: 32px; color: #BF0A31; }
     #juncture h2 { font-size: 28px; }
-    #overview.section1 { background-color: #eee; margin-top: 600000px; }
+    #overview.section1 { background-color: #eee; margin-top: 60px; }
     #concepts ul { columns: 3; -webkit-columns: 3; -moz-columns: 3; }
     #juncture .contents li, #readings li { margin: 0; }
 </style>
