@@ -2,9 +2,10 @@
 
 <style>
     #juncture { font-family: Montserrat; font-size: 20px; }
-    #juncture h1 { font-size: 32px; color: #BF0A31; }
+    #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 1000; }
     #juncture h2 { font-size: 28px; }
-    #overview.section1 { background-color: #eee; margin-top: 0px 0; padding 1000px}
+    #overview.section1 { background-color: #eee; margin-top: 0px 0; padding-top: 30px; padding-left: 30px; padding-right: 30px; padding-bottom: 20px}
+    #outcomes.section1 { padding-top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 10px}
     #concepts ul { columns: 3; -webkit-columns: 3; -moz-columns: 3; }
     #juncture .contents li, #readings li { margin: 0; }
 </style>
