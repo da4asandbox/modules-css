@@ -2,13 +2,27 @@
 
 <style>
     #juncture { font-family: Montserrat; font-size: 20px; }
+    
     #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 600; }
+    
     #juncture h2 { font-size: 28px; }
+    
     #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px; }
+    
     #outcomes.section1 { padding-top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    
     #concepts { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
-    #concepts ul { columns: 3; -webkit-columns: 3; -moz-columns: 3; }
-    #juncture .contents li, #readings li { margin: 0; }
+    
+     #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    
+    #schedule.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    
+    #activities.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    
+    #accessment { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    
+    #juncture.contents li, #readings li { margin: 1000; }
+    
 </style>
 
 .ve-header "Module 2: Historicizing Data" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg
@@ -112,11 +126,12 @@ Your assignment is to write a "data biography" about a historical dataset.[^1] T
 - **How** is it stored today? How did you access it?
 - **Potential problems** with the data - are there any limitations, biases, missing data or gaps, or ethical considerations to consider when using this data?
 
+<br>
 Note that, like most historical datasets, answering some of these questions will require you to think about the multiple stages through which this information has passed to get to its current state as machine-readable data. So "Who collected it?" needs to include both the original historical actors who created the information along with the subsequent people who ultimately made it available for you.
 
 [^1]: Heather Krause provides a working definition of "data biography" in ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) *Global Investigative Journalism Network* (March 27, 2017).
 
->`CB: Alternatively we could have a short one-sentence summary of the assignment on the overview page and then have something like: [Link to full assignment description](/module-2/data-biography/) with a separate page for the assignment itself.
+>`CB: Alternatively we could have a short one-sentence summary of the assignment on the overview page and then have something like: [Link to full assignment description](/module-2/data-biography/) with a separate page for the assignment itself.`
 
 .ve-footer
     - [Previous Modeul: Module 1](/module-1/)
