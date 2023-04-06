@@ -71,17 +71,6 @@ Through this module, students will be able to define and consider the following 
 **Tabular Data**
 > Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data.
 
-# Readings {#readings}
-
-- Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
-- Daina Ramey Berry, *The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave* (2016), pp. 1-9, 33-57.
-    - Alternative: ["Episode 176: Daina Ramey Berry, The Value of the Enslaved from Womb to Grave"](https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/), *Ben Franklin's World Podcast* (March 6, 2018).
-- Dan Bouk, *Census Stories, USA*: 
-    - [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html)
-    - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
-    - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
-- ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
-
 # Schedule: {#schedule}
 
 ### {.tabs style=height:300px}
@@ -117,6 +106,18 @@ This class brings the concept of "historicizing data" into the present by examin
 In this assignment, students analyze how a historical dataset was created: the who, what, when, how, and why of the dataset and its production.
 
 [Link to full assignment description](/module-2/data-biography/)
+
+# Bibliography {#readings}
+
+- Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
+- Daina Ramey Berry, *The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave* (2016), pp. 1-9, 33-57.
+    - Alternative: ["Episode 176: Daina Ramey Berry, The Value of the Enslaved from Womb to Grave"](https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/), *Ben Franklin's World Podcast* (March 6, 2018).
+- Dan Bouk, *Census Stories, USA*: 
+    - [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html)
+    - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
+    - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
+- ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
+
 
 .ve-footer
     - [Previous Module: Module 1](/module-1/)
