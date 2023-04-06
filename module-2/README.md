@@ -4,8 +4,9 @@
     #juncture { font-family: Montserrat; font-size: 20px; }
     #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 600; }
     #juncture h2 { font-size: 28px; }
-    #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px}
-    #outcomes.section1 { padding-top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 10px}
+    #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px; }
+    #outcomes.section1 { padding-top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    #concepts.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     #concepts ul { columns: 3; -webkit-columns: 3; -moz-columns: 3; }
     #juncture .contents li, #readings li { margin: 0; }
 </style>
