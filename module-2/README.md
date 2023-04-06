@@ -40,13 +40,13 @@
 
 # Contents
 
-- 2.1 [Module Overview](#overview)
-- 2.2 [Learning Outcomes](#outcomes)
-- 2.3 [Key Concepts](#concepts)
-- 2.4 [Module Readings](#readings)
-- 2.5 [Schedule of Activities](#activities)
-- 2.6 [Activity Assignments](#assignments)
-- 2.7 [Assessment](#assessment)
+2.1 [Module Overview](#overview)
+2.2 [Learning Outcomes](#outcomes)
+2.3 [Key Concepts](#concepts)
+2.4 [Module Readings](#readings)
+2.5 [Schedule of Activities](#activities)
+2.6 [Activity Assignments](#assignments)
+2.7 [Assessment](#assessment)
 
 # Overview {#overview}
 
