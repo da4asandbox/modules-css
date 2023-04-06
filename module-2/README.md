@@ -36,6 +36,17 @@
     - [2.6 Activities](#activities)
     - [2.7 Assessment](#assessment)
 
+# Contents
+
+- 2.1 [Module Overview](#overview)
+- 2.2 [Learning Outcomes](#outcomes)
+- 2.3 [Key Concepts](#concepts)
+- 2.4 [Module Readings](#readings)
+- 2.5 [Schedule of Activities](#activities)
+- 2.6 [Activity Assignments](#assignments)
+- 2.7 [Assessment](#assessment)
+- 1.8 [Bibliography](#bibliography)
+
 # Overview {#overview}
 
 This module teaches students about the historical dimensions of data: both the historical process and context within which datasets are produced, and how data has been used and misused at different points in history.
@@ -133,7 +144,9 @@ Note that, like most historical datasets, answering some of these questions will
 
 >`CB: Alternatively we could have a short one-sentence summary of the assignment on the overview page and then have something like: [Link to full assignment description](/module-2/data-biography/) with a separate page for the assignment itself.`
 
+# Bibliography
+
 .ve-footer
-    - [Previous Modeul: Module 1](/module-1/)
+    - [Previous Module: Module 1](/module-1/)
     - [Data 4 All icon](https://maindata4allhomepage)
     - [Next Module: Module 3](/module-3/)
