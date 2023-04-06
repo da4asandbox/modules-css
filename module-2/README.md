@@ -8,7 +8,7 @@
     #juncture .contents li, #readings li { margin: 0; }
 </style>
 
-.ve-header "Module 2: Historicizing Data" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg font-family=Monsterrat font-size=100
+.ve-header "Module 2: Historicizing Data" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg font-family=Roboto 
     - [Data 4 All](https://data4all.com)
     - [Overview](#overview)
     - [Learning Outcomes](#outcomes) 
