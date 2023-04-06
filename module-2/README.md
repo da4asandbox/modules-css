@@ -116,6 +116,8 @@ This class brings the concept of "historicizing data" into the present by examin
 
 In this assignment, students analyze how a historical dataset was created: the who, what, when, how, and why of the dataset and its production.
 
+[Link to full assignment description](/module-2/data-biography/)
+
 .ve-footer
     - [Previous Module: Module 1](/module-1/)
     - [Data 4 All icon](https://maindata4allhomepage)
