@@ -9,8 +9,6 @@
     
     #contents.section1 { padding-top: 7px; padding-left: 30px; }
     
-   #tbc { columns: 2; -webkit-columns: 2; -moz-columns: 2; }
-    
     #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px; }
     
     #outcomes.section1 { padding-top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
@@ -47,7 +45,7 @@
 2.4 [Module Readings](#readings)
 2.5 [Schedule of Activities](#activities)
 2.6 [Activity Assignments](#assignments)
-2.7 [Assessment](#assessment){#tbc}
+2.7 [Assessment](#assessment)
 
 # Overview {#overview}
 
