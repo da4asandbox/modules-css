@@ -1,8 +1,8 @@
 .ve-style https://fonts.googleapis.com/css?family=Montserrat
 
 <style>
-    #juncture { font-family: Montserrat; font-size: 19px; }
-    #juncture h1 { font-size: 33px; color: #BF0A31; }
+    #juncture { font-family: Montserrat; font-size: 20px; }
+    #juncture h1 { font-size: 32px; color: #BF0A31; }
     #juncture h2 { font-size: 28px; }
     #overview.section1 { background-color: #eee; margin: 6px 0; }
     #concepts ul { columns: 3; -webkit-columns: 3; -moz-columns: 3; }
