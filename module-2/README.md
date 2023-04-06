@@ -9,7 +9,7 @@
     
     #contents.section1 { padding-top: 7px; padding-left: 30px; }
     
-        #contents.section2 { columns: 2; -webkit-columns: 2; -moz-columns: 2; }
+   #tbc { columns: 2; -webkit-columns: 2; -moz-columns: 2; }
     
     #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px; }
     
@@ -41,14 +41,13 @@
     - [2.7 Assessment](#assessment)
 
 # Contents {#contents}
-
 2.1 [Module Overview](#overview)
 2.2 [Learning Outcomes](#outcomes)
 2.3 [Key Concepts](#concepts)
 2.4 [Module Readings](#readings)
 2.5 [Schedule of Activities](#activities)
 2.6 [Activity Assignments](#assignments)
-2.7 [Assessment](#assessment)
+2.7 [Assessment](#assessment){#tbc}
 
 # Overview {#overview}
 
