@@ -7,6 +7,8 @@
     
     #juncture h2 { font-size: 28px; }
     
+    #content { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    
     #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px; }
     
     #outcomes.section1 { padding-top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
