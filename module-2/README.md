@@ -11,7 +11,7 @@
 
 .ve-header "Module 2: Historicizing Data" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg
     - [Homepage](https://data4all.com)
-    - [All Modules] (https://data4all.com/modules)
+    - [All Modules](https://data4all.com/modules)
     - [2.1 Overview](#overview)
     - [2.2 Learning Outcomes](#outcomes) 
     - [2.3 Key Concepts](#concepts)
