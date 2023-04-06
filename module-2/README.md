@@ -1,3 +1,5 @@
+.ve-style ./custom.css
+
 .ve-header "Module 2: Historicizing Data" position=top sticky
     - [Data 4 All](https://data4all.com)
     - [Overview](#overview)
