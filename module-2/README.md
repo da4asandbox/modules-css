@@ -1,3 +1,13 @@
+.ve-style https://fonts.googleapis.com/css?family=Montserrat
+
+<style>
+    #juncture { font-family: Montserrat; }
+    #juncture h1 { color: #BF0A31; }
+    #overview.section1 { background-color: #eee; margin: 6px 0; }
+    #concepts ul { columns: 3; -webkit-columns: 3; -moz-columns: 3; }
+    #juncture .contents li, #readings li { margin: 0; }
+</style>
+
 .ve-header "Module 2: Historicizing Data" position=top sticky
     - [Data 4 All](https://data4all.com)
     - [Overview](#overview)
