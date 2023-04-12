@@ -74,6 +74,7 @@ Through this module, students will be able to define and consider the following 
 # Schedule: {#schedule}
 
 <details>
+    
   <summary>Day One</summary>
   
   ### 2.1: Data Histories
@@ -81,14 +82,6 @@ Through this module, students will be able to define and consider the following 
   This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production. 
   
   </details>
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
 
 ### {.tabs style=height:300px}
 
