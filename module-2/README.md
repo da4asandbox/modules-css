@@ -118,6 +118,7 @@ In this assignment, students analyze how a historical dataset was created: the w
     - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
 - ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
 
+<br>
 <details>
     
     <summary>2.1: Data Histories</summary>
