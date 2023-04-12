@@ -77,7 +77,7 @@ Through this module, students will be able to define and consider the following 
     
   <summary>Day One</summary>
   
-  ### 2.1: Data Histories
+    ## 2.1: Data Histories
   
   This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production. 
   
