@@ -24,7 +24,7 @@
     
         #schedule2.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px;  font-size: 8px; }
     
-    #assignments.section1 { padding-top: 9px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    #assignments.section1 { padding-top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
     #accessment { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
