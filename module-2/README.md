@@ -34,7 +34,7 @@
     
 </style>
 
-.ve-header "Module 2: Historicizing Data" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg
+.ve-header "Module 2: Historicizing Data" position=top sticky background=gh:da4asandbox/cameronessay-organization/media/Module2Header.jpg
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
     - [Module 2 Overview](#overview)
