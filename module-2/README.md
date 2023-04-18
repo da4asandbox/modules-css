@@ -10,6 +10,8 @@
     
     #juncture h2 { font-size: 28px; }
     
+    #juncture h4 { text-align: center; }
+    
     ul li { padding: 3px 0px; }
     
     #contents.section1 { padding-top: 15px; padding-left: 35px; padding-right: 35px; }
@@ -128,7 +130,7 @@ This class brings the concept of "historicizing data" into the present by examin
 
 <center><sl-button href="/module-2/2-2/" target="_blank" size=medium pill>View the full "Day 2.2" lesson plan</sl-button></center>
 
-#### <center> The U.S. Census</center> {href=/module-2/2-3/}
+#### The U.S. Census {href=/module-2/2-3/}
 
 ![](https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80)
 
