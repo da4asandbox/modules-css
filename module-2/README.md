@@ -121,7 +121,7 @@ This class brings the concept of "historicizing data" into the present by examin
 This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.
 <br><br>[**View the full "Day 2.2" lesson plan.**](/module-2/2-2/)
 
-#### The U.S. Census {href=#}
+#### The U.S. Census {href=/module-2/2-3/}
 
 ![](https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80)
 
