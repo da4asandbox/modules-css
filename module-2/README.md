@@ -2,7 +2,7 @@
     
     @import url('https://fonts.googleapis.com/css?family=Montserrat');
     
-    import '@shoelace-style/shoelace/dist/components/tab-group/tab-group.js';
+    @import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/tab-group/tab-group.js';
     
     #juncture { font-family: Montserrat; font-size: 20px; }
     
