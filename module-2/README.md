@@ -144,6 +144,10 @@ In this assignment, students analyze how a historical dataset was created: the w
 
 [Link to full assignment description](/module-2/data-biography/)
 
+@import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/button/button.js';
+
+<sl-button href="/module-2/data-biography/" target="_blank">Link to full assignment description</sl-button>
+
 # Bibliography {#readings}
 
 - Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
