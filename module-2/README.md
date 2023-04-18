@@ -106,15 +106,13 @@ This class brings the concept of "historicizing data" into the present by examin
 # Shoelace
 
 <sl-tab-group placement="start">
-  <sl-tab slot="nav" panel="general">General</sl-tab>
-  <sl-tab slot="nav" panel="custom">Custom</sl-tab>
-  <sl-tab slot="nav" panel="advanced">Advanced</sl-tab>
-  <sl-tab slot="nav" panel="disabled" disabled>Disabled</sl-tab>
+  <sl-tab slot="nav" panel="general2">General</sl-tab>
+  <sl-tab slot="nav" panel="custom3">Custom</sl-tab>
+  <sl-tab slot="nav" panel="advanced4">Advanced</sl-tab>
 
-  <sl-tab-panel name="general">This is the general tab panel.</sl-tab-panel>
-  <sl-tab-panel name="custom">This is the custom tab panel.</sl-tab-panel>
-  <sl-tab-panel name="advanced">This is the advanced tab panel.</sl-tab-panel>
-  <sl-tab-panel name="disabled">This is a disabled tab panel.</sl-tab-panel>
+  <sl-tab-panel name="general2">This is the general tab panel.</sl-tab-panel>
+  <sl-tab-panel name="custom3">This is the custom tab panel.</sl-tab-panel>
+  <sl-tab-panel name="advanced4">This is the advanced tab panel.</sl-tab-panel>
 </sl-tab-group>
     
 # Assignments {#assignments}
