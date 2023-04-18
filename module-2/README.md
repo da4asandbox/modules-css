@@ -117,7 +117,7 @@ This class brings the concept of "historicizing data" into the present by examin
 <small>This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production.
 <br><br></small>
 
-<center><sl-button href="/module-2/2-4/" target="_blank" size=small pill>View the full "Day 2.4" lesson plan</sl-button></center>
+<center><sl-button href="/module-2/2-4/" target="_blank" size=medium pill>View the full "Day 2.4" lesson plan</sl-button></center>
 
 #### Slavery and Data {href=/module-2/2-2/}
 
