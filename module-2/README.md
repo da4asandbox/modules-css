@@ -22,13 +22,13 @@
     
     #concepts { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 0px; }
     
-     #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
-    
     #schedule.section1 { padding-top: 0px; padding-left: 15px; padding-right: 15px; padding-bottom: 15px; }
     
     #assignments.section1 { padding-top: 25px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
     #accessment { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    
+    #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
 </style>
 
