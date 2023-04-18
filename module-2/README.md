@@ -107,6 +107,8 @@ This class brings the concept of "historicizing data" into the present by examin
 
 # Shoelace
 
+npm run create sl-tag-name
+
 <sl-tab-group placement="start">
   <sl-tab slot="nav" panel="general">General</sl-tab>
   <sl-tab slot="nav" panel="custom">Custom</sl-tab>
