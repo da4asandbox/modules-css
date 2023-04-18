@@ -81,34 +81,6 @@ Through this module, students will be able to define and consider the following 
 **Tabular Data**
 > Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data.
 
-# Schedule: {#schedule}
-
-### {.tabs style=height:275px}
-
-#### Day 2.1: Data Histories
-
-This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production. 
-
-[Link to full lesson plan.](/module-2/2-1/)
-
-#### Day 2.2: Slavery and Data
-
-This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.
-
-[Link to full lesson plan.](/module-2/2-2/)
-
-#### Day 2.3: The US Census
-
-This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. 
-
-[Link to full lesson plan.](/module-2/2-3/)
-
-#### Day 2.4: Working with Data
-
-This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19. 
-
-[Link to full lesson plan.](/module-2/2-4/)
-
 # Schedule 2.0 {.cards}
 
 #### {#schedule}
