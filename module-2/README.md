@@ -118,30 +118,8 @@ This class brings the concept of "historicizing data" into the present by examin
   <sl-tab-panel name="advanced">This is the advanced tab panel.</sl-tab-panel>
   <sl-tab-panel name="disabled">This is a disabled tab panel.</sl-tab-panel>
 </sl-tab-group>
-
-@import { SlTab, SlTabGroup, SlTabPanel } from '@shoelace-style/shoelace/dist/react';
-
-const App = () => (
-  <SlTabGroup placement="start">
-    <SlTab slot="nav" panel="general">
-      General
-    </SlTab>
-    <SlTab slot="nav" panel="custom">
-      Custom
-    </SlTab>
-    <SlTab slot="nav" panel="advanced">
-      Advanced
-    </SlTab>
-    <SlTab slot="nav" panel="disabled" disabled>
-      Disabled
-    </SlTab>
-
-    <SlTabPanel name="general">This is the general tab panel.</SlTabPanel>
-    <SlTabPanel name="custom">This is the custom tab panel.</SlTabPanel>
-    <SlTabPanel name="advanced">This is the advanced tab panel.</SlTabPanel>
-    <SlTabPanel name="disabled">This is a disabled tab panel.</SlTabPanel>
-  </SlTabGroup>
-);
+    
+    [component-metadata:sl-tab-group]
     
 # Assignments {#assignments}
 
