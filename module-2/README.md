@@ -2,6 +2,8 @@
     
     @import url('https://fonts.googleapis.com/css?family=Montserrat');
     
+    @import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/button/button.js';
+    
     #juncture { font-family: Montserrat; font-size: 20px; -hyphens: none; }
     
     #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 600; }
@@ -143,8 +145,6 @@ This class brings the concept of "historicizing data" into the present by examin
 In this assignment, students analyze how a historical dataset was created: the who, what, when, how, and why of the dataset and its production.
 
 [Link to full assignment description](/module-2/data-biography/)
-
-@import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/button/button.js';
 
 <sl-button href="/module-2/data-biography/" target="_blank">Link to full assignment description</sl-button>
 
