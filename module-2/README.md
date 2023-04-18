@@ -117,7 +117,7 @@ This class brings the concept of "historicizing data" into the present by examin
 <small>This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production.
 <br><br></small>
 
-<center><sl-button href="/module-2/2-4/" target="_blank" size=medium pill>View the full "Day 2.4" lesson plan</sl-button></center>
+<center><sl-button href="/module-2/2-1/" target="_blank" size=medium pill>View the full "Day 2.1" lesson plan</sl-button></center>
 
 #### Slavery and Data {href=/module-2/2-2/}
 
@@ -126,7 +126,7 @@ This class brings the concept of "historicizing data" into the present by examin
 <small>This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.
 <br><br></small>
 
-<center><sl-button href="/module-2/2-4/" target="_blank" size=medium pill>View the full "Day 2.4" lesson plan</sl-button></center>
+<center><sl-button href="/module-2/2-2/" target="_blank" size=medium pill>View the full "Day 2.2" lesson plan</sl-button></center>
 
 #### The U.S. Census {href=/module-2/2-3/}
 
@@ -135,7 +135,7 @@ This class brings the concept of "historicizing data" into the present by examin
 <small>This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census.
 <br><br></small>
 
-<center><sl-button href="/module-2/2-4/" target="_blank" size=medium pill>View the full "Day 2.4" lesson plan</sl-button></center>
+<center><sl-button href="/module-2/2-3/" target="_blank" size=medium pill>View the full "Day 2.3" lesson plan</sl-button></center>
 
 #### Working with Data {href=/module-2/2-4/}
 
