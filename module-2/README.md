@@ -38,17 +38,17 @@
     - [Module 2 Overview](#overview)
     - [Learning Outcomes](#outcomes) 
     - [Key Concepts](#concepts)
-    - [Readings](#readings)
     - [Schedule](#schedule)
     - [Assignments](#assignments)
+    - [Readings](#readings)
 
 # Contents {#contents}
 — [Module Overview](#overview) <br>
 — [Learning Outcomes](#outcomes) <br>
 — [Key Concepts](#concepts) <br>
-— [Module Readings](#readings) <br>
 — [Schedule of Activities](#schedule) <br>
 — [Assignments](#assignments) <br>
+— [Module Readings](#readings) <br>
 
 # Overview {#overview}
 
