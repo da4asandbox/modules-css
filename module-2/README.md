@@ -138,7 +138,7 @@ This class brings the concept of "historicizing data" into the present by examin
 <small>This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19.
 <br><br>[**View the full "Day 2.4" lesson plan.**](/module-2/2-4/)</small>
 
-<sl-button href="/module-2/2-4/" target="_blank" size=small pill text-align=center>View the full "Day 2.4" lesson plan</sl-button>
+<sl-button href="/module-2/2-4/" target="_blank" size=small pill style="width: 100%;>View the full "Day 2.4" lesson plan</sl-button>
 
 # Assignments {#assignments}
 
