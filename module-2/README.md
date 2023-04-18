@@ -1,9 +1,10 @@
 <link rel="stylesheet" href="/path/to/shoelace/dist/themes/light.css" />
 
 <script type="module" data-shoelace="/path/to/shoelace/dist">
-  @import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/tab-group/tab-group.js';
-
+  @import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/tab-group/tab-group.js'; 
 </script>
+
+<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/tab-group/tab-group.js"></script>
 
 <style>
     
@@ -123,32 +124,6 @@ This class brings the concept of "historicizing data" into the present by examin
   <sl-tab-panel name="advanced">This is the advanced tab panel.</sl-tab-panel>
   <sl-tab-panel name="disabled">This is a disabled tab panel.</sl-tab-panel>
 </sl-tab-group>
-    
-# Shoelace 2
-    
-    @import { SlTab, SlTabGroup, SlTabPanel } from '@shoelace-style/shoelace/dist/react';
-
-const App = () => (
-  <SlTabGroup placement="start">
-    <SlTab slot="nav" panel="general">
-      General
-    </SlTab>
-    <SlTab slot="nav" panel="custom">
-      Custom
-    </SlTab>
-    <SlTab slot="nav" panel="advanced">
-      Advanced
-    </SlTab>
-    <SlTab slot="nav" panel="disabled" disabled>
-      Disabled
-    </SlTab>
-
-    <SlTabPanel name="general">This is the general tab panel.</SlTabPanel>
-    <SlTabPanel name="custom">This is the custom tab panel.</SlTabPanel>
-    <SlTabPanel name="advanced">This is the advanced tab panel.</SlTabPanel>
-    <SlTabPanel name="disabled">This is a disabled tab panel.</SlTabPanel>
-  </SlTabGroup>
-);
     
 # Assignments {#assignments}
 
