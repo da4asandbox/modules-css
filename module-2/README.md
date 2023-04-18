@@ -102,18 +102,6 @@ This class studies the history of one of the major sources of data used by resea
 This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19. 
 
 [Link to full lesson plan.](/module-2/2-4/)
-
-# Shoelace
-
-<sl-tab-group placement="start">
-  <sl-tab slot="nav" panel="general2">General</sl-tab>
-  <sl-tab slot="nav" panel="custom3">Custom</sl-tab>
-  <sl-tab slot="nav" panel="advanced4">Advanced</sl-tab>
-
-  <sl-tab-panel name="general2">This is the general tab panel.</sl-tab-panel>
-  <sl-tab-panel name="custom3">This is the custom tab panel.</sl-tab-panel>
-  <sl-tab-panel name="advanced4">This is the advanced tab panel.</sl-tab-panel>
-</sl-tab-group>
     
 # Assignments {#assignments}
 
