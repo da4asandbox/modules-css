@@ -103,15 +103,13 @@ This class brings the concept of "historicizing data" into the present by examin
 
 [Link to full lesson plan.](/module-2/2-4/)
     
-# Experimenting
+# Experimenting {.cards}
 
-### Places {.cards}
-
-#### Ancient Lavatory {href=#}
+#### Day 2.1: Data Histories {href=/module-2/2-1/}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
 
-The ancient lavatory at Canterbury Cathedral where the monks washed before and after eating.
+This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production.
 
 #### St Augustine's Abbey {href=#}
 
