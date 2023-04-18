@@ -107,7 +107,14 @@ This class brings the concept of "historicizing data" into the present by examin
 
 # Shoelace
 
-import { SlTab, SlTabGroup, SlTabPanel } from '@shoelace-style/shoelace/dist/react';
+import React from 'https://cdn.skypack.dev/react@17.0.2';
+import ReactDOM from 'https://cdn.skypack.dev/react-dom@17.0.2';
+import { setBasePath } from 'https://cdn.skypack.dev/@shoelace-style/shoelace@2.4.0/dist/utilities/base-path';
+
+// Set the base path for Shoelace assets
+setBasePath('https://cdn.skypack.dev/@shoelace-style/shoelace@2.4.0/dist/')
+
+import { SlTab, SlTabGroup, SlTabPanel } from 'https://cdn.skypack.dev/@shoelace-style/shoelace@2.4.0/dist/react';
 
 const App = () => (
   <SlTabGroup placement="bottom">
@@ -130,6 +137,8 @@ const App = () => (
     <SlTabPanel name="disabled">This is a disabled tab panel.</SlTabPanel>
   </SlTabGroup>
 );
+
+ReactDOM.render(<App />, document.getElementById('root'));
     
 # Assignments {#assignments}
 
