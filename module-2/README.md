@@ -8,7 +8,7 @@
     
     #juncture h2 { font-size: 28px; }
     
-    ul li { padding: 5px 0px; }
+    ul li { padding: 3px 0px; }
     
     #contents.section1 { padding-top: 15px; padding-left: 50px; padding-right: 50px; }
     
