@@ -146,7 +146,7 @@ In this assignment, students analyze how a historical dataset was created: the w
 
 [Link to full assignment description](/module-2/data-biography/)
 
-<sl-button href="/module-2/data-biography/" target="_blank">Link to full assignment description</sl-button>
+<sl-button href="/module-2/data-biography/" target="_blank" size=large pill>Link to full assignment description</sl-button>
 
 # Bibliography {#readings}
 
