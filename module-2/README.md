@@ -127,7 +127,7 @@ In this assignment, students analyze how a historical dataset was created: the w
 
 - Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
 - Daina Ramey Berry, *The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave* (2016), pp. 1-9, 33-57.
-    - ==Alternative:=={description=<small>"You can use this if you don’t have access to the book, but please note there’s no transcript available here."</small>} ["Episode 176: Daina Ramey Berry, The Value of the Enslaved from Womb to Grave"](https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/), *Ben Franklin's World Podcast* (March 6, 2018).
+    - ==Alternative:=={description="You can use this if you don’t have access to the book, but please note there’s no transcript available here."} ["Episode 176: Daina Ramey Berry, The Value of the Enslaved from Womb to Grave"](https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/), *Ben Franklin's World Podcast* (March 6, 2018).
 - Dan Bouk, *Census Stories, USA*: 
     - [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html)
     - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
