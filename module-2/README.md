@@ -32,11 +32,11 @@
     
 </style>
 
-.ve-header "Module 2: Historicizing Data" position=top sticky background=gh:da4asandbox/cameronessay-organization/media/Module2Header.jpg
+.ve-header "Module 2: Historicizing Data" position=top sticky background=gh:da4asandbox/cameronessay-organization/media/Module2Header2.jpg
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
     - [Module 2 Overview](#overview)
-    - [Learning Outcomes](#outcomes) 
+    - [Learning Outcomes](#outcomes)
     - [Key Concepts](#concepts)
     - [Schedule](#schedule)
     - [Assignments](#assignments)
