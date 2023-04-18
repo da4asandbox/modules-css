@@ -2,6 +2,8 @@
 
 <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/shoelace-autoloader.js"></script>
 
+<script src="bundle.js" data-shoelace="/path/to/shoelace/dist"></script>
+
 <style>
     
     @import url('https://fonts.googleapis.com/css?family=Montserrat');
