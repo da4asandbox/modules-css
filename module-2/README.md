@@ -32,11 +32,11 @@
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
     - [Module 2 Overview](#overview)
-    - [Module 2 Learning Outcomes](#outcomes) 
-    - [Module 2 Key Concepts](#concepts)
-    - [Module 2 Readings](#readings)
-    - [Module 2 Schedule](#schedule)
-    - [Module 2 Assignments](#assignments)
+    - [Learning Outcomes](#outcomes) 
+    - [Key Concepts](#concepts)
+    - [Readings](#readings)
+    - [Schedule](#schedule)
+    - [Assignments](#assignments)
 
 # Contents {#contents}
 — [Module Overview](#overview) <br>
@@ -44,6 +44,10 @@
 — [Key Concepts](#concepts) <br>
 — [Module Readings](#readings) <br>
 — [Schedule of Activities](#activities) <br>
+— [Day 2.1](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-1/) <br>
+— [Day 2.2](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-2/) <br>
+— [Day 2.3](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-3/) <br>
+— [Day 2.4](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-4/) <br>
 — [Assignments](#assignments) <br>
 
 # Overview {#overview}
