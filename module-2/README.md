@@ -119,21 +119,21 @@ This class brings the concept of "historicizing data" into the present by examin
 
 ![](https://images.unsplash.com/photo-1574788175339-a53dcba9a9bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1163&q=80)
 
-This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.
+<small>This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.</small>
 <br><br>[**View the full "Day 2.2" lesson plan.**](/module-2/2-2/)
 
 #### The U.S. Census {href=/module-2/2-3/}
 
 ![](https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80)
 
-This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. 
+<small>This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. </small>
 <br><br>[**View the full "Day 2.3" lesson plan.**](/module-2/2-3/)
 
 #### Working with Data {href=/module-2/2-4/}
 
 ![](https://images.unsplash.com/photo-1585858229735-cd08d8cb510d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
-This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19.
+<small>This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19.</small>
 <br><br>[**View the full "Day 2.4" lesson plan.**](/module-2/2-4/)
 
 # Assignments {#assignments}
