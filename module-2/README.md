@@ -42,10 +42,6 @@
     - [Key Concepts](#concepts)
     - [Readings](#readings)
     - [Schedule](#schedule)
-    - [↳ Day 2.1](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-1/)
-    - [↳ Day 2.2](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-2/)
-    - [↳ Day 2.3](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-3/)
-    - [↳ Day 2.4](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-4/)
     - [Assignments](#assignments)
 
 # Contents {#contents}
@@ -54,7 +50,10 @@
 — [Key Concepts](#concepts) <br>
 — [Module Readings](#readings) <br>
 — [Schedule of Activities](#schedule) <br>
-— [Schedule of Activities ALT](#schedule2) <br>
+↳ [Day 2.1](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-1/)
+↳ [Day 2.2](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-2/)
+↳ [Day 2.3](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-3/)
+↳ [Day 2.4](https://www.juncture-digital.org/da4asandbox/cameronessay-organization/module-2/2-4/)
 — [Assignments](#assignments) <br>
 
 # Overview {#overview}
