@@ -79,9 +79,11 @@ Through this module, students will be able to define and consider the following 
 > All datasets are actively created. Rather than seeing data as objective reflections of the world, this module teaches students how to analyze the creators and contexts of datasets: the historical who, when, where, how, and why of a dataset's creation.
 
 **Tabular Data**
-> Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data. {#schedule}
+> Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data.
 
-# Schedule 2.0 {.cards}
+# {#schedule}
+
+# Schedule {.cards}
 
 #### Data Histories {href=/module-2/2-1/}
 
