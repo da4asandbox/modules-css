@@ -2,7 +2,7 @@
     
     @import url('https://fonts.googleapis.com/css?family=Montserrat');
     
-    #juncture { font-family: Montserrat; font-size: 20px; }
+    #juncture { font-family: Montserrat; font-size: 20px; -hyphens: none; }
     
     #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 600; }
     
