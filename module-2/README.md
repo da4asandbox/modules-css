@@ -1,7 +1,8 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/themes/light.css" />
+
+<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/shoelace-autoloader.js"></script>
+
 <style>
-    
-    $ cat node_modules/@shoelace-style/shoelace/dist/collection/index.js 
-export * from './components';
     
     @import url('https://fonts.googleapis.com/css?family=Montserrat');
     
