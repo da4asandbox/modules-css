@@ -103,6 +103,25 @@ This class brings the concept of "historicizing data" into the present by examin
 
 [Link to full lesson plan.](/module-2/2-4/)
     
+# Experimenting
+
+!!! tabs "Basic use of tabs group"
+    
+    tab="Tab 1"
+    This is a Text Tab
+    
+    tab="Tab 2"
+    !!! info
+        This is a  info Tab
+    
+    tab="Tab 3"
+    This is a code tab.
+    ```java
+     public static void main(String a[]){
+        //Hello world
+     }
+    ```
+
 # Assignments {#assignments}
 
 ## Data Biography
