@@ -105,6 +105,8 @@ This class brings the concept of "historicizing data" into the present by examin
 
 # Shoelace
 
+<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/tab-group/tab-group.js"></script>
+
 <sl-tab-group placement="start">
   <sl-tab slot="nav" panel="general">General</sl-tab>
   <sl-tab slot="nav" panel="custom">Custom</sl-tab>
