@@ -1,14 +1,13 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/themes/light.css" />
+<link rel="stylesheet" href="/path/to/shoelace/dist/themes/light.css" />
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/shoelace-autoloader.js"></script>
+<script type="module" data-shoelace="/path/to/shoelace/dist">
+  import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/tab-group/tab-group.js';
 
-<script src="bundle.js" data-shoelace="/path/to/shoelace/dist"></script>
+</script>
 
 <style>
     
     @import url('https://fonts.googleapis.com/css?family=Montserrat');
-    
-    @import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/tab-group/tab-group.js';
     
     #juncture { font-family: Montserrat; font-size: 20px; }
     
