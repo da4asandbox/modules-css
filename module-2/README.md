@@ -20,7 +20,7 @@
     
      #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-    #schedule.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    #schedule.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 15px; }
     
         #schedule2.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px;  font-size: 8px; }
     
