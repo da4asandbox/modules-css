@@ -10,7 +10,7 @@
     
     ul li { padding: 3px 0px; }
     
-    #contents.section1 { padding-top: 15px; padding-left: 50px; padding-right: 50px; }
+    #contents.section1 { padding-top: 15px; padding-left: 35px; padding-right: 35px; }
     
     #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px; }
     
@@ -22,7 +22,7 @@
     
     #schedule.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-    #activities.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    #assignments.section1 { padding-top: 9px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
     #accessment { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
@@ -31,20 +31,20 @@
 .ve-header "Module 2: Historicizing Data" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
-    - [2.1 Overview](#overview)
-    - [2.2 Learning Outcomes](#outcomes) 
-    - [2.3 Key Concepts](#concepts)
-    - [2.4 Readings](#readings)
-    - [2.5 Schedule](#schedule)
-    - [2.7 Assignments](#assignments)
+    - [Overview](#overview)
+    - [Learning Outcomes](#outcomes) 
+    - [Key Concepts](#concepts)
+    - [Readings](#readings)
+    - [Schedule](#schedule)
+    - [Assignments](#assignments)
 
 # Contents {#contents}
-2.1 [Module Overview](#overview)
-2.2 [Learning Outcomes](#outcomes)
-2.3 [Key Concepts](#concepts)
-2.4 [Module Readings](#readings)
-2.5 [Schedule of Activities](#activities)
-2.7 [Assignments](#assignments)
+— [Module Overview](#overview) <br>
+— [Learning Outcomes](#outcomes) <br>
+— [Key Concepts](#concepts) <br>
+— [Module Readings](#readings) <br>
+— [Schedule of Activities](#activities) <br>
+— [Assignments](#assignments) <br>
 
 # Overview {#overview}
 
