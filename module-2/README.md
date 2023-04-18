@@ -105,21 +105,20 @@ This class brings the concept of "historicizing data" into the present by examin
     
 # Experimenting
 
-<mat-tab-group markdown="1">
+@import Tabs from '@theme/Tabs';
+@import TabItem from '@theme/TabItem';
 
-<mat-tab label="Tab 1" markdown="1">
-Markdown **Content** 1
-</mat-tab>
-
-<mat-tab label="Tab 2" markdown="1">
-Markdown **Content** 2
-</mat-tab>
-
-<mat-tab label="Tab 3" markdown="1">
-Markdown **Content** 3
-</mat-tab>
-
-</mat-tab-group>
+<Tabs>
+  <TabItem value="apple" label="Apple" default>
+    This is an apple 🍎
+  </TabItem>
+  <TabItem value="orange" label="Orange">
+    This is an orange 🍊
+  </TabItem>
+  <TabItem value="banana" label="Banana">
+    This is a banana 🍌
+  </TabItem>
+</Tabs>
 
 # Assignments {#assignments}
 
