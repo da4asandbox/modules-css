@@ -107,12 +107,12 @@ This class brings the concept of "historicizing data" into the present by examin
 [Link to full lesson plan.](/module-2/2-4/)
 
 # Schedule 2.0 {.cards}
-#### Day 2.1: Data Histories {href=/module-2/2-1/}
+#### Data Histories {href=/module-2/2-1/}
 
 ![](https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production.
-<br>[Link to full "Day 2.1" lesson plan.](/module-2/2-1/)
+<br><br>[Link to full "Day 2.1" lesson plan.](/module-2/2-1/)
 
 #### Day 2.2: Slavery and Data {href=/module-2/2-2/}
 
