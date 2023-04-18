@@ -20,13 +20,11 @@
     
     #outcomes.section1 { padding-top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-    #concepts { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+    #concepts { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 0px; }
     
      #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-    #schedule.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 15px; }
-    
-        #schedule2.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px;  font-size: 8px; }
+    #schedule.section1 { padding-top: 0px; padding-left: 15px; padding-right: 15px; padding-bottom: 15px; }
     
     #assignments.section1 { padding-top: 25px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
