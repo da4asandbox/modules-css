@@ -1,5 +1,3 @@
-.ve-style https://fonts.googleapis.com/css?family=Montserrat
-
 <style>
     
     @import url('https://fonts.googleapis.com/css?family=Montserrat');
