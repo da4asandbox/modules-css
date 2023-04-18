@@ -108,7 +108,7 @@ This class brings the concept of "historicizing data" into the present by examin
 
 # Schedule 2.0
 
-### {.cards style=height:300px}
+# {.cards style=height:300px}
 
 #### Data Histories {href=/module-2/2-1/}
 
