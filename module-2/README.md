@@ -8,6 +8,8 @@
     
     #juncture h2 { font-size: 28px; }
     
+    ul li { padding: 5px 0px; }
+    
     #contents.section1 { padding-top: 15px; padding-left: 50px; padding-right: 50px; }
     
     #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px; }
@@ -23,8 +25,6 @@
     #activities.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
     #accessment { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
-    
-    #juncture.contents li, #readings li { margin: 1000; }
     
 </style>
 
