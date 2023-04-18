@@ -116,19 +116,19 @@ This class introduces students to "historicizing data" - the idea that data is n
 
 #### Day 2.2: Slavery and Data {href=/module-2/2-2/}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Augustine_Abbey.jpg)
+![](https://images.unsplash.com/photo-1574788175339-a53dcba9a9bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1163&q=80)
 
 This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.
 
 #### Day 2.3: The U.S. Census {href=#}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:High_Street%2C_Canterbury%2C_Kent.jpg)
+![](https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80)
 
 This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. 
 
 #### Day 2.4: Working with Data {href=/module-2/2-4/}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_cathedral_20160901.jpg)
+![](https://images.unsplash.com/photo-1585858229735-cd08d8cb510d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19.
 
