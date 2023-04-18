@@ -126,7 +126,7 @@ This class brings the concept of "historicizing data" into the present by examin
     
 # Shoelace 2
     
-    import { SlTab, SlTabGroup, SlTabPanel } from '@shoelace-style/shoelace/dist/react';
+    @import { SlTab, SlTabGroup, SlTabPanel } from '@shoelace-style/shoelace/dist/react';
 
 const App = () => (
   <SlTabGroup placement="start">
