@@ -107,38 +107,17 @@ This class brings the concept of "historicizing data" into the present by examin
 
 # Shoelace
 
-import React from 'https://cdn.skypack.dev/react@17.0.2';
-import ReactDOM from 'https://cdn.skypack.dev/react-dom@17.0.2';
-import { setBasePath } from 'https://cdn.skypack.dev/@shoelace-style/shoelace@2.4.0/dist/utilities/base-path';
+<sl-tab-group placement="bottom">
+  <sl-tab slot="nav" panel="general">General</sl-tab>
+  <sl-tab slot="nav" panel="custom">Custom</sl-tab>
+  <sl-tab slot="nav" panel="advanced">Advanced</sl-tab>
+  <sl-tab slot="nav" panel="disabled" disabled>Disabled</sl-tab>
 
-// Set the base path for Shoelace assets
-setBasePath('https://cdn.skypack.dev/@shoelace-style/shoelace@2.4.0/dist/')
-
-import { SlTab, SlTabGroup, SlTabPanel } from 'https://cdn.skypack.dev/@shoelace-style/shoelace@2.4.0/dist/react';
-
-const App = () => (
-  <SlTabGroup placement="bottom">
-    <SlTab slot="nav" panel="general">
-      General
-    </SlTab>
-    <SlTab slot="nav" panel="custom">
-      Custom
-    </SlTab>
-    <SlTab slot="nav" panel="advanced">
-      Advanced
-    </SlTab>
-    <SlTab slot="nav" panel="disabled" disabled>
-      Disabled
-    </SlTab>
-
-    <SlTabPanel name="general">This is the general tab panel.</SlTabPanel>
-    <SlTabPanel name="custom">This is the custom tab panel.</SlTabPanel>
-    <SlTabPanel name="advanced">This is the advanced tab panel.</SlTabPanel>
-    <SlTabPanel name="disabled">This is a disabled tab panel.</SlTabPanel>
-  </SlTabGroup>
-);
-
-ReactDOM.render(<App />, document.getElementById('root'));
+  <sl-tab-panel name="general">This is the general tab panel.</sl-tab-panel>
+  <sl-tab-panel name="custom">This is the custom tab panel.</sl-tab-panel>
+  <sl-tab-panel name="advanced">This is the advanced tab panel.</sl-tab-panel>
+  <sl-tab-panel name="disabled">This is a disabled tab panel.</sl-tab-panel>
+</sl-tab-group>
     
 # Assignments {#assignments}
 
