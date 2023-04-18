@@ -103,8 +103,9 @@ This class studies the history of one of the major sources of data used by resea
 This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19. 
 
 [Link to full lesson plan.](/module-2/2-4/)
-    
-# Schedule 2.0 {#schedule2} {.cards}
+
+{#schedule2}
+# Schedule 2.0 {.cards}
 
 #### Day 2.1: Data Histories {href=/module-2/2-1/}
 
