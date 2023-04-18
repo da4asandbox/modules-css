@@ -1,5 +1,8 @@
 <style>
     
+    $ cat node_modules/@shoelace-style/shoelace/dist/collection/index.js 
+export * from './components';
+    
     @import url('https://fonts.googleapis.com/css?family=Montserrat');
     
     @import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/tab-group/tab-group.js';
@@ -118,8 +121,6 @@ This class brings the concept of "historicizing data" into the present by examin
   <sl-tab-panel name="advanced">This is the advanced tab panel.</sl-tab-panel>
   <sl-tab-panel name="disabled">This is a disabled tab panel.</sl-tab-panel>
 </sl-tab-group>
-    
-    [component-metadata:sl-tab-group]
     
 # Assignments {#assignments}
 
