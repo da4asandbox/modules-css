@@ -153,5 +153,5 @@ In this assignment, students analyze how a historical dataset was created: the w
 
 .ve-footer
     - [Previous Module: Module 1](/module-1/)
-    - [Data 4 All icon](https://maindata4allhomepage)
+    - [Return to Homepage](https://maindata4allhomepage)
     - [Next Module: Module 3](/module-3/)
