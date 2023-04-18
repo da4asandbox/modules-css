@@ -113,7 +113,7 @@ This class brings the concept of "historicizing data" into the present by examin
   <sl-tab slot="nav" panel="advanced">Advanced</sl-tab>
   <sl-tab slot="nav" panel="disabled" disabled>Disabled</sl-tab>
 
-  <sl-tab-panel name="general">This is the general tab panel.</sl-tab-panel>
+  <sl-tab-panel name="general">This is the general tab panel. here is an example of what it says?</sl-tab-panel>
   <sl-tab-panel name="custom">This is the custom tab panel.</sl-tab-panel>
   <sl-tab-panel name="advanced">This is the advanced tab panel.</sl-tab-panel>
   <sl-tab-panel name="disabled">This is a disabled tab panel.</sl-tab-panel>
