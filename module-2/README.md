@@ -105,22 +105,11 @@ This class brings the concept of "historicizing data" into the present by examin
     
 # Experimenting
 
-!!! tabs "Basic use of tabs group"
-    
-    tab="Tab 1"
-    This is a Text Tab
-    
-    tab="Tab 2"
-    !!! info
-        This is a  info Tab
-    
-    tab="Tab 3"
-    This is a code tab.
-    ```java
-     public static void main(String a[]){
-        //Hello world
-     }
-    ```
+<mat-tab-group>
+  <mat-tab label="Tab 1"> Content 1 </mat-tab>
+  <mat-tab label="Tab 2"> Content 2 </mat-tab>
+  <mat-tab label="Tab 3"> Content 3 </mat-tab>
+</mat-tab-group>
 
 # Assignments {#assignments}
 
