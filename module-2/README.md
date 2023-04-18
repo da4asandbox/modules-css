@@ -111,63 +111,23 @@ This class brings the concept of "historicizing data" into the present by examin
 
 This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production.
 
-#### St Augustine's Abbey {href=#}
+#### Day 2.2: Slavery and Data {href=/module-2/2-2/}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Augustine_Abbey.jpg)
 
-St Augustine's Abbey was a Benedictine monastery in Canterbury. The abbey was founded in 598.
+This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.
 
-#### Canterbury High Street {href=#}
+#### Day 2.3: The U.S. Census {href=#}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:High_Street%2C_Canterbury%2C_Kent.jpg)
 
-The first Archbishop of Canterbury, Augustine, arrived in Kent as a missionary in 597AD. 
+This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. 
 
-#### Canterbury Cathedral {href=#}
+#### Day 2.4: Working with Data {href=/module-2/2-4/}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_cathedral_20160901.jpg)
 
-Founded in 597, the cathedral is the oldest Christian structure in England.
-
-#### Dane John Gardens {href=#}
-
-![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_gardens_-_geograph.org.uk_-_746465.jpg)
-
-The Dane John Gardens were created on common land by Alderman James Simmons in 1790.
-
-#### Dane John Mound {href=#}
-
-![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg)
-
-The Dane John Mound is a Roman cemetery in Canterbury.
-
-# Take Two
-
-### Schedule {.card}
-
-#### Day 2.1: Data Histories {href=#}
-
-![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
-
-This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production. [Link to full lesson plan.](/module-2/2-1/)
-
-#### Day 2.2: Slavery and Data {href=#}
-
-![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
-
-This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data. [Link to full lesson plan.](/module-2/2-2/)
-
-#### Day 2.3: The US Census {href=#}
-
-![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
-
-This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. [Link to full lesson plan.](/module-2/2-3/)
-
-#### Day 2.4: Working with Data {href=#}
-
-![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
-
-This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19. [Link to full lesson plan.](/module-2/2-4/)
+This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19.
 
 # Assignments {#assignments}
 
