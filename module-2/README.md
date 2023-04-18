@@ -105,10 +105,20 @@ This class brings the concept of "historicizing data" into the present by examin
     
 # Experimenting
 
-<mat-tab-group>
-  <mat-tab label="Tab 1"> Content 1 </mat-tab>
-  <mat-tab label="Tab 2"> Content 2 </mat-tab>
-  <mat-tab label="Tab 3"> Content 3 </mat-tab>
+<mat-tab-group markdown="1">
+
+<mat-tab label="Tab 1" markdown="1">
+Markdown **Content** 1
+</mat-tab>
+
+<mat-tab label="Tab 2" markdown="1">
+Markdown **Content** 2
+</mat-tab>
+
+<mat-tab label="Tab 3" markdown="1">
+Markdown **Content** 3
+</mat-tab>
+
 </mat-tab-group>
 
 # Assignments {#assignments}
