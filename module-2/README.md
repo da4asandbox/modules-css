@@ -105,6 +105,56 @@ This class brings the concept of "historicizing data" into the present by examin
     
 # Experimenting
 
+<section class="section3">
+  <h3>
+    Places
+  </h3>
+  <section class="cards wrapper">
+    <section class="section4 card" href="#">
+       <a class="card-title" href="#">Ancient Lavatory</a> 
+      <div class="card-image" style="background-image:url('https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg'); background-repeat:no-repeat; background-size:cover; background-position:center;">
+      </div>
+      <p class="card-abstract">
+        The ancient lavatory at Canterbury Cathedral where the monks washed before and after eating.</p>
+</section>
+    <section class="section4 card" href="#">
+       <a class="card-title" href="#">St Augustine's Abbey</a> 
+      <div class="card-image" style="background-image:url('https://iiif.juncture-digital.org/thumbnail/wc:Augustine_Abbey.jpg'); background-repeat:no-repeat; background-size:cover; background-position:center;">
+      </div>
+      <p class="card-abstract">
+        St Augustine's Abbey was a Benedictine monastery in Canterbury. The abbey was founded in 598.</p>
+</section>
+    <section class="section4 card" href="#">
+       <a class="card-title" href="#">Canterbury High Street</a> 
+      <div class="card-image" style="background-image:url('https://iiif.juncture-digital.org/thumbnail/wc:High_Street%2C_Canterbury%2C_Kent.jpg'); background-repeat:no-repeat; background-size:cover; background-position:center;">
+      </div>
+      <p class="card-abstract">
+        The first Archbishop of Canterbury, Augustine, arrived in Kent as a missionary in 597AD.</p>
+</section>
+    <section class="section4 card" href="#">
+       <a class="card-title" href="#">Canterbury Cathedral</a> 
+      <div class="card-image" style="background-image:url('https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_cathedral_20160901.jpg'); background-repeat:no-repeat; background-size:cover; background-position:center;">
+      </div>
+      <p class="card-abstract">
+        Founded in 597, the cathedral is the oldest Christian structure in England.</p>
+</section>
+    <section class="section4 card" href="#">
+       <a class="card-title" href="#">Dane John Gardens</a> 
+      <div class="card-image" style="background-image:url('https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_gardens_-_geograph.org.uk_-_746465.jpg'); background-repeat:no-repeat; background-size:cover; background-position:center;">
+      </div>
+      <p class="card-abstract">
+        The Dane John Gardens were created on common land by Alderman James Simmons in 1790.</p>
+</section>
+    <section class="section4 card" href="#">
+       <a class="card-title" href="#">Dane John Mound</a> 
+      <div class="card-image" style="background-image:url('https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg'); background-repeat:no-repeat; background-size:cover; background-position:center;">
+      </div>
+      <p class="card-abstract">
+        The Dane John Mound is a Roman cemetery in Canterbury.</p>
+</section>
+  </section>
+</section>
+
 ### Schedule {.card}
 
 #### Day 2.1: Data Histories {href=#}
