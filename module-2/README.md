@@ -22,7 +22,7 @@
     
     #schedule.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-        #schedule2.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
+        #schedule2.section1 { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px;  font-size: 10px; }
     
     #assignments.section1 { padding-top: 9px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
