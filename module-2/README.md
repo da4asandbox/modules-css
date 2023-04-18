@@ -105,9 +105,12 @@ This class brings the concept of "historicizing data" into the present by examin
     
 # Experimenting
 
+<style> 
 @import Tabs from '@theme/Tabs';
-@import TabItem from '@theme/TabItem';
 
+@import TabItem from '@theme/TabItem';
+</style>
+    
 <Tabs>
   <TabItem value="apple" label="Apple" default>
     This is an apple 🍎
