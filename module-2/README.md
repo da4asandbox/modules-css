@@ -79,7 +79,7 @@ Through this module, students will be able to define and consider the following 
 
 # Schedule {.cards}
 
-#### Data Histories {href=/module-2/2-1/}
+#### Lesson 2.1: Data Histories {href=/module-2/2-1/}
 
 ![](https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
@@ -88,7 +88,7 @@ Through this module, students will be able to define and consider the following 
 
 <center><sl-button href="/module-2/2-1/" target="_blank" size=medium pill>View the full "Day 2.1" lesson plan</sl-button></center>
 
-#### Slavery and Data {href=/module-2/2-2/}
+#### Lesson 2.2: Slavery and Data {href=/module-2/2-2/}
 
 ![](https://images.unsplash.com/photo-1574788175339-a53dcba9a9bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1163&q=80)
 
@@ -97,7 +97,7 @@ Through this module, students will be able to define and consider the following 
 
 <center><sl-button href="/module-2/2-2/" target="_blank" size=medium pill>View the full "Day 2.2" lesson plan</sl-button></center>
 
-#### The U.S. Census {href=/module-2/2-3/}
+#### Lesson 2.3: The U.S. Census {href=/module-2/2-3/}
 
 ![](https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80)
 
@@ -106,7 +106,7 @@ Through this module, students will be able to define and consider the following 
 
 <center><sl-button href="/module-2/2-3/" target="_blank" size=medium pill>View the full "Day 2.3" lesson plan</sl-button></center>
 
-#### Working with Data {href=/module-2/2-4/}
+#### Lesson 2.4: Working with Data {href=/module-2/2-4/}
 
 ![](https://images.unsplash.com/photo-1585858229735-cd08d8cb510d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
