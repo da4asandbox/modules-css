@@ -32,8 +32,7 @@
     
 </style>
 
-.ve-header Module 2: Historicizing Data" position=top sticky logo=https://da4asandbox.github.io/cameronessay-organization/media/DataAdvocacyForAllLogo.png background=#690014
-
+.ve-header "Module 2: Historicizing Data" position=top sticky logo=gh:da4asandbox/cameronessay-organization/media/DataAdvocacyForAllLogo.png url=# background=#690014
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
     - [Module 2 Overview](#overview)
