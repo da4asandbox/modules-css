@@ -32,7 +32,7 @@
     
 </style>
 
-.ve-header "Module 2: Historicizing Data" position=top sticky background=gh:da4asandbox/cameronessay-organization/media/Module2Overview.svg
+.ve-header Module 2: Historicizing Data" position=top sticky logo=gh:da4asandbox/cameronessay-organization/media/DA4ALogo.png url=# background=#690014
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
     - [Module 2 Overview](#overview)
