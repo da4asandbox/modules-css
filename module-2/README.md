@@ -35,12 +35,12 @@
 .ve-header "Module 2: Historicizing Data" position=top sticky logo=https://da4asandbox.github.io/cameronessay-organization/media/DA4ALogo.svg url=dataadvocacy.com background=#690014
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
-    - [Module 2 Overview](#overview)
-    - [Learning Outcomes](#outcomes)
-    - [Key Concepts](#concepts)
-    - [Schedule](#schedule)
-    - [Assignments](#assignments)
-    - [Readings](#readings)
+    - [② Overview](#overview)
+    - [② Learning Outcomes](#outcomes)
+    - [② Key Concepts](#concepts)
+    - [② Schedule](#schedule)
+    - [② Assignments](#assignments)
+    - [② Readings](#readings)
 
 # Contents {#contents}
 — [Module Overview](#overview) <br>
