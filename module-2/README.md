@@ -135,7 +135,7 @@ In this assignment, students analyze how a historical dataset was created: the w
 - ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
 - 
 
-.ve-footer
+.ve-footer {style="border:1px solid red; padding:6px"}
     - [Previous: Module 1](/module-1/)
     - [Return to Homepage](/home)
     - [View All Modules](/allmodules)
