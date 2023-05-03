@@ -30,7 +30,7 @@
     
     #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-    .ve-footer { font-size: 28px; }
+        .footer { font-size: 28px; }
     
 </style>
 
