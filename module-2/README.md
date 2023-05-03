@@ -57,7 +57,8 @@ This module teaches students about the historical dimensions of data: both the h
 # Learning Outcomes {#outcomes}
 
 Through this module, students will be able to:
-- [ ]*Approach data as a historical artifact and object of analysis*
+- [ ] Approach data as a historical artifact and object of analysis
+
 - *Understand how data was collected, used, and misused within different historical contexts*
 - *Analyze the origins and contexts of particular datasets: who, what, when, where, why, and how they were created*
 - *Work with tabular data and spreadsheets*
