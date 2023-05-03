@@ -136,6 +136,6 @@ In this assignment, students analyze how a historical dataset was created: the w
 
 .ve-footer
     - [Previous: Module 1](/module-1/)
-    - [Return to Homepage](https://maindata4allhomepage)
-    - [View All Modules](https://maindata4allhomepage/allmodules)
+    - [Return to Homepage](/home)
+    - [View All Modules](/allmodules)
     - [Next: Module 3](/module-3/)
