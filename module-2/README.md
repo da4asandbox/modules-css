@@ -56,14 +56,14 @@
 — [Schedule of Activities](#schedule) <br>
 — [Assignments](#assignments) <br>
 — [Module Readings](#readings) <br>
-<sl-button href="#overview" variant="default" size="large">Module 2 Overview</sl-button>
-<sl-button href="#outcomes" variant="default" size="large">Learning Outcomes</sl-button>
-    <sl-button href="#concepts" variant="default" size="large">Key Concepts</sl-button>
-    <sl-button href="#schedule" variant="default" size="large">Schedule of Activities</sl-button>
-    <sl-button href="/module-2/2.1/" target="_blank" variant="neutral" outline size="large">Lesson 2.1: Data Histories</sl-button>
-    <sl-button href="/module-2/2.2/" target="_blank" variant="neutral" outline size="large">Lesson 2.2: Slavery and Data</sl-button>
-    <sl-button href="/module-2/2.3/" target="_blank" variant="neutral" outline size="large">Lesson 2.3: The U.S. Census</sl-button>
-    <sl-button href="/module-2/2.4/" target="_blank" variant="neutral" outline size="large">Lesson 2.4: Working with Data</sl-button>
+<sl-button href="#overview" variant="neutral" size="large">Module 2 Overview</sl-button>
+<sl-button href="#outcomes" variant="neutral" size="large">Learning Outcomes</sl-button>
+    <sl-button href="#concepts" variant="neutral" size="large">Key Concepts</sl-button>
+    <sl-button href="#schedule" variant="neutral" size="large">Schedule of Activities</sl-button>
+    <sl-button href="/module-2/2.1/" target="_blank" variant="default" outline size="large">Lesson 2.1: Data Histories</sl-button>
+    <sl-button href="/module-2/2.2/" target="_blank" variant="default" outline size="large">Lesson 2.2: Slavery and Data</sl-button>
+    <sl-button href="/module-2/2.3/" target="_blank" variant="default" outline size="large">Lesson 2.3: The U.S. Census</sl-button>
+    <sl-button href="/module-2/2.4/" target="_blank" variant="default" outline size="large">Lesson 2.4: Working with Data</sl-button>
     
     <sl-button href="#plan" variant="default" size="large">Lesson Plan</sl-button>
     <sl-button href="#discussion" variant="default" size="large">Discussion</sl-button>
