@@ -64,12 +64,8 @@
     <sl-button href="/module-2/2.2/" target="_blank" variant="default" outline size="large">Lesson 2.2: Slavery and Data</sl-button>
     <sl-button href="/module-2/2.3/" target="_blank" variant="default" outline size="large">Lesson 2.3: The U.S. Census</sl-button>
     <sl-button href="/module-2/2.4/" target="_blank" variant="default" outline size="large">Lesson 2.4: Working with Data</sl-button>
-    
-    <sl-button href="#plan" variant="default" size="large">Lesson Plan</sl-button>
-    <sl-button href="#discussion" variant="default" size="large">Discussion</sl-button>
-    <sl-button href="#activity1" variant="default" size="large">Activity 1: HOLC Redlining Maps</sl-button>
-    <sl-button href="#activity2" variant="default" size="large">Activity 2: Data Biography of HOLC Redlining Maps</sl-button>
-    <sl-button href="/module-2/" target="_blank" variant="neutral" outline size="large">Return to Module 2</sl-button>
+    <sl-button href="#assignments" variant="neutral" size="large">Assignments</sl-button>
+    <sl-button href="#readings" variant="neutral" size="large">Readings</sl-button>
 
 # Overview {#overview}
 
