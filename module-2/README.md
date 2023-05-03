@@ -133,9 +133,8 @@ In this assignment, students analyze how a historical dataset was created: the w
     - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
     - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
 - ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
-- 
 
-.ve-footer {style="border:1px solid red; padding:6px"}
+.ve-footer {style="font-size: 32px"}
     - [Previous: Module 1](/module-1/)
     - [Return to Homepage](/home)
     - [View All Modules](/allmodules)
