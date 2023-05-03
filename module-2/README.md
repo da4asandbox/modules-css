@@ -30,8 +30,6 @@
     
     #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-    .ve-footer { font-size: 28px; }
-    
 </style>
 
 .ve-header "Module 2: Historicizing Data" position=top sticky logo=https://da4asandbox.github.io/cameronessay-organization/media/DA4ALogo.svg url=dataadvocacy.com background=#690014
