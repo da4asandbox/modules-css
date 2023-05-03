@@ -75,9 +75,6 @@ Through this module, students will be able to define and consider the following 
 **Tabular Data**
 > Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data.
 
-Data as Archive
-: Students will learn to approach data as historical artificats. Rather than seeing data as purely a source of quantitative information, this module approaches data as archival documents with their own cultural, political, and social histories.
-
 # {#schedule}
 
 # Schedule {.cards}
