@@ -45,7 +45,7 @@
     - [↳ Readings](#readings)
 
 # Contents {#contents}
-— [Module Overview](#overview) <br>
+— [Module 2 Overview](#overview) <br>
 — [Learning Outcomes](#outcomes) <br>
 — [Key Concepts](#concepts) <br>
 — [Schedule of Activities](#schedule) <br>
