@@ -37,7 +37,7 @@
 .ve-header "Module 2: Historicizing Data" position=top sticky logo=https://da4asandbox.github.io/cameronessay-organization/media/DA4ALogo.svg url=dataadvocacy.com background=#690014
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
-    - [Module 2 Overview](#overview)
+    - [Module Overview](#overview)
     - [↳ Learning Outcomes](#outcomes)
     - [↳ Key Concepts](#concepts)
     - [↳ Schedule](#schedule)
@@ -45,7 +45,7 @@
     - [↳ Readings](#readings)
 
 # Contents {#contents}
-— [Module 2 Overview](#overview) <br>
+— [Module Overview](#overview) <br>
 — [Learning Outcomes](#outcomes) <br>
 — [Key Concepts](#concepts) <br>
 — [Schedule of Activities](#schedule) <br>
@@ -53,7 +53,9 @@
 — [Module Readings](#readings) <br>
 
 # Contents Version II {#contents2}
-<sl-button href="#overview" variant="neutral" size="large">Module 2 Overview</sl-button>
+div{
+        text-align: center;
+<sl-button href="#overview" variant="neutral" size="large">Module Overview</sl-button>
 <sl-button href="#outcomes" variant="neutral" size="large">Learning Outcomes</sl-button>
     <sl-button href="#concepts" variant="neutral" size="large">Key Concepts</sl-button>
     <sl-button href="#schedule" variant="neutral" size="large">Schedule of Activities</sl-button>
