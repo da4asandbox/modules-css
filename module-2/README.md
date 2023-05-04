@@ -48,7 +48,7 @@
 — [Module Overview](#overview) <br>
 — [Learning Outcomes](#outcomes) <br>
 — [Key Concepts](#concepts) <br>
-— [Schedule of Activities](#schedule) <br>
+— [Lesson Plans](#schedule) <br>
 — [Assignments](#assignments) <br>
 — [Module Readings](#readings) <br>
 
