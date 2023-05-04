@@ -40,7 +40,7 @@
     - [Module Overview](#overview)
     - [↳ Learning Outcomes](#outcomes)
     - [↳ Key Concepts](#concepts)
-    - [↳ Lesson Plan](#plans)
+    - [↳ Lesson Plans](#plans)
     - [↳ Assignments](#assignments)
     - [↳ Readings](#readings)
 
