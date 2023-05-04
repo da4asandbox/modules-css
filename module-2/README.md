@@ -40,7 +40,7 @@
     - [Module Overview](#overview)
     - [↳ Learning Outcomes](#outcomes)
     - [↳ Key Concepts](#concepts)
-    - [↳ Lesson Plan](#schedule)
+    - [↳ Lesson Plan](#plans)
     - [↳ Assignments](#assignments)
     - [↳ Readings](#readings)
 
@@ -48,7 +48,7 @@
 — [Module Overview](#overview) <br>
 — [Learning Outcomes](#outcomes) <br>
 — [Key Concepts](#concepts) <br>
-— [Lesson Plans](#schedule) <br>
+— [Lesson Plans](#plans) <br>
 — [Assignments](#assignments) <br>
 — [Module Readings](#readings) <br>
 
@@ -57,7 +57,7 @@
 <sl-button href="#overview" variant="neutral" size="large">Module Overview</sl-button>
 <sl-button href="#outcomes" variant="neutral" size="large">Learning Outcomes</sl-button>
     <sl-button href="#concepts" variant="neutral" size="large">Key Concepts</sl-button>
-    <sl-button href="#schedule" variant="neutral" size="large">Schedule of Activities</sl-button>
+    <sl-button href="#plans" variant="neutral" size="large">Lesson Plans</sl-button>
     <sl-button href="#assignments" variant="neutral" size="large">Assignments</sl-button>
     <sl-button href="#readings" variant="neutral" size="large">Readings</sl-button>
 </p>
@@ -87,9 +87,9 @@ Through this module, students will be able to define and consider the following 
 **Tabular Data**
 > Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data.
 
-#### {#schedule}
+#### {#plans}
 
-# Schedule {.cards}
+# Lesson Plans {.cards}
 
 #### Lesson 2.1: Data Histories {href=/module-2/2-1/}
 
