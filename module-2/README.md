@@ -30,7 +30,7 @@
     
     #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-    #contents2.section1 { font-size:40px; align: center; }
+    #contents2.section1 { font-size:40px; text-align: center; }
     
 </style>
 
