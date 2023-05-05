@@ -53,12 +53,12 @@
 — [Module Readings](#readings) <br>
 
 # Contents Version II {#contents2}
-<sl-button href="#overview" variant="neutral" size="large" align=center>Module Overview</sl-button>
-<sl-button href="#outcomes" variant="neutral" size="large" align=center>Learning Outcomes</sl-button>
-<sl-button href="#concepts" variant="neutral" size="large" align=center>Key Concepts</sl-button>
-<sl-button href="#plans" variant="neutral" size="large" align=center>Lesson Plans</sl-button>
-<sl-button href="#assignments" variant="neutral" size="large" align=center>Assignments</sl-button>
-<sl-button href="#readings" variant="neutral" size="large" align=center>Readings</sl-button>
+<sl-button href="#overview" variant="neutral" size="large" align="center">Module Overview</sl-button>
+<sl-button href="#outcomes" variant="neutral" size="large" align="center">Learning Outcomes</sl-button>
+<sl-button href="#concepts" variant="neutral" size="large" align="center">Key Concepts</sl-button>
+<sl-button href="#plans" variant="neutral" size="large" align="center">Lesson Plans</sl-button>
+<sl-button href="#assignments" variant="neutral" size="large" align="center">Assignments</sl-button>
+<sl-button href="#readings" variant="neutral" size="large" align="center">Readings</sl-button>
 
 # Cameron's Contents Version II {#contents2}
 <p align=center>
