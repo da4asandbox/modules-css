@@ -60,7 +60,7 @@
 <sl-button href="#assignments" variant="neutral" size="large" align="center">Assignments</sl-button>
 <sl-button href="#readings" variant="neutral" size="large" align="center">Readings</sl-button>
 
-# Cameron's Contents Version II {#contents2}
+# Cameron's Contents Version III {#contents3}
 <p align=center>
 <sl-button href="#overview" variant="neutral" size="large">Module Overview</sl-button>
 <sl-button href="#outcomes" variant="neutral" size="large">Learning Outcomes</sl-button>
