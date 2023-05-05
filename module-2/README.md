@@ -14,7 +14,7 @@
     
     ul li { padding: 3px 0px; }
     
-    #contents.section1 { padding-top: 15px; padding-left: 35px; padding-right: 35px; }
+    #contents.section1 { padding-top: 15px; padding-left: 35px; padding-right: 35px; align: center; }
     
     #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px; }
     
