@@ -14,7 +14,7 @@
     
     ul li { padding: 3px 0px; }
     
-    #contents.section1 { padding-top: 15px; padding-left: 35px; padding-right: 35px; align: center; }
+    #contents.section1 { padding-top: 15px; padding-left: 35px; padding-right: 35px; }
     
     #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px; }
     
@@ -30,7 +30,7 @@
     
     #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-    #contents2.section1 { font-size:40px; }
+    #contents2.section1 { font-size:40px; align: center; }
     
 </style>
 
