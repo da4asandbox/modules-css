@@ -64,6 +64,16 @@
 
 This module teaches students about the historical dimensions of data: both the historical process and context within which datasets are produced, and how data has been used and misused at different points in history.
 
+<details>
+  <summary>
+    What is the meaning of life?
+    <span class="icon">👇</span>
+  </summary>
+  <p>
+    42
+  </p>
+</details>
+
 # Learning Outcomes {#outcomes}
 
 Through this module, students will be able to:
