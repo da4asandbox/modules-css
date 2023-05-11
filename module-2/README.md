@@ -148,6 +148,6 @@ Volume 32, Number 1 (2017).
 
 .ve-footer
     - [Previous: Module 1](/module-1/)
-    - [Return to Homepage](/home)
-    - [View All Modules](/allmodules)
+    - [Return to Homepage](/home/)
+    - [View All Modules](/allmodules/)
     - [Next: Module 3](/module-3/)
