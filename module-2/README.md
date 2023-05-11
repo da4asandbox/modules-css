@@ -70,9 +70,7 @@ This module teaches students about the historical dimensions of data: both the h
   <summary>
     What is the meaning of life?
   </summary>
-  <p>
     42
-  </p>
 </details>
 
 Through this module, students will be able to:
