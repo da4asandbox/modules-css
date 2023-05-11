@@ -43,7 +43,7 @@
     - [↳ Lesson Plans](#plans)
     - [↳ Assignments](#assignments)
     - [↳ Readings](#readings)
-
+    
 # Contents {#contents}
 — [Module Overview](#overview) <br>
 — [Learning Outcomes](#outcomes) <br>
