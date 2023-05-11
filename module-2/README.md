@@ -66,13 +66,6 @@ This module teaches students about the historical dimensions of data: both the h
 
 # Learning Outcomes {#outcomes}
 
-<details>
-  <summary>
-    What is the meaning of life?
-  </summary>
-    42
-</details>
-
 Through this module, students will be able to:
 - *Approach data as a historical artifact and object of analysis*
 - *Understand how data was collected, used, and misused within different historical contexts*
