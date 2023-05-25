@@ -41,14 +41,6 @@
     - [↳ Lesson Plans](#plans)
     - [↳ Assignments](#assignments)
     - [↳ Readings](#readings)
-    
-# Contents {#contents}
-— [Module Overview](#overview) <br>
-— [Learning Outcomes](#outcomes) <br>
-— [Key Concepts](#concepts) <br>
-— [Lesson Plans](#plans) <br>
-— [Assignments](#assignments) <br>
-— [Module Readings](#readings) <br>
 
 # Contents {#contents}
 <sl-button href="#overview" variant="neutral" size="large">Module Overview</sl-button>
