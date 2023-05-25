@@ -52,7 +52,7 @@
 — [Assignments](#assignments) <br>
 — [Module Readings](#readings) <br>
 
-# Contents {#contents}
+# Contents Version II {#contents2}
 <sl-button href="#overview" variant="neutral" size="large">Module Overview</sl-button>
 <sl-button href="#outcomes" variant="neutral" size="large">Learning Outcomes</sl-button>
 <sl-button href="#concepts" variant="neutral" size="large">Key Concepts</sl-button>
