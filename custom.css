@@ -1,8 +1,9 @@
 juncture body {
-font-family: Montserrat;
+  font-family: Montserrat;
+  color: red;
 }
 
 juncture h1 {
-color: red;
-font-family: Montserrat;
+  color: red;
+  font-family: Montserrat;
 }
