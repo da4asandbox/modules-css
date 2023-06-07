@@ -1,9 +1,5 @@
-body {
-  font-family: Montserrat;
-  color: red;
-}
-
-juncture h1 {
-  color: red;
-  font-family: Montserrat;
+h1 {
+  font-size: 500px;
+  font-weight: normal;
+  margin-top: 5px;
 }
