@@ -89,7 +89,7 @@ Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, 
 - [Activity 1: HOLC Redlining Maps](#activity1) (30 min.)
 - [Activity: Data Biography of HOLC Redlining Maps](#activity2) (25 min.)
 
-# Activities (#activities)
+# Activities {#activities}
 
 ## Discussion: Catherine D'Ignazio and Lauren Klein, "Collect, Analyze, Imagine, Teach" {#discussion}
 
