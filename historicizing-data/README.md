@@ -52,7 +52,7 @@
 
 # Overview {#overview}
 
-This module teaches students about the historical dimensions of data: both the historical process and context within which datasets are produced, and how data has been used and misused at different points in history.
+Every dataset has a history. Understanding these origins are crucial for ethically and effectively harnessing datasets to address contemporary social issues. This module teaches students to study data as historical artifacts, exploring examples of how particular datasets have been produced, used, and misused in the past. Learning about data’s historical dimensions leads to a more conscious and ethically-minded data advocacy today.
 
 # Learning Outcomes {#outcomes}
 
