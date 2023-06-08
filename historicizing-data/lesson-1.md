@@ -20,7 +20,7 @@
  
 </style>
 
-.ve-header "Lesson 2.1: Data Histories" position=top sticky background=gh:da4asandbox/cameronessay-organization/media/Activity2-1Overview.png
+.ve-header "Lesson 2.1: Data Histories" position=top sticky logo=https://da4asandbox.github.io/cameronessay-organization/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
     - [Module 2](/module-2/)
