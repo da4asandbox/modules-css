@@ -82,41 +82,41 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 
 # Lesson Plans {.cards}
 
-#### Lesson 2.1: Data Histories {href=/module-2/2-1/}
+#### Lesson 2.1: Data Histories {href=/historicizing-data/lesson-1/}
 
 ![](https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
-<small>This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production.
+<small>This class introduces students to the idea that every dataset has a history behind it that has shaped its production.
 <br><br></small>
 
-<center><sl-button href="/module-2/2-1/" target="_blank" size=medium pill>View the full "Day 2.1" lesson plan</sl-button></center>
+<center><sl-button href="/historicizing-data/lesson-1/" target="_blank" size=medium pill>View the full "Day 2.1" lesson plan</sl-button></center>
 
-#### Lesson 2.2: Slavery and Data {href=/module-2/2-2/}
+#### Lesson 2.2: Studying Data History (Part 1): U.S. Slavery {href=/historicizing-data/lesson-2/}
 
 ![](https://images.unsplash.com/photo-1574788175339-a53dcba9a9bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1163&q=80)
 
-<small>This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data.
+<small>This class examines how enslavers constructed, recorded, and used data to reinforce a system of chattel slavery in the United States in the 1700s and 1800s. By studying this history, students will wrestle with whether this kind of data can be ethically used to recover the people and lives behind the numbers. 
 <br><br></small>
 
-<center><sl-button href="/module-2/2-2/" target="_blank" size=medium pill>View the full "Day 2.2" lesson plan</sl-button></center>
+<center><sl-button href="/historicizing-data/lesson-2/" target="_blank" size=medium pill>View the full "Day 2.2" lesson plan</sl-button></center>
 
-#### Lesson 2.3: The U.S. Census {href=/module-2/2-3/}
+#### Lesson 2.3: The U.S. Census {href=/historicizing-data/lesson-3/}
 
 ![](https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80)
 
 <small>This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census.
 <br><br></small>
 
-<center><sl-button href="/module-2/2-3/" target="_blank" size=medium pill>View the full "Day 2.3" lesson plan</sl-button></center>
+<center><sl-button href="/historicizing-data/lesson-3/" target="_blank" size=medium pill>View the full "Day 2.3" lesson plan</sl-button></center>
 
-#### Lesson 2.4: Working with Data {href=/module-2/2-4/}
+#### Lesson 2.4: Working with Data {href=/historicizing-data/lesson-4/}
 
 ![](https://images.unsplash.com/photo-1585858229735-cd08d8cb510d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 <small>This class brings the concept of "historicizing data" into the present by examining a particular topic and kind of data that students are likely personally familiar with: public health data related to COVID-19.
 <br><br></small>
 
-<center><sl-button href="/module-2/2-4/" target="_blank" size=medium pill>View the full "Day 2.4" lesson plan</sl-button></center>
+<center><sl-button href="/historicizing-data/lesson-4/" target="_blank" size=medium pill>View the full "Day 2.4" lesson plan</sl-button></center>
 
 # Assignments {#assignments}
 
