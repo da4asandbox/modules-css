@@ -76,7 +76,7 @@ Individual datasets each have a “biography” behind them: the who, when, wher
 
 **Tabular Data**
 
-Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data.
+Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. In this module students learn the basics of how tabular data is structured and some basic skills to explore it.
 
 #### {#plans}
 
