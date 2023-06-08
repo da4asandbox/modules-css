@@ -10,7 +10,7 @@
     
     #juncture h2 { font-size: 28px; }
     
-    #juncture h4 { text-align: center; }
+    #juncture h3 { font-size: 24px; }
     
     ul li { padding: 3px 0px; }
     
@@ -109,7 +109,7 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 
 <center><sl-button href="/historicizing-data/lesson-3/" target="_blank" size=medium pill>View the full "Day 2.3" lesson plan</sl-button></center>
 
-#### Studying Data History (Part 3): Public Health and COVID-19
+#### Lesson 2.4: Studying Data History (Part 3): Public Health and COVID-19
  {href=/historicizing-data/lesson-4/}
 
 ![](https://images.unsplash.com/photo-1585858229735-cd08d8cb510d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
