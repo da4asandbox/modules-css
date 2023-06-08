@@ -6,11 +6,13 @@
     
     #juncture { font-family: Montserrat; font-size: 20px; -hyphens: none; }
     
+    #font-weight:bold; { text-shadow: 1px; letter-spacing:1px; }
+    
     #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 600; }
     
     #juncture h2 { font-size: 28px; }
     
-    #juncture h3 { font-size: 24px; }
+    #juncture h4 { text-align: center; }
     
     ul li { padding: 3px 0px; }
     
@@ -70,7 +72,7 @@ Through this module, students will be able to define and consider the **followin
 
 Rather than seeing data as simply a source of quantitative information, this module approaches data as archival documents produced within particular cultural, political, and social moments in time.
 
-### **Data Biography** (H3)
+**Data Biography** (this is just using bold, which doesn't seem to distinguish it much?)
 
 Individual datasets each have a “biography” behind them: the who, when, where, how, and why of a dataset’s creation. This history has implications for how a given dataset should (and shouldn’t) be used today.
 
@@ -109,7 +111,7 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 
 <center><sl-button href="/historicizing-data/lesson-3/" target="_blank" size=medium pill>View the full "Day 2.3" lesson plan</sl-button></center>
 
-#### Lesson 2.4: Studying Data History (Part 3): Public Health and COVID-19
+#### Studying Data History (Part 3): Public Health and COVID-19
  {href=/historicizing-data/lesson-4/}
 
 ![](https://images.unsplash.com/photo-1585858229735-cd08d8cb510d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
