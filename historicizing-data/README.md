@@ -70,7 +70,7 @@ Through this module, students will be able to define and consider the **followin
 
 Rather than seeing data as simply a source of quantitative information, this module approaches data as archival documents produced within particular cultural, political, and social moments in time.
 
-**Data Biography** (this is just using bold, which doesn't seem to distinguish it much?)
+### **Data Biography** (H3)
 
 Individual datasets each have a “biography” behind them: the who, when, where, how, and why of a dataset’s creation. This history has implications for how a given dataset should (and shouldn’t) be used today.
 
