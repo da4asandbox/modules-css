@@ -87,9 +87,11 @@ Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, 
 - [Activity 1: HOLC Redlining Maps](#activity1) (30 min.)
 - [Activity: Data Biography of HOLC Redlining Maps](#activity2) (25 min.)
 
-# Discussion: Catherine D'Ignazio and Lauren Klein, "Collect, Analyze, Imagine, Teach" {#discussion}
+# Activities
 
-## Defining Concepts
+## Discussion: Catherine D'Ignazio and Lauren Klein, "Collect, Analyze, Imagine, Teach" {#discussion}
+
+### Defining Concepts
 - In small groups, try to come up with a working definition of the following concepts in your own words
     - Counterdata
     - "The Pitfalls of Proof"
@@ -97,7 +99,7 @@ Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, 
 - Do you think the distinction between "data ethics" vs. "data justice" is a useful one?
 - Can you think of other examples of "counterdata" that weren't mentioned in this chapter?
 
-## Applying Concepts
+### Applying Concepts
 - Look around the classroom. Take 5 minutes to brainstorm as many ideas as you can for kinds of data you might try and collect about what you see. Ex. "We could count the number of people wearing glasses."
 - Each person share *one idea* with your group members.
 - As a group, choose one idea.
@@ -105,19 +107,19 @@ Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, 
     - Negative: How would you irresponsibly collect this data? How might that data get misused?
     - Positive: How would you collect this data in a way that follows the principles of this chapter?
 
-# Activity 1: HOLC Redlining Maps {#activity1}
+## Activity 1: HOLC Redlining Maps {#activity1}
 
 <details>
 <summary><b>Instructor Note</b></summary>
 <p>In this activity, students use an interactive mapping project, *Mapping Inequality*, which has scanned, georeferenced, and overlaid HOLC maps from the 1930s onto modern cities. These maps were referenced in the *Data Feminism* reading for this module. This allows students to zoom into different nieighborhoods and explore how this federal agency overlaid conceptions of race, class, and ethnicity onto their grading system for mortgage lending. This activity uses Denver, Colorado, as its map, but teachers can substitute another city that might be more familiar for their students. This does require finding some suitable groupings of areas for students to zero in on.</p>
 </details><br>
 
-## Introduction
+### Introduction
 You read a bit about the mortgage risk maps created by ==the Homeowner’s Loan Corporation (HOLC)=={Q3139614} during the 1930s. In this activity you're going to explore one of these maps. Here is some background to get you started:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQz3b8r1BBskqVHoRuBArX9NwD6j3c6ZbknRFyHPrAgUhslpIPX29JdqGNFsHBOQrvYp4QuUFoxQ9Kg/embed?start=false&loop=false&delayms=10000" frameborder="0" width="100%" height="550" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><br>
 
-## Instructions:
+### Instructions:
 1.  Open this [1938 interactive map of Denver](https://dsl.richmond.edu/panorama/redlining/#loc=11/39.71/-105.117&city=denver-co ) produced by the ==Homeowner’s Loan Corporation (HOLC)=={Q3139614}
 2.  Spend a few minutes familiarizing yourself with the site and its interface. Try to get a handle on what kind of information is there and how to navigate the site. Bonus: try to find your school, home, church, favorite restaurant, etc.
 3.  Locate the four areas assigned to your group by zooming and “panning” around the map.
@@ -135,12 +137,12 @@ You read a bit about the mortgage risk maps created by ==the Homeowner’s Loan 
 
 .ve-iframe https://dsl.richmond.edu/panorama/redlining/#loc=12/39.71/-105.061&city=denver-co width=90%
 
-## Debrief
+### Debrief
 - Each group (A, B, C, D) summarize some general patterns across their areas.
 - Entire class: What seem to be the common factors that the mapmakers used to determine the "lending risk" of different areas of the city?
 - Entire class: What do you notice about the **differences** between these areas and neighborhoods, both in the 1930s and today?
 
-# Activity 2: Data Biography of HOLC Redlining Maps {#activity2}
+## Activity 2: Data Biography of HOLC Redlining Maps {#activity2}
 
 Your main assignment for this module is to produce a "data biography" about a historical dataset.[^1] A "data biography" is an attempt to narrate the paritcular history of a dataset - the when, where, how, why, etc. of its production. Today, we're going to just focus on the HOLC redlining maps that you explored earlier today.
 
