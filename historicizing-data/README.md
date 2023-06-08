@@ -119,13 +119,13 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 
 <center><sl-button href="/historicizing-data/lesson-4/" target="_blank" size=medium pill>View the full "Day 2.4" lesson plan</sl-button></center>
 
-# Assignments {#assignments}
+# Assignment {#assignments}
 
 ## Data Biography
 
-In this assignment, students analyze how a historical dataset was created: the who, what, when, how, and why of the dataset and its production.
+In this assignment, students apply the concept of a “data biography” to analyze the history behind a particular dataset: the who, what, when, how, and why of the dataset and its creation. In doing so, they learn about the different interpretative filters that shape the historical trajectory of a dataset, from its initial collection to its availability and usability today. 
 
-<sl-button href="/module-2/data-biography/" target="_blank" size=large pill>Read full assignment description</sl-button>
+<sl-button href="/historicizing-data/assignment/" target="_blank" size=large pill>Read full assignment description</sl-button>
 
 # Bibliography {#readings}
 
