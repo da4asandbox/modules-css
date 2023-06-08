@@ -52,13 +52,13 @@
 
 # Overview {#overview}
 
-Every dataset has a history. Understanding these origins are crucial for ethically and effectively harnessing datasets to address contemporary social issues. This module teaches students to study data as historical artifacts, exploring examples of how particular datasets have been produced, used, and misused in the past. Learning about data’s historical dimensions leads to a more conscious and ethically-minded data advocacy today.
+Every dataset has a history. Understanding these historical origins are crucial for ethically and effectively harnessing datasets to address contemporary social issues. This module teaches students to study data as historical artifacts, exploring examples of how particular datasets have been produced, used, and misused in the past. Learning about the history of data leads to more conscious and ethically-minded data advocacy practice today.
 
 # Learning Outcomes {#outcomes}
 
 Through this module, students will be able to:
-- *Approach data as a historical artifact and object of analysis*
-- *Understand how data was collected, used, and misused within different historical contexts*
+- *Approach data as historical artifacts and objects of analysis*
+- *Understand how data has been collected, used, and misused within different historical contexts*
 - *Analyze the origins and contexts of particular datasets: who, what, when, where, why, and how they were created*
 - *Work with tabular data and spreadsheets*
 
@@ -67,10 +67,10 @@ Through this module, students will be able to:
 Through this module, students will be able to define and consider the following concepts:
 
 **Data as Archive**
-> Students will learn to approach data as historical artificats. Rather than seeing data as purely a source of quantitative information, this module approaches data as archival documents with their own cultural, political, and social histories.
+> Rather than seeing data as simply a source of quantitative information, this module approaches data as archival documents produced within particular cultural, political, and social moments in time.
 
 **Data Biography**
-> All datasets are actively created. Rather than seeing data as objective reflections of the world, this module teaches students how to analyze the creators and contexts of datasets: the historical who, when, where, how, and why of a dataset's creation.
+> Individual datasets each have a “biography” behind them: the who, when, where, how, and why of a dataset’s creation. This history has implications for how a given dataset should (and shouldn’t) be used today.
 
 **Tabular Data**
 > Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data.
