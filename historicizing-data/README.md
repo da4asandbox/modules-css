@@ -128,7 +128,7 @@ In this assignment, students apply the concept of a “data biography” to anal
 
 # Bibliography {#readings}
 
-### Assigned Readings
+## Assigned Readings
 
 - Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
 - Daina Ramey Berry, *The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave* (2016), pp. 1-9, 33-57.
@@ -139,7 +139,7 @@ In this assignment, students apply the concept of a “data biography” to anal
     - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
 - ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
 
-### Additional Readings
+## Additional Readings
 
 - Joanna Radin, ["'Digital Natives': How Medical and Indigenous Histories Matter for Big Data"](https://www.journals.uchicago.edu/doi/full/10.1086/693853) *Osiris*
 Volume 32, Number 1 (2017).
