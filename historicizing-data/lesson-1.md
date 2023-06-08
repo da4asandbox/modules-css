@@ -16,7 +16,7 @@
 
     #contents.section1 { font-size:40px; }
     
-    #activities.section1 { h2 color: #002868; }
+    #activities.section1 { h2color: #002868; }
 
     ul li { padding: 3px 0px; }
  
