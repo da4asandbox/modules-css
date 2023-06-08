@@ -16,10 +16,11 @@
 
     #contents.section1 { font-size:40px; }
     
-    #activities.section1 { h2-color: #002868; }
+    #activities.section1 h2 { color: #002868; }
 
     ul li { padding: 3px 0px; }
- 
+
+    
 </style>
 
 .ve-header "Lesson 2.1: Data Histories" position=top sticky logo=https://da4asandbox.github.io/cameronessay-organization/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014
