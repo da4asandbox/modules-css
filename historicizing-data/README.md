@@ -64,16 +64,19 @@ Through this module, students will be able to:
 
 # Key Concepts {#concepts}
 
-Through this module, students will be able to define and consider the following concepts:
+Through this module, students will be able to define and consider the **following** concepts:
 
-**Data as Archive**
-> Rather than seeing data as simply a source of quantitative information, this module approaches data as archival documents produced within particular cultural, political, and social moments in time.
+## **Data as Archive** (this is a H2 visual)
 
-**Data Biography**
-> Individual datasets each have a “biography” behind them: the who, when, where, how, and why of a dataset’s creation. This history has implications for how a given dataset should (and shouldn’t) be used today.
+Rather than seeing data as simply a source of quantitative information, this module approaches data as archival documents produced within particular cultural, political, and social moments in time.
+
+**Data Biography** (this is just using bold, which doesn't seem to distinguish it much?)
+
+Individual datasets each have a “biography” behind them: the who, when, where, how, and why of a dataset’s creation. This history has implications for how a given dataset should (and shouldn’t) be used today.
 
 **Tabular Data**
-> Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data.
+
+Tabular data, often stored as spreadsheets, is one of the most common data formats students will encounter. This module teaches how tabular data is formated and some basic skills in how to explore tabular data.
 
 #### {#plans}
 
