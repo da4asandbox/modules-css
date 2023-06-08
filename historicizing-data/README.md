@@ -6,7 +6,7 @@
     
     #juncture { font-family: Montserrat; font-size: 20px; -hyphens: none; }
     
-    #juncture ** { text-shadow: 1px; letter-spacing:1px; }
+    #juncture ** { color: hotpink; text-shadow: 1px; letter-spacing:1px; }
     
     #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 600; }
     
