@@ -67,7 +67,7 @@ This class introduces students to studying data as a historical artifact - the i
 
 # Readings {#readings}
 
-- D’Ignazio, Catherine, and Lauren Klein. “Chapter 2: Collect, Analyze, Imagine, Teach.” In _Data Feminism._ MIT Press, 2020. [https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4).
+- D’Ignazio, Catherine, and Lauren Klein. “Chapter 2: Collect, Analyze, Imagine, Teach.” _Data Feminism._ MIT Press, 2020. [https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4).
 
 # Agenda {#agenda}
 
