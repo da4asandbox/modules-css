@@ -136,7 +136,7 @@ In this assignment, students apply the concept of a “data biography” to anal
 - ==Covart, Liz. _Daina Ramey Berry, The Value of the Enslaved from Womb to Grave._ 176, [https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave](https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/)=={description="Please be aware there’s no transcript available for this podcast."}
     - ==Alternative:=={description="Please note is is not an open source resource."} Berry, Daina Ramey. _The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave,_ 2016.
 - D’Ignazio, Catherine, and Lauren Klein. “Chapter 2: Collect, Analyze, Imagine, Teach.” _Data Feminism._ MIT Press, 2020. [https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4).
-- Mars, Roman. “Pandemic Tracking and the Future of Data.” 99% Invisible. Accessed June 9, 2023. [https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/).
+- Mars, Roman. _Pandemic Tracking and the Future of Data._ 489, [https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/).
 
 ## Additional Readings
 
