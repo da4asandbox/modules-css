@@ -28,7 +28,7 @@
 .ve-header "Lesson 2.1: Data Histories" position=top sticky logo=https://da4asandbox.github.io/cameronessay-organization/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
-    - [Module 2](/module-2/)
+    - [Module 2](/historicizing-data/)
     - [Lesson Overview](#overview)
     - [↳ Goals](#goals)
     - [↳ Readings](#readings)
@@ -38,7 +38,7 @@
     - [↳ Activity 2](#activity2)
 
 <p align=center>
-    <sl-button href="/module-2/" variant="default" size="large">Return to Module Overview</sl-button>
+    <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
     <sl-button href="/2-2/" variant="default" size="large">Next Lesson: 2.2: Slavery and Data</sl-button>
 </p>
 # Contents {#contents2}
@@ -46,7 +46,7 @@
 <p align=center>
     <sl-button href="#overview" variant="neutral" size="large">Lesson Overview</sl-button>
     <sl-button href="#goals" variant="neutral" size="large">Goals</sl-button>
-    <sl-button href="module-2/2-1/#readings" variant="neutral" size="large">Readings</sl-button>
+    <sl-button href="historicizing-data/2-1/#readings" variant="neutral" size="large">Readings</sl-button>
     <sl-button href="#agenda" variant="neutral" size="large">Agenda</sl-button>
     <sl-button href="#discussion" variant="neutral" size="large">Discussion</sl-button>
     <sl-button href="#activity1" variant="neutral" size="large">Activity 1</sl-button>
@@ -55,7 +55,7 @@
 
 # Overview {#overview}
 
-This class introduces students to "historicizing data" - the idea that data is not simply quantifiable information, but all data has a history behind it that shaped its production.
+This class introduces students to studying data as a historical artifact - the idea that data is not simply quantifiable information, but that all data has a history behind it that has shaped its production and use.
 
 # Lesson Goals {#goals}
 
@@ -64,33 +64,19 @@ This class introduces students to "historicizing data" - the idea that data is n
     <p><i>This reading lays out some conceptual frameworks for students to think about data as a historically <a href="http://www.google.com">produced artificact</a>.</i></p>
 </details>
 
-1. Establish a larger theoretical framework from *Data Feminism* to start to approach data as a historical artifact
-2. Help students explore a particular form of historical data (HOLC Redlining Maps) and how social concepts and biases of race, class, and religion shaped its production.
-3. Introduce students to the [Data Biography](module-2/data-biography) assignment and start to apply some of its framework to the HOLC Redlining Maps.
+1. Establish a larger theoretical framework from Data Feminism to approach data as a historical artifact
+2. Help students explore a particular form of historical data (HOLC Redlining Maps) and how biases of race, class, and religion shaped their production during the 1930s.
+3. Introduce students to the [Data Biography](historicizing-data/data-biography) assignment and start to apply some of its framework to the HOLC Redlining Maps.
 
 # Readings {#readings}
 
-### Instructor Note Option 1
-
-Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
->*This reading lays out some conceptual frameworks for students to think about data as a historically produced artificact.*
-
-### Instructor Note Option 2
-Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
-
-<details>
-    <summary><i>Instructor Note</i></summary>
-    <p><i>This reading lays out some conceptual frameworks for students to think about data as a historically produced artificact.</i></p>
-</details>
-
-### Instructor Note Option 3
-==Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)=={description="This reading lays out some conceptual frameworks for students to think about data as a historically produced artificact."}
+- Catherine D’Ignazio and Lauren Klein, ["Chapter 2: Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) from *Data Feminism* (MIT Press, 2020)
 
 # Agenda {#agenda}
 
-- [Discussion: Catherine D'Ignazio and Lauren Klein, "Collect, Analyze, Imagine, Teach"](#discussion) (20 min.)
-- [Activity 1: HOLC Redlining Maps](#activity1) (30 min.)
-- [Activity: Data Biography of HOLC Redlining Maps](#activity2) (25 min.)
+- Discussion: Catherine D'Ignazio and Lauren Klein, "Collect, Analyze, Imagine, Teach" (20 min.)
+- Activity 1: HOLC Redlining Maps (30 min.)
+- Activity 2: Data Biography of HOLC Redlining Maps (25 min.)
 
 # Activities {#activities}
 
