@@ -120,7 +120,7 @@ Here is some background to get you started:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQz3b8r1BBskqVHoRuBArX9NwD6j3c6ZbknRFyHPrAgUhslpIPX29JdqGNFsHBOQrvYp4QuUFoxQ9Kg/embed?start=false&loop=false&delayms=10000" frameborder="0" width="100%" height="550" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><br>
 
 #### Instructor Note:
-> Once you've selected your  map you'll need to do some investigating to come up with several areas of the city to assign to groups. In this case, the four areas of Denver encompass a range of socio-economic and racial dynamics (both historically and today): a wealthy neighborhood located next to a park, a historically black neighborhood, an immigrant community, etc.
+> _Once you've selected your  map you'll need to do some investigating to come up with several areas of the city to assign to groups. In this case, the four areas of Denver encompass a range of socio-economic and racial dynamics (both historically and today): a wealthy neighborhood located next to a park, a historically black neighborhood, an immigrant community, etc._
 
 ### Explore the Data
 
