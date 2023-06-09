@@ -164,12 +164,12 @@ As a group, navigate to the [Introduction page for the Mapping Inequality projec
 
 <br>
 <p align=center>
-    <sl-button href="/module-2/" variant="default" size="large">Return to Module 2 Overview</sl-button>
-    <sl-button href="/2-2/" variant="default" size="large">Next Lesson: 2.2: Slavery and Data</sl-button>
+    <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module 2 Overview</sl-button>
+    <sl-button href="/lesson-2/" variant="default" size="large">Next Lesson</sl-button>
 </p>
 
 .ve-footer
-    - [Previous: Module 2](/module-2/)
+    - [Module Overview](/historicizing-data/)
     - [Return to Homepage](/homepage/)
-    - [View All Modules](/allmodules/)
-    - [Next: Activity 2.2](/module-3/)
+    - [View All Modules](/modules/)
+    - [Next Lesson](/lesson-2/)
