@@ -30,7 +30,7 @@
     - [All Modules](https://data4all.com/modules)
     - [Module 2](/historicizing-data/)
     - [Lesson Overview](#overview)
-    - [↳ Goals](#goals)
+    - [↳ Learning Goals](#goals)
     - [↳ Readings](#readings)
     - [↳ Agenda](#agenda)
     - [↳ Discussion](#discussion)
@@ -39,26 +39,27 @@
 
 <p align=center>
     <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
-    <sl-button href="/2-2/" variant="default" size="large">Next Lesson: 2.2: Slavery and Data</sl-button>
+    <sl-button href="/lesson-2/" variant="default" size="large">Next Lesson</sl-button>
 </p>
 
 # Contents {#contents2}
 
 <p align=center>
     <sl-button href="#overview" variant="neutral" size="large">Lesson Overview</sl-button>
-    <sl-button href="#goals" variant="neutral" size="large">Goals</sl-button>
-    <sl-button href="historicizing-data/2-1/#readings" variant="neutral" size="large">Readings</sl-button>
+    <sl-button href="#goals" variant="neutral" size="large">Learning Goals</sl-button>
+    <sl-button href="#readings" variant="neutral" size="large">Readings</sl-button>
     <sl-button href="#agenda" variant="neutral" size="large">Agenda</sl-button>
     <sl-button href="#discussion" variant="neutral" size="large">Discussion</sl-button>
     <sl-button href="#activity1" variant="neutral" size="large">Activity 1</sl-button>
     <sl-button href="#activity2" variant="neutral" size="large">Activity 2</sl-button>
+    <sl-button href="#activity3" variant="neutral" size="large">Activity 3</sl-button>
 </p>
 
 # Overview {#overview}
 
 This class introduces students to studying data as a historical artifact - the idea that data is not simply quantifiable information, but that all data has a history behind it that has shaped its production and use.
 
-# Lesson Goals {#goals}
+# Learning Goals {#goals}
 
 1. Establish a larger theoretical framework from Data Feminism to approach data as a historical artifact
 2. Help students explore a particular form of historical data (HOLC Redlining Maps) and how biases of race, class, and religion shaped their production during the 1930s.
@@ -70,13 +71,13 @@ This class introduces students to studying data as a historical artifact - the i
 
 # Agenda {#agenda}
 
-- Discussion: "Collect, Analyze, Imagine, Teach" (20 min.)
-- Activity 1: HOLC Redlining Maps (30 min.)
-- Activity 2: Data Biography of HOLC Redlining Maps (25 min.)
+- [Discussion: "Collect, Analyze, Imagine, Teach" (20 min.)](#activity1)
+- [Small Group Work: HOLC Redlining Maps (30 min.)](#activity2)
+- [Small Group Work: Data Biography of HOLC Redlining Maps](#activity3)
 
 # Activities {#activities}
 
-## Discussion: "Collect, Analyze, Imagine, Teach" {#discussion}
+## Discussion: "Collect, Analyze, Imagine, Teach" {#activity1}
 
 ### Defining Concepts
 - **In small groups:** try to come up with a working definition of the following concepts from in your own words
@@ -91,54 +92,56 @@ This class introduces students to studying data as a historical artifact - the i
     - **Negative**: How would you irresponsibly collect your chosen data? How might that data get misused?
     - **Positive**: How would you collect this data in a way that follows one or more of the three concepts defined above?
 
-#### Instructor Note
- 
+#### Instructor Note:
 > Some additional discussion questions based on the readings: 
 > 
 > - Do you think the distinction between "data ethics" vs. "data justice" is a useful one? 
 > 
 > - Can you think of other examples of "counterdata" that weren't mentioned in this chapter?
 
-## Activity 1: HOLC Redlining Maps {#activity1}
+## Exploring HOLC Redlining Maps {#activity2}
 
 #### Instructor Note:
-> 
-> In this activity, students use an interactive mapping project, *Mapping Inequality*, which has scanned, georeferenced, and overlaid HOLC maps from the 1930s onto modern cities. These maps were referenced in the *Data Feminism* reading for this module. This allows students to zoom into different nieighborhoods and explore how this federal agency overlaid conceptions of race, class, and ethnicity onto their grading system for mortgage lending. This activity uses Denver, Colorado, as its map, but teachers can substitute another city that might be more familiar for their students. This does require finding some suitable groupings of areas for students to zero in on.
-
-<details>
-<summary><b>Instructor Note</b></summary>
-<p></p>
-</details><br>
+> In this activity, students use an interactive mapping project, *Mapping Inequality*, which has scanned, georeferenced, and overlaid HOLC maps from the 1930s onto modern cities. These maps were referenced in the *Data Feminism* reading for this module. This allows students to zoom into different nieighborhoods and explore how this federal agency overlaid conceptions of race, class, and ethnicity onto their grading system for mortgage lending. This activity uses **Denver, Colorado**, as its map, but teachers can substitute another city that might be more familiar for their students. This does require finding some suitable groupings of areas for students to zero in on.
 
 ### Introduction
-You read a bit about the mortgage risk maps created by ==the Homeowner’s Loan Corporation (HOLC)=={Q3139614} during the 1930s. In this activity you're going to explore one of these maps. Here is some background to get you started:
+
+In small groups: You read a bit about the mortgage risk maps created by ==the Homeowner’s Loan Corporation (HOLC)=={Q3139614} during the 1930s. In this activity you're going to explore one of these maps from **Denver, Colorado**. Each group will be assigned one particular area of the city to investigate on the map:
+
+- Group 1: A3, A4, A5, B5
+- Group 2: B10, C16, D7, D8
+- Group 3: D6, D12, D13, D15
+- Group 4: C19, D7, D10, D14
+
+Here is some background to get you started:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQz3b8r1BBskqVHoRuBArX9NwD6j3c6ZbknRFyHPrAgUhslpIPX29JdqGNFsHBOQrvYp4QuUFoxQ9Kg/embed?start=false&loop=false&delayms=10000" frameborder="0" width="100%" height="550" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><br>
 
-### Instructions:
-1.  Open this [1938 interactive map of Denver](https://dsl.richmond.edu/panorama/redlining/#loc=11/39.71/-105.117&city=denver-co ) produced by the ==Homeowner’s Loan Corporation (HOLC)=={Q3139614}
-2.  Spend a few minutes familiarizing yourself with the site and its interface. Try to get a handle on what kind of information is there and how to navigate the site. Bonus: try to find your school, home, church, favorite restaurant, etc.
-3.  Locate the four areas assigned to your group by zooming and “panning” around the map.
+#### Instructor Note:
+> Once you've selected your  map you'll need to do some investigating to come up with several areas of the city to assign to groups. In this case, the four areas of Denver encompass a range of socio-economic and racial dynamics (both historically and today): a wealthy neighborhood located next to a park, a historically black neighborhood, an immigrant community, etc.
 
-- Group A: A3, A4, A5, B5
-- Group B: B10, C16, D7, D8
-- Group C: D6, D12, D13, D15
-- Group D: C19, D7, D10, D14
+### Explore the Data
 
-4.  Click on each of the areas assigned to your group and read the accompanying notes that the mapmaker recorded for that area. Focus on the following text: **1. Area Characteristics**, **2. Inhabitants** , **5. Clarifying Remarks**.
+*In small groups:*
 
-- What’s there today? *Note: If you click Map Options -> Polygons you can see the current map of Denver underneath.*
-- Were they generally low or high risk?
-- What factors contributed to that grade?
+1.  Open this [1938 interactive map of Denver](https://dsl.richmond.edu/panorama/redlining/#loc=11/39.71/-105.117&city=denver-co) produced by the ==Homeowner’s Loan Corporation (HOLC)=={Q3139614}
+2.  Spend a few minutes familiarizing yourself with the site and its interface. Try to get a handle on what kind of information is there and how to navigate the site. **Bonus**: try to find your school, home, church, favorite restaurant, etc.
+3.  Locate the area of map assigned to your group by zooming and “panning” (moving) around the map.
+4.  Click on each of the sections assigned to your group and read the accompanying notes that the mapmaker recorded for that area. Focus on the following text: **1. Area Characteristics**, **2. Inhabitants** , **5. Clarifying Remarks**.
+5. One member of the group take notes on the following:
+- Were your sections marked as generally low or high risk?
+- What factors in the accompanying text seemed to contribute to those “grades” of low risk or high risk?
+- What’s there today? *Note: If you click Map Options -> Polygons you can see the current map of the city underneath.*
 
-.ve-iframe https://dsl.richmond.edu/panorama/redlining/#loc=12/39.71/-105.061&city=denver-co width=90%
-
-### Debrief
-- Each group (A, B, C, D) summarize some general patterns across their areas.
+### Whole Class Debrief
+- Each group share some patterns they noticed in their area.
 - Entire class: What seem to be the common factors that the mapmakers used to determine the "lending risk" of different areas of the city?
 - Entire class: What do you notice about the **differences** between these areas and neighborhoods, both in the 1930s and today?
 
-## Activity 2: Data Biography of HOLC Redlining Maps {#activity2}
+#### Instructor Note:
+> 
+
+## Data Biography of HOLC Redlining Maps {#activity3}
 
 Your main assignment for this module is to produce a "data biography" about a historical dataset.[^1] A "data biography" is an attempt to narrate the paritcular history of a dataset - the when, where, how, why, etc. of its production. Today, we're going to just focus on the HOLC redlining maps that you explored earlier today.
 
