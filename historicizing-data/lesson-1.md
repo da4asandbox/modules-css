@@ -13,6 +13,8 @@
     #juncture h2 { font-size: 28px; }
 
     #juncture h3 { font-size: 24px; }
+    
+    #juncture h4 { font-size: 20px; color: #690114; font-style: italic; }
 
     #contents.section1 { font-size:40px; }
     
@@ -58,11 +60,6 @@ This class introduces students to studying data as a historical artifact - the i
 
 # Lesson Goals {#goals}
 
-<details>
-    <summary><i>Instructor Note</i></summary>
-    <p><i>This reading lays out some conceptual frameworks for students to think about data as a historically <a href="http://www.google.com">produced artificact</a>.</i></p>
-</details>
-
 1. Establish a larger theoretical framework from Data Feminism to approach data as a historical artifact
 2. Help students explore a particular form of historical data (HOLC Redlining Maps) and how biases of race, class, and religion shaped their production during the 1930s.
 3. Introduce students to the [Data Biography](historicizing-data/data-biography) assignment and start to apply some of its framework to the HOLC Redlining Maps.
@@ -94,9 +91,8 @@ This class introduces students to studying data as a historical artifact - the i
     - **Negative**: How would you irresponsibly collect your chosen data? How might that data get misused?
     - **Positive**: How would you collect this data in a way that follows one or more of the three concepts defined above?
 
-
-> ***Instructor Note:*** 
-> 
+#### Instructor Note
+ 
 > Some additional discussion questions based on the readings: 
 > 
 > - Do you think the distinction between "data ethics" vs. "data justice" is a useful one? 
@@ -105,9 +101,13 @@ This class introduces students to studying data as a historical artifact - the i
 
 ## Activity 1: HOLC Redlining Maps {#activity1}
 
+#### Instructor Note:
+> 
+> In this activity, students use an interactive mapping project, *Mapping Inequality*, which has scanned, georeferenced, and overlaid HOLC maps from the 1930s onto modern cities. These maps were referenced in the *Data Feminism* reading for this module. This allows students to zoom into different nieighborhoods and explore how this federal agency overlaid conceptions of race, class, and ethnicity onto their grading system for mortgage lending. This activity uses Denver, Colorado, as its map, but teachers can substitute another city that might be more familiar for their students. This does require finding some suitable groupings of areas for students to zero in on.
+
 <details>
 <summary><b>Instructor Note</b></summary>
-<p>In this activity, students use an interactive mapping project, *Mapping Inequality*, which has scanned, georeferenced, and overlaid HOLC maps from the 1930s onto modern cities. These maps were referenced in the *Data Feminism* reading for this module. This allows students to zoom into different nieighborhoods and explore how this federal agency overlaid conceptions of race, class, and ethnicity onto their grading system for mortgage lending. This activity uses Denver, Colorado, as its map, but teachers can substitute another city that might be more familiar for their students. This does require finding some suitable groupings of areas for students to zero in on.</p>
+<p></p>
 </details><br>
 
 ### Introduction
