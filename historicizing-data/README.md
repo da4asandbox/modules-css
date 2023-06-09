@@ -130,12 +130,12 @@ In this assignment, students apply the concept of a “data biography” to anal
 # Bibliography {#readings}
 
 ## Assigned Readings
-- Bouk, Dan. “8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!” _Census Stories, USA (blog),_ October 29, 2018. [https://censusstories.us/2018/10/29/Alaska-paths.html](https://censusstories.us/2018/10/29/Alaska-paths.html).
-- Bouk, Dan. “Standing on the Crater of a Volcano.” _Census Stories, USA (blog),_ July 27, 2020. [https://censusstories.us/2020/07/27/disfranchisement.html](https://censusstories.us/2020/07/27/disfranchisement.html).
-- Bouk, Dan. “The Partners of Greenwich Village.” _Census Stories, USA (blog),_ July 3, 2018. [https://censusstories.us/2018/07/03/partners.html](https://censusstories.us/2018/07/03/partners.html).
-- ==Covart, Liz. “Daina Ramey Berry, The Value of the Enslaved from Womb to Grave.” Ben Franklin’s World Podcast. Accessed March 6, 2018. [https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave](https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/)=={description="Please be aware there’s no transcript available for this podcast."}
+- Bouk, Dan. “8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!” _Census Stories, USA,_ October 29, 2018. [https://censusstories.us/2018/10/29/Alaska-paths.html](https://censusstories.us/2018/10/29/Alaska-paths.html).
+- Bouk, Dan. “Standing on the Crater of a Volcano.” _Census Stories, USA,_ July 27, 2020. [https://censusstories.us/2020/07/27/disfranchisement.html](https://censusstories.us/2020/07/27/disfranchisement.html).
+- Bouk, Dan. “The Partners of Greenwich Village.” _Census Stories, USA,_ July 3, 2018. [https://censusstories.us/2018/07/03/partners.html](https://censusstories.us/2018/07/03/partners.html).
+- ==Covart, Liz. _Daina Ramey Berry, The Value of the Enslaved from Womb to Grave._ 176, [https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave](https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/)=={description="Please be aware there’s no transcript available for this podcast."}
     - ==Alternative:=={description="Please note is is not an open source resource."} Berry, Daina Ramey. _The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave,_ 2016.
-- D’Ignazio, Catherine, and Lauren Klein. “Chapter 2: Collect, Analyze, Imagine, Teach.” In _Data Feminism._ MIT Press, 2020. [https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4).
+- D’Ignazio, Catherine, and Lauren Klein. “Chapter 2: Collect, Analyze, Imagine, Teach.” _Data Feminism._ MIT Press, 2020. [https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4).
 - Mars, Roman. “Pandemic Tracking and the Future of Data.” 99% Invisible. Accessed June 9, 2023. [https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/).
 
 ## Additional Readings
