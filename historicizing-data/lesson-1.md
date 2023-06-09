@@ -133,7 +133,7 @@ Here is some background to get you started:
 - What factors in the accompanying text seemed to contribute to those “grades” of low risk or high risk?
 - What’s there today? *Note: If you click Map Options -> Polygons you can see the current map of the city underneath.*
 
-### Whole Class Debrief
+### Whole Class Discussion
 - Each group share some patterns they noticed in their area.
 - Entire class: What seem to be the common factors that the mapmakers used to determine the "lending risk" of different areas of the city?
 - Entire class: What do you notice about the **differences** between these areas and neighborhoods, both in the 1930s and today?
@@ -143,18 +143,24 @@ Here is some background to get you started:
 
 ## Data Biography of HOLC Redlining Maps {#activity3}
 
-Your main assignment for this module is to produce a "data biography" about a historical dataset.[^1] A "data biography" is an attempt to narrate the paritcular history of a dataset - the when, where, how, why, etc. of its production. Today, we're going to just focus on the HOLC redlining maps that you explored earlier today.
+### Small Groups:
+Your main assignment for this module is to produce a "data biography" about a historical dataset.[^1] A "data biography" is an attempt to narrate the particular history of a dataset - the when, where, how, why, etc. of its production. Today, we're going to practice this approach using the HOLC redlining maps that you explored.
 
 [^1]: Heather Krause provides a working definition of "data biography" in ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) *Global Investigative Journalism Network* (March 27, 2017).
 
-In small groups, navigate to the [Introduction page for the Mapping Inequality project](**https://dsl.richmond.edu/panorama/redlining/**). Draw on your own experience navigating one of the maps from the website and skim through the Introductory text to try and answer the following questions about the HOLC maps that produced in the 1930s (not the website itself):
+As a group, navigate to the [Introduction page for the Mapping Inequality project](https://dsl.richmond.edu/panorama/redlining/). Skim through the Introductory text from the website and draw on your own experience with navigating one of the maps  to try and answer the following questions about ***the HOLC maps that produced in the 1930s*** (not the website itself):
 
-- **What** kind of information was captured by the HOLC organization and its maps?
-- **Who** originally collected this information about a city and its residents?
+- **What** kind of information about a given city and its residents did the HOLC organization collect and visualize through its maps?
+- **Who** originally collected this information?
 - **How** did they collect this information?
 - **When** did they collect this information?
 - **Where** did this information come from? What was its geographical coverage?
 - **Why** did they collect it? What were the motivations behind the HOLC mapmaking initiative?
+
+### Whole Class Discussion:
+- Each group share how they answered one data biography question (What, Who, How, When, Where, Why). 
+- How does understanding the “biography” of why and how these maps were created inform your understanding of the city’s history? What impact might these maps have had on its development? 
+- What ways could you ethically use these maps in contemporary data advocacy projects? What ways should you avoid using the maps?
 
 <br>
 <p align=center>
