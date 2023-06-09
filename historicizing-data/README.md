@@ -131,7 +131,7 @@ In this assignment, students apply the concept of a “data biography” to anal
 
 ## Assigned Readings
 
-- ==Covart, Liz. “Daina Ramey Berry, The Value of the Enslaved from Womb to Grave.” Ben Franklin’s World Podcast. Accessed March 6, 2018. https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/. =={description="Please be aware there’s no transcript available for this podcast."}
+- ==Covart, Liz. “Daina Ramey Berry, The Value of the Enslaved from Womb to Grave.” Ben Franklin’s World Podcast. Accessed March 6, 2018. https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/=={description="Please be aware there’s no transcript available for this podcast."}
     - ==Alternative:=={description="Please note is is not an open source resource."} Berry, Daina Ramey. The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave, 2016.
 - Bouk, Dan. “8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!” Census Stories, USA (blog), October 29, 2018. https://censusstories.us/2018/10/29/Alaska-paths.html.
 - Bouk, Dan. “Standing on the Crater of a Volcano.” Census Stories, USA (blog), July 27, 2020. https://censusstories.us/2020/07/27/disfranchisement.html.
