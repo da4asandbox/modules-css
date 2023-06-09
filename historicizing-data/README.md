@@ -142,7 +142,7 @@ In this assignment, students apply the concept of a “data biography” to anal
 
 - ==Johnson, Jessica Marie. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” _Social Text_ 36, no. 4 (137) (December 1, 2018): 57–79. [https://doi.org/10.1215/01642472-7145658](https://doi.org/10.1215/01642472-7145658).=={description="Please note is is not an open source resource."} 
 - Radin, Joanna. “‘Digital Natives’: How Medical and Indigenous Histories Matter for Big Data.” _Osiris_ vol. 32, no. 1, Sept. 2017, pp. 43–64. [journals.uchicago.edu (Atypon), https://doi.org/10.1086/693853](https://doi.org/10.1086/693853).
-- ==Rosenthal, Caitlin. “Chapter 2. Slavery’s Scientific Management: Masters and Managers.” _Slavery’s Capitalism,_ University of Pennsylvania Press, 2016, pp. 62–86. (https://doi.org/10.9783/9780812293098-003)[https://doi.org/10.9783/9780812293098-003].=={description="Please note is is not an open source resource."} 
+- ==Rosenthal, Caitlin. “Chapter 2. Slavery’s Scientific Management: Masters and Managers.” _Slavery’s Capitalism,_ University of Pennsylvania Press, 2016, pp. 62–86. (www.degruyter.com, https://doi.org/10.9783/9780812293098-003)[https://doi.org/10.9783/9780812293098-003].=={description="Please note is is not an open source resource."} 
 
 .ve-footer
     - [Previous: Module 1](/module-1/)
