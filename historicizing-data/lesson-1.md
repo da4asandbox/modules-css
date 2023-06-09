@@ -93,11 +93,11 @@ This class introduces students to studying data as a historical artifact - the i
     - **Positive**: How would you collect this data in a way that follows one or more of the three concepts defined above?
 
 #### Instructor Note:
-> Some additional discussion questions based on the readings: 
+> _Some additional discussion questions based on the readings: 
 > 
 > - Do you think the distinction between "data ethics" vs. "data justice" is a useful one? 
 > 
-> - Can you think of other examples of "counterdata" that weren't mentioned in this chapter?
+> - Can you think of other examples of "counterdata" that weren't mentioned in this chapter?_
 
 ## Exploring HOLC Redlining Maps {#activity2}
 
