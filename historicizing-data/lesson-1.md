@@ -106,6 +106,10 @@ This class introduces students to studying data as a historical artifact - the i
 
 [Image of Denver map](https://s3.amazonaws.com/holc/tiles/CO/Denver/1938/holc-scan.jpg)
 
+.ve-media gh:da4asandbox/modules/media/denver-holc-scan.jpeg
+
+denver-holc-scan.jpeg
+
 ### Introduction
 
 In small groups: You read a bit about the mortgage risk maps created by ==the Homeowner’s Loan Corporation (HOLC)=={Q3139614} during the 1930s. In this activity you're going to explore one of these maps from **Denver, Colorado**. Each group will be assigned one particular area of the city to investigate on the map:
