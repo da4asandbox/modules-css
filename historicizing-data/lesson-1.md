@@ -14,8 +14,6 @@
 
     #juncture h3 { font-size: 24px; }
 
-    #juncture h4 { text-align: center; }
-
     #contents.section1 { font-size:40px; }
     
     #activities.section1 h2 { color: #002868; }
@@ -74,16 +72,16 @@ This class introduces students to studying data as a historical artifact - the i
 
 # Agenda {#agenda}
 
-- Discussion: Catherine D'Ignazio and Lauren Klein, "Collect, Analyze, Imagine, Teach" (20 min.)
+- Discussion: "Collect, Analyze, Imagine, Teach" (20 min.)
 - Activity 1: HOLC Redlining Maps (30 min.)
 - Activity 2: Data Biography of HOLC Redlining Maps (25 min.)
 
 # Activities {#activities}
 
-## Discussion: Catherine D'Ignazio and Lauren Klein, "Collect, Analyze, Imagine, Teach" {#discussion}
+## Discussion: "Collect, Analyze, Imagine, Teach" {#discussion}
 
 ### Defining Concepts
-- In small groups, try to come up with a working definition of the following concepts in your own words
+- In small groups, try to come up with a working definition of the following concepts from in your own words
     - Counterdata
     - "The Pitfalls of Proof"
     - Data Ethics vs. Data Justice
@@ -97,6 +95,13 @@ This class introduces students to studying data as a historical artifact - the i
 - Try to apply some of the concepts discussed above in "Collect, Analyze, Imagine, Teach" to the idea:
     - Negative: How would you irresponsibly collect this data? How might that data get misused?
     - Positive: How would you collect this data in a way that follows the principles of this chapter?
+
+> ***Instructor Note:*** 
+> Some additional discussion questions based on the readings: 
+> Do you think the distinction between "data ethics" vs. "data justice" is a useful one? 
+> Can you think of other examples of "counterdata" that weren't mentioned in this chapter?
+
+
 
 ## Activity 1: HOLC Redlining Maps {#activity1}
 
