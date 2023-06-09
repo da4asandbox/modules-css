@@ -39,6 +39,7 @@
     <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
     <sl-button href="/2-2/" variant="default" size="large">Next Lesson: 2.2: Slavery and Data</sl-button>
 </p>
+
 # Contents {#contents2}
 
 <p align=center>
@@ -81,20 +82,19 @@ This class introduces students to studying data as a historical artifact - the i
 ## Discussion: "Collect, Analyze, Imagine, Teach" {#discussion}
 
 ### Defining Concepts
-- In small groups, try to come up with a working definition of the following concepts from in your own words
+- **In small groups:** try to come up with a working definition of the following concepts from in your own words
     - Counterdata
     - "The Pitfalls of Proof"
     - Data Ethics vs. Data Justice
-- Do you think the distinction between "data ethics" vs. "data justice" is a useful one?
-- Can you think of other examples of "counterdata" that weren't mentioned in this chapter?
+- **As a whole class:** each group share your working definition and the instructor should write these definitions on the board. Other groups should add to these definitions or ask for clarifications as needed.
 
 ### Applying Concepts
-- Look around the classroom. Take 5 minutes to brainstorm as many ideas as you can for kinds of data you might try and collect about what you see. Ex. "We could count the number of people wearing glasses."
-- Each person share *one idea* with your group members.
-- As a group, choose one idea.
-- Try to apply some of the concepts discussed above in "Collect, Analyze, Imagine, Teach" to the idea:
-    - Negative: How would you irresponsibly collect this data? How might that data get misused?
-    - Positive: How would you collect this data in a way that follows the principles of this chapter?
+- Look around the classroom. Brainstorm as many ideas as you can for kinds of data you might try and collect about what you see. Ex. "We could count the number of people wearing glasses."
+- As a group, choose one of your ideas.
+- Try to apply the three concepts (Counterdata, “The Perils of Proof,” and Data Ethics vs. Data Justice) you defined from "Collect, Analyze, Imagine, Teach":
+    - Negative: How would you irresponsibly collect your chosen data? How might that data get misused?
+    - Positive: How would you collect this data in a way that follows one or more of the three concepts defined above?
+
 
 > ***Instructor Note:*** 
 > Some additional discussion questions based on the readings: 
