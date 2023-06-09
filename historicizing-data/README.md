@@ -139,14 +139,6 @@ In this assignment, students apply the concept of a “data biography” to anal
 - D’Ignazio, Catherine, and Lauren Klein. “Chapter 2: Collect, Analyze, Imagine, Teach.” In Data Feminism. MIT Press, 2020. https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4.
 - Mars, Roman. “Pandemic Tracking and the Future of Data.” 99% Invisible. Accessed June 9, 2023. https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/.
 
-
-MLA
-- Dan Bouk, *Census Stories, USA*: 
-    - [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html)
-    - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
-    - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
-- ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
-
 ## Additional Readings
 
 - Joanna Radin, ["'Digital Natives': How Medical and Indigenous Histories Matter for Big Data"](https://www.journals.uchicago.edu/doi/full/10.1086/693853) *Osiris*
