@@ -90,18 +90,18 @@ This class introduces students to studying data as a historical artifact - the i
 
 ### Applying Concepts
 - Look around the classroom. Brainstorm as many ideas as you can for kinds of data you might try and collect about what you see. Ex. "We could count the number of people wearing glasses."
-- As a group, choose one of your ideas.
-- Try to apply the three concepts (Counterdata, “The Perils of Proof,” and Data Ethics vs. Data Justice) you defined from "Collect, Analyze, Imagine, Teach":
-    - Negative: How would you irresponsibly collect your chosen data? How might that data get misused?
-    - Positive: How would you collect this data in a way that follows one or more of the three concepts defined above?
+- In small groups: choose one of your ideas and try to apply at least one of the three concepts (Counterdata, “The Perils of Proof,” and Data Ethics vs. Data Justice) you defined from "Collect, Analyze, Imagine, Teach" to that idea:
+    - **Negative**: How would you irresponsibly collect your chosen data? How might that data get misused?
+    - **Positive**: How would you collect this data in a way that follows one or more of the three concepts defined above?
 
 
 > ***Instructor Note:*** 
+> 
 > Some additional discussion questions based on the readings: 
-> Do you think the distinction between "data ethics" vs. "data justice" is a useful one? 
-> Can you think of other examples of "counterdata" that weren't mentioned in this chapter?
-
-
+> 
+> - Do you think the distinction between "data ethics" vs. "data justice" is a useful one? 
+> 
+> - Can you think of other examples of "counterdata" that weren't mentioned in this chapter?
 
 ## Activity 1: HOLC Redlining Maps {#activity1}
 
