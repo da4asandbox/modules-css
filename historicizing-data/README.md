@@ -143,6 +143,8 @@ In this assignment, students apply the concept of a “data biography” to anal
 
 - Joanna Radin, ["'Digital Natives': How Medical and Indigenous Histories Matter for Big Data"](https://www.journals.uchicago.edu/doi/full/10.1086/693853) *Osiris*
 Volume 32, Number 1 (2017).
+- Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads” *Social Text* (2018) 36 (4 (137)): 57–79.
+- Caitlin Rosenthal, “Slavery’s Scientific Management: Masters and Managers” in Sven Beckert and Seth Rockman, eds. *Slavery’s Capitalism* (2015).
 
 .ve-footer
     - [Previous: Module 1](/module-1/)
