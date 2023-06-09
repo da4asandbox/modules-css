@@ -130,20 +130,19 @@ In this assignment, students apply the concept of a “data biography” to anal
 # Bibliography {#readings}
 
 ## Assigned Readings
-
+- Bouk, Dan. “8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!” _Census Stories, USA (blog),_ October 29, 2018. [https://censusstories.us/2018/10/29/Alaska-paths.html](https://censusstories.us/2018/10/29/Alaska-paths.html).
+- Bouk, Dan. “Standing on the Crater of a Volcano.” _Census Stories, USA (blog),_ July 27, 2020. [https://censusstories.us/2020/07/27/disfranchisement.html](https://censusstories.us/2020/07/27/disfranchisement.html).
+- Bouk, Dan. “The Partners of Greenwich Village.” _Census Stories, USA (blog),_ July 3, 2018. [https://censusstories.us/2018/07/03/partners.html](https://censusstories.us/2018/07/03/partners.html).
 - ==Covart, Liz. “Daina Ramey Berry, The Value of the Enslaved from Womb to Grave.” Ben Franklin’s World Podcast. Accessed March 6, 2018. [https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave](https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/)=={description="Please be aware there’s no transcript available for this podcast."}
-    - ==Alternative:=={description="Please note is is not an open source resource."} Berry, Daina Ramey. The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave, 2016.
-- Bouk, Dan. “8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!” Census Stories, USA (blog), October 29, 2018. [https://censusstories.us/2018/10/29/Alaska-paths.html](https://censusstories.us/2018/10/29/Alaska-paths.html).
-- Bouk, Dan. “Standing on the Crater of a Volcano.” Census Stories, USA (blog), July 27, 2020. [https://censusstories.us/2020/07/27/disfranchisement.html](https://censusstories.us/2020/07/27/disfranchisement.html).
-- Bouk, Dan. “The Partners of Greenwich Village.” Census Stories, USA (blog), July 3, 2018. [https://censusstories.us/2018/07/03/partners.html](https://censusstories.us/2018/07/03/partners.html).
-- D’Ignazio, Catherine, and Lauren Klein. “Chapter 2: Collect, Analyze, Imagine, Teach.” In Data Feminism. MIT Press, 2020. [https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4).
+    - ==Alternative:=={description="Please note is is not an open source resource."} Berry, Daina Ramey. _The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave,_ 2016.
+- D’Ignazio, Catherine, and Lauren Klein. “Chapter 2: Collect, Analyze, Imagine, Teach.” In _Data Feminism._ MIT Press, 2020. [https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4).
 - Mars, Roman. “Pandemic Tracking and the Future of Data.” 99% Invisible. Accessed June 9, 2023. [https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/).
 
 ## Additional Readings
 
 - Johnson, Jessica Marie. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” _Social Text_ 36, no. 4 (137) (December 1, 2018): 57–79. [https://doi.org/10.1215/01642472-7145658](https://doi.org/10.1215/01642472-7145658). 
-- Radin, Joanna. “‘Digital Natives’: How Medical and Indigenous Histories Matter for Big Data.” Osiris 32, no. 1 (September 2017): 43–64. [https://doi.org/10.1086/693853](https://doi.org/10.1086/693853).
-- Rosenthal, Caitlin. “Chapter 2. Slavery’s Scientific Management: Masters and Managers.” In Slavery’s Capitalism, 62–86. University of Pennsylvania Press, 2016. (https://doi.org/10.9783/9780812293098-003)[https://doi.org/10.9783/9780812293098-003].
+- Radin, Joanna. “‘Digital Natives’: How Medical and Indigenous Histories Matter for Big Data.” _Osiris_ 32, no. 1 (September 2017): 43–64. [https://doi.org/10.1086/693853](https://doi.org/10.1086/693853).
+- Rosenthal, Caitlin. “Chapter 2. Slavery’s Scientific Management: Masters and Managers.” In _Slavery’s Capitalism,_ 62–86. University of Pennsylvania Press, 2016. (https://doi.org/10.9783/9780812293098-003)[https://doi.org/10.9783/9780812293098-003].
 
 .ve-footer
     - [Previous: Module 1](/module-1/)
