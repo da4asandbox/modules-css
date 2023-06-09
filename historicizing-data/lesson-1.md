@@ -104,8 +104,7 @@ This class introduces students to studying data as a historical artifact - the i
 #### Instructor Note:
 > In this activity, students use an interactive mapping project, *Mapping Inequality*, which has scanned, georeferenced, and overlaid HOLC maps from the 1930s onto modern cities. These maps were referenced in the *Data Feminism* reading for this module. This allows students to zoom into different nieighborhoods and explore how this federal agency overlaid conceptions of race, class, and ethnicity onto their grading system for mortgage lending. This activity uses **Denver, Colorado**, as its map, but teachers can substitute another city that might be more familiar for their students. This does require finding some suitable groupings of areas for students to zero in on.
 
-.ve-media https://s3.amazonaws.com/holc/tiles/CO/Denver/1938/holc-scan.jpg left
-
+[Image of Denver map](https://s3.amazonaws.com/holc/tiles/CO/Denver/1938/holc-scan.jpg)
 
 ### Introduction
 
@@ -140,9 +139,6 @@ Here is some background to get you started:
 - Each group share some patterns they noticed in their area.
 - Entire class: What seem to be the common factors that the mapmakers used to determine the "lending risk" of different areas of the city?
 - Entire class: What do you notice about the **differences** between these areas and neighborhoods, both in the 1930s and today?
-
-#### Instructor Note:
-> 
 
 ## Data Biography of HOLC Redlining Maps {#activity3}
 
