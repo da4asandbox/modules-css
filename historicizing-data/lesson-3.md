@@ -60,16 +60,9 @@ This class examines one of the major sources of data used by researchers, activi
 
 ## Learning Goals
 
-- Study the social and cultural history behind census data and its creation
-- Understand the process of categorization and data collection
-- How to work with tabular datasets
-
-
-## Agenda
-
-- Discussion: Dan Bouk, *Census Stories, USA*
-- Activity: Transcribing Data
-- Tutorial: Spreadsheet Functions
+1. Study the social and cultural history behind census data and its creation
+2. Understand the process of categorization and data collection
+3. How to work with tabular datasets
 
 ## Readings
 
@@ -80,6 +73,13 @@ This class examines one of the major sources of data used by researchers, activi
     - [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html)
     - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
     - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
+
+## Agenda
+
+- Activity: Census Data Today (15 min.)
+- Discussion: Dan Bouk, Census Stories, USA (20 min.)
+- Tutorial: Spreadsheet Functions and Census Data (25 min.)
+- Discussion: Who Counts in the US Census? (15 min.)
 
 ## Discussion: Dan Bouk, *Census Stories, USA*
 
