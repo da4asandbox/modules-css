@@ -25,13 +25,13 @@ How to work with tabular datasets
 
 ## Readings
 
+#### Instructor Note:
+> _Dan Bouk’s Census Stories, USA is a collection of blog posts written during the course of his research for his book, Democracy’s Data. They are written in a more informal style than a traditional academic monograph, and offer bite-sized windows into the social, political, and cultural history behind the US Census. They are, above all, a reminder that data itself has a history and one that is wrapped up in the lives of individual people._
+
 - Dan Bouk, *Census Stories, USA*: 
     - [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html)
     - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
     - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
-
-**Further Readings**
-- “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, The American Census: A Social History (pp. 86-114)
 
 ## Discussion: Dan Bouk, *Census Stories, USA*
 
