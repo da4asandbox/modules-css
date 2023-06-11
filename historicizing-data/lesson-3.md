@@ -84,6 +84,9 @@ This class examines one of the major sources of data used by researchers, activi
 
 ## Activity: Census Data Today
 
+#### Instructor Note:
+> _This activity has students explore modern census data for their home state. They should get a sense for what kind of data the government is collecting along with sparking their interest about some of the data insights into their state. This will set up the rest of today’s discussion about how this information has been collected and used at different points in American history._
+
 ## Discussion: Dan Bouk, Census Stories, USA
 
 ## Tutorial: Spreadsheet Functions and Census Data
