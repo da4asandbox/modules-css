@@ -127,25 +127,17 @@ Go to this starting page: [Trans-Atlantic Slave Trade - Understanding the Databa
 - If you were going to give feedback to the project team about its website and documentation, what would you say?
 
 #### Instructor Note:
-> 
 > - One of the important takeawyays of this activity is to develop some strategies for uncovering more information about a database's biography. For this dataset, it requires both skimming the Methodology section of the specific Trans-Atlantic Slave Trade Database but also reading the [About page](https://www.slavevoyages.org/about/) for the entire website. 
 > 
 > - Emphasize that the About page is the primary place you will often go for data projects to answer some of the above questions.
 >
 > - Finally, sometimes a Google Search can be an even more effcient way to uncover some of this information. For instance, a Google Search for ```Trans-Atlantic Slave Trade Database``` brings up [a much more digestible summary of the project](https://hutchinscenter.fas.harvard.edu/trans-atlantic-slave-trade-database).
 
-
 ## Tutorial: Working With Tabular Data
 
-Tabular data is the storage of information through a system of rows and columns. Arguably the most common format you will come across tabular data is through a spreadsheet. Although spreadsheets can come in several different file types, for today we're going to work in Google Sheets. 
+Tabular data is the storage of information through a system of rows and columns. Arguably the most common format for tabular data is a spreadsheet. Although spreadsheets can come in several different file types, for today we're going to work in Google Sheets. For homework you watched the beginning of the video tutorial, "How to use Google Sheets - Tutorial for Beginners". This provides a nice introduction to spreadsheets and the Google Sheets interface. Your goal today is to apply some of those lessons to a different spreadsheet.
 
-**Orientation**
-
-To get oriented to Google Sheets, watch the first **13 minutes** of the video ["How to use Google Sheets - Tutorial for Beginners"](https://www.youtube.com/watch?v=TENAbUa-R-w). This provides a nice introduction to spreadsheets and the Google Sheets interface:
-
-.ve-media https://www.youtube.com/watch?v=TENAbUa-R-w start=103 end=771 width=70%
-
-<br>**Exploring the Trans-Atlantic Slave Trade Dataset**
+### Getting the Data
 
 - To get more comfortable with spreadsheets, you're going to be working with a subset of the Transatlantic Slave Trade Database. You can download the entire dataset through the project website, but this can be difficult to work with given the amount of information it includes. Instead, you're going to be looking at a subset of the data to practice your spreadsheet skills.
 - [Go to this Google Sheet](https://docs.google.com/spreadsheets/d/1CUrZM06ZRBajyx2gRJN1IkRfZYx7cUgl2fkteNqpvpU/edit?usp=sharing) then make a copy of the entire file in your Google account by going to `File -> Make a copy`. 
@@ -153,7 +145,7 @@ To get oriented to Google Sheets, watch the first **13 minutes** of the video ["
 
 .ve-iframe https://docs.google.com/spreadsheets/d/1CUrZM06ZRBajyx2gRJN1IkRfZYx7cUgl2fkteNqpvpU/edit?usp=sharing width=80%
 
-<br>**Sorting Spreadsheets** 
+### Sorting Spreadsheets
 
 Sorting a spreadsheet allows you to "read" a spreadsheet more easily by ordering all the rows by different criteria (typically either alphabetically or numerically - ie. smallest to largest). [Instructions on how to sort a Google Sheet](https://support.google.com/docs/answer/3540681?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Sort%20data%20in%20alphabetical%20or%20numerical%20order).
 
@@ -162,12 +154,13 @@ Sorting a spreadsheet allows you to "read" a spreadsheet more easily by ordering
     - How many captives did that ship carry when it embarked on its voyage? ```1500 captives```
     - What country's flag did it sail under? ```U.S.A```
 
->Question to put some of these numbers in context: Look around. How many students are in this classroom? If each classroom in this building had roughly the same number of students, how many classes would you need to combine to equal the total number of captives that were forced onto this single ship?
+#### Instructor Note:
+> *At this point in the tutorial, it can be useful to pause and try to get students to put these numbers into context and remind them that they represent human beings. One option is to ask students to look around - how many students are in this classroom? If each classroom in this building had roughly the same number of students, how many classes would you need to combine to equal the total number of captives that were forced onto this single ship?*
 
 - Try sorting the spreadsheet so that you can answer the following questions: What year was the  **earliest** and **latest** recorded arrival of a transatlantic slave trade voyage in this database? ```1514``` and ```1866```
 - Sort the spreadhseet by `Voyage ID` so that it is back in its original order.
 
-**Filtering Spreadsheets** 
+### Filtering Spreadsheets
 
 Filtering a spreadsheet allows you to only look at a particular subset of the spreadsheet while "hiding" the rest of the rows. This can be helpful if your dataset is quite long and you want to zero in on just some of your rows.
 
@@ -183,18 +176,16 @@ Filtering a spreadsheet allows you to only look at a particular subset of the sp
     - Use the filter option for `Flag of vessel` to **only** see ships that flew the country flags: `U.S.A` or `Great Britain`. How many vessels fall under this category? `14,275`
     - Use the filter option for `Outcome of voyage for owner`. How many voyages ended in the outcome: `Original goal thwarted (natural hazard)` ? `3,157`
     
-## Debrief
+## Discussion: Numbers vs. People
 
-- Based on your exploration of the database and some of the contents of the data, what sorts of insights do you think researchers can or have arrived at by analyzing this kind of quantitative information about slavery? Essentially, what are the benefits of this data-driven approach?
-- Watch the following video of an animated data visualization using the Transatlantic Slave Trade Database and consider some of the following questions:
-    - What are the strengths of this visualization for studying and understanding the Transatlantic Slave Trade?
-    - What are some risks or downsides of this kind of data visualization? Does it reduce human beings into nameless dots?
+The Transatlantic Slave Trade Database is one example of how researchers can use data to study the history of slavery in the United States. In the remainder of class, we’re going to put this example into conversation with a second example: Daina Ramey Berry’s book, *The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave*. 
+
+### Example 1: Data Visualization of Transatlantic Slave Trade Database
+
+
 
 .ve-media https://www.youtube.com/watch?v=SKo-_Xxfywk width=60%
 
-**Additional resources for spreadsheets:**
-
-https://multimedia.journalism.berkeley.edu/tutorials/spreadsheets/
 
 .ve-footer
     - [Previous: Day 2.1](/2-1/)
