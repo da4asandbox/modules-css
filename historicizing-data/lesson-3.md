@@ -87,6 +87,20 @@ This class examines one of the major sources of data used by researchers, activi
 #### Instructor Note:
 > _This activity has students explore modern census data for their home state. They should get a sense for what kind of data the government is collecting along with sparking their interest about some of the data insights into their state. This will set up the rest of today’s discussion about how this information has been collected and used at different points in American history._
 
+### Individually:
+- Find the the US Census Bureau’s “data profile” of your home state:
+    - Go to https://data.census.gov/map 
+    - Click on your home state
+    - Click “View Profile”
+- Spend several minutes and skim through the data profile for your state. Take note of the following:
+    - What KIND of information is being shown on this page? What are the different sources of this information?
+    - What are 3 interesting results or patterns that you didn’t know or found surprising about your home state?
+    - What other data about your state do you wish you could find on this page?
+
+### In small groups:
+Share what you found with your group members and come up with 1 interesting result + 1 additional piece of data you want to know more about.
+
+
 ## Discussion: Dan Bouk, Census Stories, USA
 
 ## Tutorial: Spreadsheet Functions and Census Data
