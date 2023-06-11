@@ -10,7 +10,7 @@
 
     #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 600; }
 
-    #juncture h2 { font-size: 28px; font-weight: 600}
+    #juncture h2 { font-size: 28px; font-weight: 900}
 
     #juncture h3 { font-size: 24px; }
     
