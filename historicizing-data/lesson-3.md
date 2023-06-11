@@ -125,10 +125,12 @@ This class examines one of the major sources of data used by researchers, activi
 > _These activities will help students get more comfortable working with spreadsheets and understanding how spreadsheet functions work while also highlighting some of the political choices that shape the Census data and how it is recorded and categorized._
 
 ### Get the Data
-- Today you're going to be learning some more spreadsheet skills using state-level census data from 2010 and 2020.
-- Make a copy of the Google Sheet: https://docs.google.com/spreadsheets/d/1MqIsMvJW5EddzWiOk4jddqNojcNkN_IaNsGNtfmZL7w/edit?usp=sharing 
+Today you're going to be learning some more spreadsheet skills using state-level census data from 2010 and 2020. To get started, make a copy of the following Google Sheet: https://docs.google.com/spreadsheets/d/1MqIsMvJW5EddzWiOk4jddqNojcNkN_IaNsGNtfmZL7w/edit?usp=sharing.
+
+
 
 ### Spreadsheet Functions
+Functions
 Watch minute 20:00-28:30 of this video: https://youtu.be/TENAbUa-R-w?t=1200 
 
 Apply some of the functions you learned in the above video to answer the following by in the Population Change sheet in your Google Sheet:
