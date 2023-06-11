@@ -143,15 +143,18 @@ Use the spreadsheet [sorting feature](https://support.google.com/docs/answer/354
 - ==What states LOST population between 2010 and 2020?=={description="Answer: Illinois, Mississippi, and West Virginia"}
 - ==What three states had the largest GAIN in population as a percentage of their 2010 population?=={description="Answer: Utah, Idaho, Texas"}
 
-The total U.S. population counted by the 2020 Census was 331,449,281. However, in a number of news articles and other data tables you will find a different, higher number: 334,735,155. What accounts for this discrepancy of more than 3 million people?
+#### Instructor Note:
+> _The rest of the tutorial focuses on missing data: namely, Puerto Rico. Although the US Census collects information about Puerto Rico, oftentimes you will not see those numbers in tables of state-level census data because Puerto Rico is a federal territory, not a state. This sets up the following discussion about who “counts” in the US Census and how certain people are categorized and counted._
 
-Teacher’s Note:
-The answer: Puerto Rico. This last part of the tutorial sets up a broader discussion about who “counts” in the US Census and how certain people are categorized/counted.
+### Missing Data:
 
-In your spreadsheet:
-Insert a new row into the sheet and add the missing data.
-Sort your rows by the 2020 population. 
-Where does your new row fall in a national rank of states by population? What states is it comparable to?
+***In small groups:***
+
+The total U.S. population counted by the 2020 Census was `331,449,281`. However, in a number of news articles and other data tables you will find a different, higher number: `334,735,155`. Collectively put on your detective hats and try to find the answer: ==**What accounts for this discrepancy of more than 3 million people?**=={description="Answer: Puerto Rico"}
+
+- Insert a new row into the sheet and add the missing data.
+- Sort your rows by the 2020 population. 
+- Where does your new row fall in a national rank of states by population? What states is it comparable to?
 
 
 ## Discussion: Who Counts in the US Census?
