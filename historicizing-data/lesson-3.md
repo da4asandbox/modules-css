@@ -143,12 +143,10 @@ Use the spreadsheet [sorting feature](https://support.google.com/docs/answer/354
 - ==What states LOST population between 2010 and 2020?=={description="Answer: Illinois, Mississippi, and West Virginia"}
 - ==What three states had the largest GAIN in population as a percentage of their 2010 population?=={description="Answer: Utah, Idaho, Texas"}
 
-#### Instructor Note:
-> _The rest of the tutorial focuses on missing data: namely, Puerto Rico. Although the US Census collects information about Puerto Rico, oftentimes you will not see those numbers in tables of state-level census data because Puerto Rico is a federal territory, not a state. This sets up the following discussion about who “counts” in the US Census and how certain people are categorized and counted._
-
 ### Missing Data:
 
-***In small groups:***
+#### Instructor Note:
+> _The rest of the tutorial focuses on missing data: namely, Puerto Rico. Although the US Census collects information about Puerto Rico, oftentimes you will not see those numbers in tables of state-level census data because Puerto Rico is a federal territory, not a state. This sets up the following discussion about who “counts” in the US Census and how certain people are categorized and counted._
 
 The total U.S. population counted by the 2020 Census was `331,449,281`. However, in a number of news articles and other data tables you will find a different, higher number: `334,735,155`. Collectively put on your detective hats and try to find the answer: ==**What accounts for this discrepancy of more than 3 million people?**=={description="Answer: Puerto Rico"}
 
@@ -156,9 +154,33 @@ The total U.S. population counted by the 2020 Census was `331,449,281`. However,
 - Sort your rows by the 2020 population. 
 - Where does your new row fall in a national rank of states by population? What states is it comparable to?
 
-
 ## Discussion: Who Counts in the US Census?
 
+The fact that Puerto Rico often does not appear in tables of state-level Census data is a direct result of the United States's history of colonialism. [The following video](https://www.youtube.com/watch?v=8EOxtY3M6Co) gives some historical background on the topic:
+
+.ve-media https://www.youtube.com/watch?v=8EOxtY3M6Co width=70% caption="Christina Thornell, “Why Puerto Rico is not a US state,” Vox Media, (January 15, 2018), "
+
+### Small group discussion:
+- In what ways do Puerto Rico’s residents “count” within the United States population? 
+- In what ways do Puerto Rico’s residents not “count”?
+
+### Categorizing People
+
+#### Instructor Note:
+> _You can find the answers to each of these scenarios [here](https://www.census.gov/content/dam/Census/programs-surveys/decennial/2020-census/2020-Census-Residence-Criteria.pdf). All of these examples get at just how challenging it is for the US Census to not just count people, but to categorize them based on where they live._
+
+The Census Bureau aims to record the state in which a person resides and the specific location within that state. To do so they use the concept of “usual residence,” which is defined by the Census Bureau as the place where a person lives and sleeps most of the time. Given this general definition, go through the following scenarios in small groups and come up with an answer for how you think the Census Bureau should count them:
+
+- An international student enrolled at an American university for one semester
+- An American student studying abroad in a foreign country
+- Someone experiencing homelessness who sleeps in their car
+- A service member stationed at a military base in another country
+- A service member stationed on a vessel in international waters
+- A seasonal employee who works part of the year in multiple states
+
+### Whole class discussion:
+
+- What are some the lessons you learned today about census data that you might apply to contemporary data advocacy projects? What should you keep in mind while working with census data?
 
 <br>
 <p align=center>
