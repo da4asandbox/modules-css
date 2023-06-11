@@ -84,20 +84,20 @@ This class examines how enslavers constructed, recorded, and used data to reinfo
 ### Introduction: Learning About Slavery
 
 #### Instructor Note:
-> _This warm-up activity gets students thinking about the history of slavery while also reflecting on how and what they've learned about this topic. Depending on the class and student body, you can add more historical context. There is also a helpful guide with suggested language and vocabulary to use when teaching about slavery: ["Writing About Slavery? Teaching About Slavery?"](https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/mobilebasic).
+> _This warm-up activity gets students thinking about the history of slavery while also reflecting on how and what they've learned about this topic. Depending on the class and student body, you can add more historical context. There is also a helpful guide with suggested language and vocabulary to use when teaching about slavery: ["Writing About Slavery? Teaching About Slavery?"](https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/mobilebasic)._
 
-Slavery was an absolutely foundational part of United States history. Here is the "big picture":
+Slavery was an absolutely foundational part of United States history:
 
 - System of “chattel” slavery developed in United States from 1700s through 1850s
 - Slavery accelerated with rise of cotton as a global commodity from 1820s-1850s, as cotton exports (based on enslaved labor) became a major part of the American economy
 - US Civil War fought 1861-1865 over the issue of slavery and its expansion
 - Slavery officially abolished in 1865 with passage of 13th Amendment
 
-***Small Group Discussion:***
+### In small groups:
 - What are the different ways you’ve learned about the history of slavery in the United States - ex. history classes, movies, books, etc.?
 - What people come to mind when you reflect on what you’ve learned about slavery? These can be specific names or general groups of people.
 
-***Recap:***
+### Whole class:
 
 Studying the topic of slavery in the United States poses some major challenges: namely, that the vast majority of enslaved people did not leave behind written records of their lives. Without these records, historians have had to turn to other kinds of sources and methods. Today we are going to explore one of these approaches: data. Over today’s class you will explore **how quantitative data can (and can’t) be used to understand the history of slavery in the United States**.
 
@@ -109,7 +109,9 @@ To do so we are going to focus on ***two examples*** of historical data related 
 
 The Trans-Atlantic Slave Trade Database is a watershed digital project focused on the history of slavery and specifically the forced transportation of enslaved people out of Africa. To start, you're going to practice the same approach you'll be taking when you complete your [Data Biography](/assignment) of a separate dataset. 
 
-In small groups, go to this starting page: [Trans-Atlantic Slave Trade - Understanding the Database](https://www.slavevoyages.org/voyage/about#methodology/introduction/0/en/). Set a timer for **8 minutes** and try to collectively find answers to the following questions about the dataset, writing notes for each question in a shared Google Doc. 
+### In small groups:
+
+Go to this starting page: [Trans-Atlantic Slave Trade - Understanding the Database](https://www.slavevoyages.org/voyage/about#methodology/introduction/0/en/). Set a timer for **8 minutes** and try to collectively find answers to the following questions about the dataset, writing notes for each question in a shared Google Doc. 
 
 *Note: this database is part of the larger SlaveVoyages website. You are only answering questions for the "Trans-Atlantic Slave Trade" databse, but to answer them you will need to explore other parts of the website.*
 
@@ -120,15 +122,18 @@ In small groups, go to this starting page: [Trans-Atlantic Slave Trade - Underst
 - **Why** was it collected, processed, and made available?
 - **How** is the data stored today? 
 
-<br>
-### Debrief
+### Whole class:
 - Which questions did you find the hardest to answer?
 - If you were going to give feedback to the project team about its website and documentation, what would you say?
 
-### Takeaways
-- One of the important takeawyays of this activity is to develop some strategies for uncovering more information about a database's biography. For this dataset, it requires both skimming the Methodology section of the specific Trans-Atlantic Slave Trade Database but also reading the [About page](https://www.slavevoyages.org/about/) for the entire website. 
-- Emphasize that the About page is the primary place you will often go for data projects to answer some of the above questions. 
-- Finally, sometimes a Google Search can be an even more effecient way to uncover some of this information. For instance, a Google Search for ```Trans-Atlantic Slave Trade Database``` brings up [a much more digestible summary of the project](https://hutchinscenter.fas.harvard.edu/trans-atlantic-slave-trade-database).
+#### Instructor Note:
+> 
+> - One of the important takeawyays of this activity is to develop some strategies for uncovering more information about a database's biography. For this dataset, it requires both skimming the Methodology section of the specific Trans-Atlantic Slave Trade Database but also reading the [About page](https://www.slavevoyages.org/about/) for the entire website. 
+> 
+> - Emphasize that the About page is the primary place you will often go for data projects to answer some of the above questions.
+>
+> - Finally, sometimes a Google Search can be an even more effcient way to uncover some of this information. For instance, a Google Search for ```Trans-Atlantic Slave Trade Database``` brings up [a much more digestible summary of the project](https://hutchinscenter.fas.harvard.edu/trans-atlantic-slave-trade-database).
+
 
 ## Tutorial: Working With Tabular Data
 
