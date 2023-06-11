@@ -74,25 +74,42 @@ This class examines how enslavers constructed, recorded, and used data to reinfo
 
 # Agenda
 
-- Discussion: Daina Ramey Berry, *The Price for Their Pound of Flesh* (15 min.)
-- Activity: The Trans-Atlantic Slave Trade Database (25 min.)
-- Tutorial: Exploring Tabular Data (25 min.)
-- Debrief (10 min.)
+- Introduction: Learning About Slavery (10 min.)
+- Activity: The Trans-Atlantic Slave Trade Database (15 min.)
+- Tutorial: Working With Tabular Data (25 min.)
+- Discussion: People vs. Numbers (25 min.)
 
 # Lesson Plan
 
-## Discussion: Berry, *The Price for Their Pound of Flesh*
+### Introduction: Learning About Slavery
 
-**Accordingly to Berry, what were different types of value that enslaved people assigned to themselves and were assigned to them?**
 
-> Berry's categories of value:
 
-> 1. Spirit or soul value. The self-worth of enslaved people
-> 2. Appraisal value. Projected values by planters, doctors, traders, etc. for “potential work output.”
-> 3. Market value. Sale price for their human flesh - “often marked the highest price paid for them as commodities”
-> 4. Ghost value. Price tag affixed to deceased enslaved bodies through the “domestic cadaver trade”
+Slavery was an absolutely foundational part of United States history. Here is the "big picture":
+- System of “chattel” slavery developed in United States from 1700s through 1850s
+- Slavery accelerated with rise of cotton as a global commodity from 1820s-1850s, as cotton exports (based on enslaved labor) became a major part of the American economy
+- US Civil War fought 1861-1865 over the issue of slavery and its expansion
+- Slavery officially abolished in 1865 with passage of 13th Amendment
 
-**What kind of narrative choices does Berry make in this book in attempting to balance stories and narratives vs. numbers and statistics? What does the data *add* to her interpretation?**
+***Small Group Discussion:***
+- What are the different ways you’ve learned about the history of slavery in the United States - ex. history classes, movies, books, etc.?
+- What people come to mind when you reflect on what you’ve learned about slavery? These can be specific names or general groups of people.
+
+***Recap:***
+
+Studying the topic of slavery in the United States poses some major challenges: namely, that the vast majority of enslaved people did not leave behind written records of their lives. Without these records, historians have had to turn to other kinds of sources and methods. Today we are going to explore one of these approaches: data. Over today’s class you will explore **how quantitative data can (and can’t) be used to understand the history of slavery in the United States**.
+
+To do so we are going to focus on ***two examples*** of historical data related to slavery and US history:
+1. The Transatlantic Slave Trade Database
+2. Daina Ramey Berry, *The Price for Their Pound of Flesh*
+
+### Introduction: Learning About Slavery
+Instructor: go over the following “big picture” of slavery and its history in the United States.
+System of “chattel” slavery developed in United States from 1700s through 1850s
+Slavery accelerated with rise of cotton as a global commodity from 1820s-1850s, as cotton exports (based on enslaved labor) became a major part of the American economy
+US Civil War fought 1861-1865 over the issue of slavery and its expansion
+Slavery officially abolished in 1865 with passage of 13th Amendment
+
 
 ## Activity: The Trans-Atlantic Slave Trade Database
 
