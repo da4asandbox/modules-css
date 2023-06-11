@@ -39,7 +39,7 @@
 
 <p align=center>
     <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
-    <sl-button href="/lesson-2/" variant="default" size="large">Next Lesson</sl-button>
+    <sl-button href="/lesson-3/" variant="default" size="large">Next Lesson</sl-button>
 </p>
 
 # Contents {#contents2}
@@ -57,13 +57,20 @@
 
 # Overview
 
-This class examines the role of data within one of the defining topics in U.S. history: slavery. It offers a lens into how the system of chattel slavery in the United States rested on a foundation of data, and how enslavers constructed, recorded, and used data. 
+This class examines how enslavers constructed, recorded, and used data to reinforce a system of chattel slavery in the United States in the 1700s and 1800s. By studying this history, students will wrestle with whether this kind of data can be ethically used to recover the people and lives behind the numbers. 
 
 # Learning Goals
 
-1. Help students practice the skills of data ethnography they will use in their [Data Biography](module-2/data-biography) assignment.
-2. Begin working with a tabular dataset related to today's topic (slavery). 
-3. Examine some of the tensions between using data to study and understand the history of enslavement vs. the risks and downsides of relying on data to study this kind of topic.
+1. Understand the role of data within the history of slavery in the United States
+2. Gain skills in working with tabular datasets 
+3. Examine the tensions between using data to study the history of slavery vs. the risks of dehumanizing the people and lives behind those numbers.
+
+# Readings
+- ["Episode 176: Daina Ramey Berry, The Value of the Enslaved from Womb to Grave"](https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/), *Ben Franklin's World Podcast* (March 6, 2018).
+    - Teacher’s Note: This interview is based on a larger book project by Daina Ramey Berry. If students have access to the reading, you could assign the following excerpts instead of the podcast: Daina Ramey Berry, *The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave* (2016), pp. 1-9, 33-57.
+- Follow the first 13 minutes of the tutorial: Kevin Stratvert, ["How to use Google Sheets - Tutorial for Beginners"](https://www.youtube.com/watch?v=TENAbUa-R-w) (November 14, 2022):
+
+.ve-media https://www.youtube.com/watch?v=TENAbUa-R-w start=103 end=771 width=70%
 
 # Agenda
 
@@ -71,16 +78,6 @@ This class examines the role of data within one of the defining topics in U.S. h
 - Activity: The Trans-Atlantic Slave Trade Database (25 min.)
 - Tutorial: Exploring Tabular Data (25 min.)
 - Debrief (10 min.)
-
-# Readings
-
-**Assigned Reading**
-- Daina Ramey Berry, *The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave* (2016), pp. 1-9, 33-57.
-    - Alternative reading: "Episode 176: Daina Ramey Berry, The Value of the Enslaved from Womb to Grave", *Ben Franklin's World Podcast* (March 6, 2018). 
-
-**Further Reading: **
-- Jessica Marie Johnson, [“Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads”](https://doi.org/10.1215/01642472-7145658) *Social Text* (2018) 36 (4 (137)): 57–79.
-- Caitlin Rosenthal, “Slavery’s Scientific Management: Masters and Managers” in Sven Beckert and Seth Rockman, eds. *Slavery’s Capitalism* (2015)
 
 # Lesson Plan
 
