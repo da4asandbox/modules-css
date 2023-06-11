@@ -4,11 +4,18 @@
     - [Agenda](#agenda)
     - [Readings](#readings) 
 
-# Day 2.3: Census Data
+# Lesson 2.3: Studying Data History (Part 2): The U.S. Census
 
 ## Overview
 
-This class introduces students to "historicizing data" - the idea that all data has a history behind its production. Some of the goals of this lesson:
+This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
+
+## Learning Goals
+
+Study the social and cultural history behind census data and its creation
+Understand the process of categorization and data collection
+How to work with tabular datasets
+
 
 ## Agenda
 
@@ -18,7 +25,6 @@ This class introduces students to "historicizing data" - the idea that all data 
 
 ## Readings
 
-**Assigned Readings**
 - Dan Bouk, *Census Stories, USA*: 
     - [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html)
     - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
