@@ -132,7 +132,7 @@ Today you're going to be learning some more spreadsheet skills using state-level
 ### Spreadsheet Functions
 Spreadsheet functions are a way to change, modify, or calculate values based on the existing data in an individual cell. The following video (min. 20:00-28:30) goes into more detail on functions and how to use them:
 
-.ve-media https://youtu.be/TENAbUa-R-w?t=1200 
+.ve-media https://www.youtube.com/watch?v=TENAbUa-R-w start=1200 end=1701 width=70%
 
 Apply some of the functions you learned in the above video to answer the following by in the Population Change sheet in your Google Sheet:
 What was the change in total population for each state between 2010 and 2020? Write a function in Column D (red) that calculates the net gain or loss for each state.
