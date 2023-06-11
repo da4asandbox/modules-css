@@ -130,14 +130,14 @@ Today you're going to be learning some more spreadsheet skills using state-level
 .ve-iframe https://docs.google.com/spreadsheets/d/1MqIsMvJW5EddzWiOk4jddqNojcNkN_IaNsGNtfmZL7w/edit?usp=sharing width=80%
 
 ### Spreadsheet Functions
-Spreadsheet functions are a way to change, modify, or calculate values based on the existing data in an individual cell. The following video (min. 20:00-28:30) goes into more detail on functions and how to use them:
+Spreadsheet functions are a way to change, modify, or calculate values based on the existing data in an individual cell. The following video goes into more detail on functions and how to use them -***watch from minute 20:00 to 28:20:***
 
-.ve-media https://www.youtube.com/watch?v=TENAbUa-R-w start=1200 end=1701 width=70%
+.ve-media https://www.youtube.com/watch?v=TENAbUa-R-w start=1200 end=1701 width=70% caption=""
 
-Apply some of the functions you learned in the above video to answer the following by in the Population Change sheet in your Google Sheet:
-What was the change in total population for each state between 2010 and 2020? Write a function in Column D (red) that calculates the net gain or loss for each state.
-What was the percentage change in population for each state? Write a function in Column E (yellow) that calculates the net change in population as a percentage of the state’s 2010 population. 
-How many people live in each state as a percentage of the entire country’s population? Write a function in Column F (blue) that calculates the 2020 population of each state as a percentage of the combined 2020 population of all states. 
+Answer the following questions by applying some of the functions you learned in the above video to your Google Sheet:
+- What was the change in total population for each state between 2010 and 2020? *Write a function in `Column D` (red) that calculates the net gain or loss for each state.*
+- What was the percentage change in population for each state? *Write a function in `Column E` (yellow) that calculates the net change in population as a percentage of the state’s 2010 population.*
+- How many people live in each state as a percentage of the entire country’s population? *Write a function in `Column F `(blue) that calculates the 2020 population of each state as a percentage of the combined 2020 population of all states.*
 
 Use the spreadsheet [sorting feature](https://support.google.com/docs/answer/3540681) to sort the Population Change sheet so you can see patterns:
 - What states LOST population between 2010 and 2020? [Illinois, Mississippi, and West Virginia)
