@@ -98,8 +98,10 @@ This class examines one of the major sources of data used by researchers, activi
     - What other data about your state do you wish you could find on this page?
 
 ### In small groups:
-Share what you found with your group members and come up with 1 interesting result + 1 additional piece of data you want to know more about.
+- Share what you found with your group members and collectively come up with 1 interesting result + 1 additional piece of data you want to know more about.
 
+### Whole class:
+- Each group share your chosen 1 interesting result + 1 additional piece of data that you want to know more about.
 
 ## Discussion: Dan Bouk, Census Stories, USA
 
