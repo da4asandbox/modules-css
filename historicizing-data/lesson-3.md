@@ -130,8 +130,9 @@ Today you're going to be learning some more spreadsheet skills using state-level
 .ve-iframe https://docs.google.com/spreadsheets/d/1MqIsMvJW5EddzWiOk4jddqNojcNkN_IaNsGNtfmZL7w/edit?usp=sharing width=80%
 
 ### Spreadsheet Functions
-Functions
-Watch minute 20:00-28:30 of this video: https://youtu.be/TENAbUa-R-w?t=1200 
+Spreadsheet functions are a way to change, modify, or calculate values based on the existing data in an individual cell. The following video (min. 20:00-28:30) goes into more detail on functions and how to use them:
+
+.ve-media https://youtu.be/TENAbUa-R-w?t=1200 
 
 Apply some of the functions you learned in the above video to answer the following by in the Population Change sheet in your Google Sheet:
 What was the change in total population for each state between 2010 and 2020? Write a function in Column D (red) that calculates the net gain or loss for each state.
