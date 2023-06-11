@@ -106,9 +106,7 @@ This class introduces students to studying data as a historical artifact - the i
 
 .ve-media gh:da4asandbox/modules/media/denver-holc-scan.jpeg caption="Homeowner's Loan Corporation (HOLC) Map of Denver, Colorado (1938)"
 
-*Source: Mapping Inequality[^1] 
-
-[^1]: Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, accessed June 11, 2023, https://dsl.richmond.edu/panorama/redlining/#loc=12/39.71/-105.061&city=denver-co.*
+*Source: Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, accessed June 11, 2023, https://dsl.richmond.edu/panorama/redlining/#loc=12/39.71/-105.061&city=denver-co.*
 
 ### Introduction
 
@@ -147,9 +145,9 @@ Here is some background to get you started:
 ## Data Biography of HOLC Redlining Maps {#activity3}
 
 ### Small Groups:
-Your main assignment for this module is to produce a "data biography" about a historical dataset.[^2] A "data biography" is an attempt to narrate the particular history of a dataset - the when, where, how, why, etc. of its production. Today, we're going to practice this approach using the HOLC redlining maps that you explored.
+Your main assignment for this module is to produce a "data biography" about a historical dataset.[^1] A "data biography" is an attempt to narrate the particular history of a dataset - the when, where, how, why, etc. of its production. Today, we're going to practice this approach using the HOLC redlining maps that you explored.
 
-[^2]: Heather Krause provides a working definition of "data biography" in ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) *Global Investigative Journalism Network* (March 27, 2017).
+[^1]: Heather Krause provides a working definition of "data biography" in ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) *Global Investigative Journalism Network* (March 27, 2017).
 
 As a group, navigate to the [Introduction page for the Mapping Inequality project](https://dsl.richmond.edu/panorama/redlining/). Skim through the Introductory text from the website and draw on your own experience with navigating one of the maps  to try and answer the following questions about ***the HOLC maps that produced in the 1930s*** (not the website itself):
 
