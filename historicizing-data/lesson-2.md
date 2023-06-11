@@ -36,6 +36,7 @@
     - [↳ Activity 1](#activity1)
     - [↳ Activity 2](#activity2)
     - [↳ Activity 3](#activity3)
+    - [↳ Activity 4](#activity4)
 
 <p align=center>
     <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
@@ -52,6 +53,7 @@
     <sl-button href="#activity1" variant="neutral" size="large">Activity 1</sl-button>
     <sl-button href="#activity2" variant="neutral" size="large">Activity 2</sl-button>
     <sl-button href="#activity3" variant="neutral" size="large">Activity 3</sl-button>
+    <sl-button href="#activity3" variant="neutral" size="large">Activity 4</sl-button>
 </p>
 
 
