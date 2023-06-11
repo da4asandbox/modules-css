@@ -219,7 +219,14 @@ Compare your notes on these two examples (the data visualization of Transatlanti
 - Write on board: one idea from each group for contemporary data advocacy projects that run a similar risk of flattening human experience
 - What are some lessons you can take from today’s lesson plan when embarking on your own data advocacy projects? 
 
+<br>
+<p align=center>
+    <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module 2 Overview</sl-button>
+    <sl-button href="/lesson-3/" variant="default" size="large">Next Lesson</sl-button>
+</p>
+
 .ve-footer
-    - [Previous: Day 2.1](/2-1/)
-    - [Data 4 All icon](somelink)
-    - [Next: Day 2.3](/2-3/)
+    - [Module Overview](/historicizing-data/)
+    - [Return to Homepage](/homepage/)
+    - [View All Modules](/modules/)
+    - [Next Lesson](/lesson-3/)
