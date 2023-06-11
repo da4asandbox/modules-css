@@ -182,10 +182,22 @@ The Transatlantic Slave Trade Database is one example of how researchers can use
 
 ### Example 1: Data Visualization of Transatlantic Slave Trade Database
 
-
+Watch the following animated data visualization, which is built using data from the Transatlantic Slave Trade Database. As you watch it, take notes on the following:
+- What geographical patterns do you notice?
+- What are some of the strengths and weaknesses of this visualization for studying and understanding the history of the transatlantic slave trade?
 
 .ve-media https://www.youtube.com/watch?v=SKo-_Xxfywk width=60%
 
+### Example 2: Daina Ramey Berry, *The Price for Their Pound of Flesh*
+
+You listened to an interview with Berry discussing her book. To research this book, Berry used **quantitative data** to calculate how enslavers assigned specific prices to enslaved people throughout their lifetime, from before they were born, through infancy, childhood, adulthood, old age, and even after death.
+
+In the book, Berry describes four types of “value” for enslaved people:
+
+1. **Spirit or soul value**: the self-worth enslaved people placed on themselves and their families
+2. **Appraisal value**: the projected value by planters, doctors, traders, etc. for “potential work output”
+3. **Market value**: the actual sale/purchase price for enslaved people as commodities
+4. **Ghost value**: the price affixed to deceased enslaved bodies through the “domestic cadaver trade”
 
 .ve-footer
     - [Previous: Day 2.1](/2-1/)
