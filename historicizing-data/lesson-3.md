@@ -127,7 +127,7 @@ This class examines one of the major sources of data used by researchers, activi
 ### Get the Data
 Today you're going to be learning some more spreadsheet skills using state-level census data from 2010 and 2020. To get started, make a copy of the following Google Sheet: https://docs.google.com/spreadsheets/d/1MqIsMvJW5EddzWiOk4jddqNojcNkN_IaNsGNtfmZL7w/edit?usp=sharing.
 
-
+.ve-iframe https://docs.google.com/spreadsheets/d/1MqIsMvJW5EddzWiOk4jddqNojcNkN_IaNsGNtfmZL7w/edit?usp=sharing width=80%
 
 ### Spreadsheet Functions
 Functions
