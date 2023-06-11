@@ -3,8 +3,8 @@
 
 # Data Biography
 
-Instructor Note:
-In this assignment, students apply the concept of a “data biography” to analyze the history behind a particular dataset: the who, what, when, how, and why of the dataset and its creation. In doing so, they learn about the different interpretative filters that shape the historical trajectory of a dataset, from its initial collection to its availability and usability today. 
+#### Instructor Note:
+> _In this assignment, students apply the concept of a “data biography” to analyze the history behind a particular dataset: the who, what, when, how, and why of the dataset and its creation. In doing so, they learn about the different interpretative filters that shape the historical trajectory of a dataset, from its initial collection to its availability and usability today._
 
 ## Part 1: Biography 
 
@@ -18,11 +18,10 @@ Your assignment is to write a "data biography" about a historical dataset.[^1] T
 - **How** is it stored today? How did you access it?
 - **Potential problems** with the data - are there any limitations, biases, missing data or gaps, or ethical considerations to consider when using this data?
 
-<br>
 Note that, like most historical datasets, answering some of these questions will require you to think about the multiple stages through which this information has passed to get to its current state as machine-readable data. So "Who collected it?" needs to include both the original historical actors who created the information along with the subsequent people who ultimately made it available for you.
 
 ## Part 2: Reflection
-Based on your data biography of the Philadelphia African American Census 1847 data set, write 1-2 paragraphs in which you reflect on lessons this example could hold for working with historical data in order to pursue contemporary data advocacy projects. In your response, please draw on your analysis of how the data for the Philadelphia African American Consensus 1847 was collected, processed, and made available - as well as the potential problems you identified.
+Based on your data biography of the Philadelphia African American Census 1847 data set, write 1-2 paragraphs in which you reflect on lessons this example could hold for working with historical data in order **to pursue contemporary data advocacy projects**. In your response, please draw on your analysis of how the data for the Philadelphia African American Consensus 1847 was collected, processed, and made available - as well as the potential problems you identified.
 
 
 [^1]: Heather Krause provides a working definition of "data biography" in ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) *Global Investigative Journalism Network* (March 27, 2017).
