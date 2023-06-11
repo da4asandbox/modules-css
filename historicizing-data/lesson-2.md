@@ -199,6 +199,26 @@ In the book, Berry describes four types of “value” for enslaved people:
 3. **Market value**: the actual sale/purchase price for enslaved people as commodities
 4. **Ghost value**: the price affixed to deceased enslaved bodies through the “domestic cadaver trade”
 
+Take 3-4 minutes and free write individually:
+- What were the most interesting things you learned in listening to Berry’s interview? 
+- What were some specific examples of how enslavers assigned monetary “value” to enslaved people?
+- What does this kind of data add to our historical understanding of slavery in the United States?
+
+### Small Group Discussion:
+
+Compare your notes on these two examples (the data visualization of Transatlantic Slave Trade Database and the Daina Ramey Berry’s interview). In small groups, discuss the following:
+
+- What are some of the differences in these two approaches to using historical data?
+- Are there risks to using data to narrate the history of slavery?
+- More pointedly: does this approach reduce the lives of enslaved people to numbers on a page or dots on a map?
+- What examples did Berry mention in the interview that help mitigate this risk of reducing humans to numbers?
+- Are there similar contemporary topics for a data advocacy project in which you would want to be especially careful about quantitative data flattening human lives and experiences?
+
+### Whole Class Discussion:
+- Each group share some of their answers about the two historical examples
+- Write on board: one idea from each group for contemporary data advocacy projects that run a similar risk of flattening human experience
+- What are some lessons you can take from today’s lesson plan when embarking on your own data advocacy projects? 
+
 .ve-footer
     - [Previous: Day 2.1](/2-1/)
     - [Data 4 All icon](somelink)
