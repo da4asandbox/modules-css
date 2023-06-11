@@ -69,10 +69,9 @@ This class examines one of the major sources of data used by researchers, activi
 #### Instructor Note:
 > _Dan Bouk’s Census Stories, USA is a collection of blog posts written during the course of his research for his book, Democracy’s Data. They are written in a more informal style than a traditional academic monograph, and offer bite-sized windows into the social, political, and cultural history behind the US Census. They are, above all, a reminder that data itself has a history and one that is wrapped up in the lives of individual people._
 
-- Dan Bouk, *Census Stories, USA*: 
-    - [“Standing on the Crater of a Volcano”](https://censusstories.us/2020/07/27/disfranchisement.html)
-    - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
-    - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html) 
+- Bouk, Dan. “8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!” _Census Stories, USA,_ October 29, 2018. [https://censusstories.us/2018/10/29/Alaska-paths.html](https://censusstories.us/2018/10/29/Alaska-paths.html).
+- Bouk, Dan. “Standing on the Crater of a Volcano.” _Census Stories, USA,_ July 27, 2020. [https://censusstories.us/2020/07/27/disfranchisement.html](https://censusstories.us/2020/07/27/disfranchisement.html).
+- Bouk, Dan. “The Partners of Greenwich Village.” _Census Stories, USA,_ July 3, 2018. [https://censusstories.us/2018/07/03/partners.html](https://censusstories.us/2018/07/03/partners.html).
 
 ## Agenda
 
@@ -81,17 +80,12 @@ This class examines one of the major sources of data used by researchers, activi
 - Tutorial: Spreadsheet Functions and Census Data (25 min.)
 - Discussion: Who Counts in the US Census? (15 min.)
 
-## Discussion: Dan Bouk, *Census Stories, USA*
+## Activity: Census Data Today
 
-## Activity: Transcribing Data
+## Discussion: Dan Bouk, Census Stories, USA
 
-.ve-media gh:da4asandbox/cameronessay-organization/media/Activity2-1Overview.jpg caption="Attempt 1 with alt text?" alt
+## Tutorial: Spreadsheet Functions and Census Data
 
-.ve-media https://iiif.juncture-digital.org/gh:da4asandbox/cameronessay-organization/media/Activity2-1Overview.jpg/manifest.json
+## Discussion: Who Counts in the US Census?
 
-## Tutorial: Spreadsheet Functions
 
-.ve-footer
-    - [Previous: Day 2.3](/module-2/2-3)
-    - [Data 4 All icon](somelink)
-    - [Next: Day 2.4](/module-2/2-4/)
