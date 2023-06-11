@@ -83,9 +83,11 @@ This class examines how enslavers constructed, recorded, and used data to reinfo
 
 ### Introduction: Learning About Slavery
 
-
+#### Instructor Note:
+> _This warm-up activity gets students thinking about the history of slavery while also reflecting on how and what they've learned about this topic. Depending on the class and student body, you can add more historical context. There is also a helpful guide with suggested language and vocabulary to use when teaching about slavery: ["Writing About Slavery? Teaching About Slavery?"](https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/mobilebasic).
 
 Slavery was an absolutely foundational part of United States history. Here is the "big picture":
+
 - System of “chattel” slavery developed in United States from 1700s through 1850s
 - Slavery accelerated with rise of cotton as a global commodity from 1820s-1850s, as cotton exports (based on enslaved labor) became a major part of the American economy
 - US Civil War fought 1861-1865 over the issue of slavery and its expansion
@@ -103,21 +105,13 @@ To do so we are going to focus on ***two examples*** of historical data related 
 1. The Transatlantic Slave Trade Database
 2. Daina Ramey Berry, *The Price for Their Pound of Flesh*
 
-### Introduction: Learning About Slavery
-Instructor: go over the following “big picture” of slavery and its history in the United States.
-System of “chattel” slavery developed in United States from 1700s through 1850s
-Slavery accelerated with rise of cotton as a global commodity from 1820s-1850s, as cotton exports (based on enslaved labor) became a major part of the American economy
-US Civil War fought 1861-1865 over the issue of slavery and its expansion
-Slavery officially abolished in 1865 with passage of 13th Amendment
-
-
 ## Activity: The Trans-Atlantic Slave Trade Database
 
-Today we're going to look at The Trans-Atlantic Slave Trade Database, a watershed digital project focused on the history of slavery and specifically the forced transportation of enslaved people out of Africa. You're going to practice the same approach you'll be taking when you complete your [Data Biography](module-2/data-biography) of a separate dataset. 
+The Trans-Atlantic Slave Trade Database is a watershed digital project focused on the history of slavery and specifically the forced transportation of enslaved people out of Africa. To start, you're going to practice the same approach you'll be taking when you complete your [Data Biography](/assignment) of a separate dataset. 
 
-In small groups, go to this starting page: [Trans-Atlantic Slave Trade - Understanding the Database](https://www.slavevoyages.org/voyage/about#methodology/introduction/0/en/). Set a timer for **15 minutes** and try to collectively find answers to the following questions about the dataset, writing notes for each question in a shared Google Doc. 
+In small groups, go to this starting page: [Trans-Atlantic Slave Trade - Understanding the Database](https://www.slavevoyages.org/voyage/about#methodology/introduction/0/en/). Set a timer for **8 minutes** and try to collectively find answers to the following questions about the dataset, writing notes for each question in a shared Google Doc. 
 
-*Note: this database is part of the larger SlaveVoyages website. You are only  answering questions for the "Trans-Atlantic Slave Trade" databse, but to answer them you will need to explore other parts of the website.*
+*Note: this database is part of the larger SlaveVoyages website. You are only answering questions for the "Trans-Atlantic Slave Trade" databse, but to answer them you will need to explore other parts of the website.*
 
 - **What** kind of information is contained in this database?
 - **Where** did the data come from? 
@@ -136,7 +130,7 @@ In small groups, go to this starting page: [Trans-Atlantic Slave Trade - Underst
 - Emphasize that the About page is the primary place you will often go for data projects to answer some of the above questions. 
 - Finally, sometimes a Google Search can be an even more effecient way to uncover some of this information. For instance, a Google Search for ```Trans-Atlantic Slave Trade Database``` brings up [a much more digestible summary of the project](https://hutchinscenter.fas.harvard.edu/trans-atlantic-slave-trade-database).
 
-## Tutorial: Exploring Tabular Data
+## Tutorial: Working With Tabular Data
 
 Tabular data is the storage of information through a system of rows and columns. Arguably the most common format you will come across tabular data is through a spreadsheet. Although spreadsheets can come in several different file types, for today we're going to work in Google Sheets. 
 
