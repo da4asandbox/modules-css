@@ -51,7 +51,7 @@
 <sl-button href="#concepts" variant="neutral" size="large">Key Concepts</sl-button>
 <sl-button href="#plans" variant="neutral" size="large">Lesson Plans</sl-button>
 <sl-button href="#assignments" variant="neutral" size="large">Assignment</sl-button>
-<sl-button href="#readings" variant="neutral" size="large">Readings</sl-button>
+<sl-button href="#readings" variant="neutral" size="large">Bibliography</sl-button>
 
 # Overview {#overview}
 
