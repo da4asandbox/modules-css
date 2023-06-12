@@ -44,7 +44,7 @@
     <sl-button href="/historicizing-data/assignment/" variant="neutral" size="large">Module 2 Assignment</sl-button>
 </p>
 
-# Contents {#contents2}
+# Contents {#contents}
 
 <p align=center>
     <sl-button href="#overview" variant="neutral" size="large">Lesson Overview</sl-button>
