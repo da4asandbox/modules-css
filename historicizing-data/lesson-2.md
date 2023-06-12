@@ -39,8 +39,8 @@
     - [↳ Discussion](#discussion)
 
 <p align=center>
-     <sl-button href="/historicizing-data/lesson-1/" variant="neutral" size="large">Previous Lesson</sl-button><br>
-    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button><br>
+     <sl-button href="/historicizing-data/lesson-1/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;&nbsp;&nbsp;
     <sl-button href="/historicizing-data/lesson-3/" variant="neutral" size="large">Next Lesson</sl-button>
 </p>
 
