@@ -33,10 +33,10 @@
     - [↳ Learning Goals](#goals)
     - [↳ Readings](#readings)
     - [↳ Agenda](#agenda)
-    - [↳ Activity 1](#activity1)
-    - [↳ Activity 2](#activity2)
-    - [↳ Activity 3](#activity3)
-    - [↳ Activity 4](#activity4)
+    - [↳ Introduction](#introduction)
+    - [↳ Activity](#activity1)
+    - [↳ Tutorial](#tutorial)
+    - [↳ Discussion](#discussion)
 
 <p align=center>
     <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
