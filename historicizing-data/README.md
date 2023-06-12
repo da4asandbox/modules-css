@@ -20,6 +20,8 @@
     
     #overview.section1 { background-color: #e3e3e3; margin-top: 0px 0; padding: 30px; }
     
+    #assignments.section1 { padding-top: 25px; }
+    
 </style>
 
 .ve-header "Module 2: Historicizing Data" position=top sticky logo=https://da4asandbox.github.io/modules/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014 subtitle="by Cameron Blevins"
