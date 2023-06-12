@@ -30,7 +30,7 @@
     - [All Modules](/historicizing-data/)
     - [Module 2](/historicizing-data/)
     - [Lesson Overview](#overview)
-    - [↳ Learning Goals](/#goals)
+    - [↳ Learning Goals](#goals)
     - [↳ Readings](#readings)
     - [↳ Agenda](#agenda)
     - [↳ Activity 1](#activity1)
