@@ -40,6 +40,7 @@
 
 <p align=center>
     <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
+    <sl-button href="/lesson-1/" variant="default" size="large">Previous Lesson</sl-button>
     <sl-button href="/lesson-3/" variant="default" size="large">Next Lesson</sl-button>
 </p>
 
