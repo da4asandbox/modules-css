@@ -51,10 +51,10 @@
     <sl-button href="#goals" variant="default" size="large">Learning Goals</sl-button>
     <sl-button href="#readings" variant="default" size="large">Readings</sl-button>
     <sl-button href="#agenda" variant="default" size="large">Agenda</sl-button>
-    <sl-button href="#activity1" variant="default" size="large">Activity 1</sl-button>
-    <sl-button href="#activity2" variant="default" size="large">Activity 2</sl-button>
-    <sl-button href="#activity3" variant="default" size="large">Activity 3</sl-button>
-    <sl-button href="#activity4" variant="default" size="large">Activity 4</sl-button>
+    <sl-button href="#activity1" variant="default" size="large">Activity: Census Data Today</sl-button>
+    <sl-button href="#discussion1" variant="default" size="large">Discussion: Dan Bouk, Census Stories, USA</sl-button>
+    <sl-button href="#tutorial" variant="default" size="large">Tutorial: Spreadsheet Functions and Census Data</sl-button>
+    <sl-button href="#discussion2" variant="default" size="large">Discussion: Who Counts in the US Census?</sl-button>
 </p>
 
 # Overview
