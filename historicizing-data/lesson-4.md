@@ -74,7 +74,8 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 # Agenda
 
 - Discussion: Public Health Data History (15 min)
-- Activity: The COVID-19 Archive (40 min)
+- Activity: Exploring the COVID-19 Archive (20 min)
+- Activity: Metadata and Contributing to the COVID-19 Archive (20 min.)
 - Tutorial: Spreadsheet Practice (20 min)
 
 # Lesson Plan
@@ -87,37 +88,79 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 - What solutions outlined in the second half of the podcast did you find most compelling? Which solutions seem hardest or easiest to implement?
 - What are some of the issues around “aggregation” and “disaggregation” of data that are mentioned at the end of the podcast? Can you think of other examples in which these practices might impact data advocacy projects beyond race and public health?
 
-## Activity: The COVID-19 Archive
+## Activity: Exploring the COVID-19 Archive
 
 Today you will be examining A Journal of the Plague Year: An Archive of COVID-19, a digital archive project that aims to “document, curate, and preserve experiences of the COVID-19 pandemic for the historical record.”
 
 #### Instructor Note:
 > _This activity centers on the COVID-19 digital archive. This participatory project invites users to submit their own content to the archive. The digital archive format will likely be frustrating and confusing to navigate and understand for some students. This is part of the rapid-response nature of the project and is a useful jumping off point for thinking about the information contained in archives, how that information is collected and made usable, and their silences and gaps._
 
-### Exploring the Archive:
-- Take several minutes and start to explore the website. What seems to be in here? How is it organized? How easy is it to find something you’re looking for? How easy is it to stumble upon something that interests you? What challenges are you facing as a user?
+### Explore the Archive
+
+***Individually:***
+Take several minutes and start to explore the website. As you do so, take notes on the following:
+- What seems to be in here? 
+- How is it organized? 
+- How easy is it to find something you’re looking for? 
+- How easy is it to stumble upon something that interests you? 
+- What challenges are you facing as a user?
 - Go to the “Advanced Search” page for the archive. Search for a topic that interests you. Scroll through the first 5-10 collection items that appear and choose one of them. What kind of information is included in an “item”? How does it seem to be organized?
 - What questions do you have about the archive based on this first exploration?
 
-***Whole class debrief:***
+***Whole class:***
 - Which types (images, written reflections, audio files, etc.) of submissions are most useful in painting a picture of this COVID-19 year experience? Why? 
 - Which types of submissions resonated the least with you? Why? 
 - What was the user experience like in navigating the archive?
 
 ### Silences in the Archive
 
-Use the [Global Pandemic Map](https://covid-19archive.org/s/archive/page/WorldMap) to examine the geographical coverage of the archive.
+When examining any archive or dataset, it's important to always be on the lookout for its silences - ie. not just what information is in there, but also what is MISSING. One way to approach this is to study the geographical coverage of an archive or dataset. For the COVID-19 Archive, we're going to use the [Global Pandemic Map](https://covid-19archive.org/s/archive/page/WorldMap) to examine where its items came from.
 
 .ve-iframe https://covid-19archive.org/s/archive/page/WorldMap width=80%
 
 ***Individually:***
-- Start with the most zoomed-out global scale and zoom into particular regions of the world: what countries are most represented and least represented? 
+- Start with the most zoomed-out global scale and zoom into particular regions of the world: what countries are MOST represented and LEAST represented? 
 - Zoom down to your particular school. How well represented is YOUR surrounding geographical area in the COVID-19 Archive. Is your geographical area well-represented or poorly represented in this archive? Why do you think this is the case? 
-- Explore uploaded items that are closest to your institution. What seems to be in there? Whose experiences are reflected in these items?
+- Explore uploaded items that are closest to your institution. What seems to be in there? Whose experiences are reflected in these items? Whose experiences and voices seem to be missing?
 - Brainstorm a list of 5 items you could add to this archive that would help ‘round out’ the collection by representing your geographic area. 
 
-***In small groups:***
-- Share your list with group members and discuss which items you think would be the most effective historical artifacts for shedding light on the experience of the Covid-19 pandemic in your geographical area.
+## Activity: Metadata and Contributing to the COVID-19 Archive
+
+The COVID-19 Archive is a collection of individual items (news articles, photographs, written memories, oral history recordings, etc.) about the pandemic. But to make these items discoverable, the archive has to also collect information about them. This is called “metadata.” Watch this 4-minute video to gain a better understanding of this concept: https://www.youtube.com/watch?v=ABF2FvSPVYE
+
+.ve-media 
+
+### Working in pairs:
+- Share your brainstormed list of 5 items you thought of that you could add to this archive that would help ‘round out’ the collection by representing your geographic area. 
+- Choose one item from your combined list to contribute to the archive. *Note: although you can make your own information as a contributor anonymous, the item you choose will be publicly available. Think about the issue of privacy when selecting your item.*
+- Go to [this page](https://covid-19archive.org/s/archive/page/Share) and fill out the template to contribute your item: 
+    - Work as a group and try to reach a consensus on what to include in the different metadata fields to describe the item.
+    - Note: it is recommend that you check the box to share this story anonymously, unless you want your personal information linked to the item.
+
+### Whole class debrief:
+
+- Based on the video about metadata and your own experience in adding metadata to an item, what is the purpose of metadata and why is it important?
+- What challenges did you have in writing the metadata for your item? What was the hardest part? Was anything frustrating or confusing?
+
+Tutorial: Spreadsheet Practice
+
+You’re going to practice your spreadsheet skills using a subset of data that was collected through The COVID Tracking Project - the same initiative you learned about in the podcast episode for today. The following Google Sheet contains a subset of data from the project (note: in order to make it easier to work with it does not include all the data that was collected by the project): https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing 
+
+Make a copy of this Google Sheet and then do the following tasks:
+
+Create a new, blank Google Sheet and name it “lesson-2.4”
+In the original Google Sheet of COVID data, use a filter to only look at data from a single state (you can choose your home state or that of your school)
+Copy and paste this single state’s data into your newly created “lesson-2.4” sheet.
+The column “positiveIncrease” is a daily report of new COVID19 cases (suspected and confirmed) in that state reported for that day. Sort your data by the “positiveIncrease” column to find out: what is the largest number of positive cases reported in a single day in your state and what date did that occur?
+The column “hospitalizedIncrease” is a daily report of the number of people who were admitted to a hospital for COVID19 on that day in your state. Sort your data by this column to find out: what day saw the greatest number of COVID19 hospitalizations in your state and how many hospitalizations were there on that day?
+Add a new column: write a formula that adds up the daily positive cases (positiveIncrease) and daily negative cases (negativeIncrease) for that day. Autofill that formula all the way down your rows.
+Add a new column: write a formula that daily positive cases as a percentage of all daily cases (positive + negative) - ie. what percentage of test results are positive?
+Add a new column: write a formula that calculates a ratio of the number of hospitalizations for that day vs. the total new positive cases for a day - ie. how sick are people who are testing positive for COVID?
+
+
+Teacher’s Note:
+If there is time, debrief with students about working with the data from the COVID Tracking Project vs. all the frustrations and limitations that the project had in collecting that data. It is easy to forget when working with these nice whole numbers that there was a very messy process behind their creation. Think about: What are some of the limitations in this dataset? How confident are you in drawing conclusions from your subset of data? The last new column in particular stands on pretty shaky ground.
+
 
 
 
