@@ -33,10 +33,10 @@
     - [↳ Learning Goals](#goals)
     - [↳ Readings](#readings)
     - [↳ Agenda](#agenda)
-    - [↳ Activity 1](#activity1)
-    - [↳ Activity 2](#activity2)
-    - [↳ Activity 3](#activity3)
-    - [↳ Activity 4](#activity4)
+    - [↳ Activity](#activity1)
+    - [↳ Discussion 1](#discussion1)
+    - [↳ Tutorial](#tutorial)
+    - [↳ Discussion 2](#discussion2)
 
 <p align=center>
      <sl-button href="/historicizing-data/lesson-2/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;
@@ -78,10 +78,10 @@ This class examines one of the major sources of data used by researchers, activi
 
 # Agenda {#agenda}
 
-- Activity: Census Data Today (15 min.)
-- Discussion: Dan Bouk, Census Stories, USA (20 min.)
-- Tutorial: Spreadsheet Functions and Census Data (25 min.)
-- Discussion: Who Counts in the US Census? (15 min.)
+- [Activity: Census Data Today (15 min.)](#activity1)
+- [Discussion: Dan Bouk, Census Stories, USA (20 min.)](#discussion1)
+- [Tutorial: Spreadsheet Functions and Census Data (25 min.)](#tutorial)
+- [Discussion: Who Counts in the US Census? (15 min.)](#discussion2)
 
 # Lesson Plan {#activities}
 ## Activity: Census Data Today {#activity1}
