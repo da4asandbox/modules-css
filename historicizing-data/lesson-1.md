@@ -54,7 +54,7 @@
     <sl-button href="#activity3" variant="neutral" size="large">Activity 3</sl-button>
 </p>
 
-# Overview {#overview}
+# Lesson 2.1 Overview {#overview}
 
 This class introduces students to studying data as a historical artifact - the idea that data is not simply quantifiable information, but that all data has a history behind it that has shaped its production and use.
 
