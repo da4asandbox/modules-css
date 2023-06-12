@@ -39,22 +39,22 @@
     - [↳ Discussion](#discussion)
 
 <p align=center>
-    <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
-    <sl-button href="/historicizing-data/lesson-1/" variant="default" size="large">Previous Lesson</sl-button>
-    <sl-button href="/historicizing-data/lesson-3/" variant="default" size="large">Next Lesson</sl-button>
+    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>
+    <sl-button href="/historicizing-data/lesson-1/" variant="neutral" size="large">Previous Lesson</sl-button>
+    <sl-button href="/historicizing-data/lesson-3/" variant="netural" size="large">Next Lesson</sl-button>
 </p>
 
 # Contents {#contents}
 
 <p align=center>
-    <sl-button href="#overview" variant="neutral" size="large">Lesson Overview</sl-button>
-    <sl-button href="#goals" variant="neutral" size="large">Learning Goals</sl-button>
-    <sl-button href="#readings" variant="neutral" size="large">Readings</sl-button>
-    <sl-button href="#agenda" variant="neutral" size="large">Agenda</sl-button>
-    <sl-button href="#introduction" variant="neutral" size="large">Introduction: Learning About Slavery</sl-button>
-    <sl-button href="#activity1" variant="neutral" size="large">Activity: The Trans-Atlantic Slave Trade Database</sl-button>
-     <sl-button href="#tutorial" variant="neutral" size="large">Tutorial: Working With Tabular Data</sl-button>
-    <sl-button href="#discussion" variant="neutral" size="large">Discussion: Numbers vs. People</sl-button>
+    <sl-button href="#overview" variant="default" size="large">Lesson Overview</sl-button>
+    <sl-button href="#goals" variant="default" size="large">Learning Goals</sl-button>
+    <sl-button href="#readings" variant="default" size="large">Readings</sl-button>
+    <sl-button href="#agenda" variant="default" size="large">Agenda</sl-button>
+    <sl-button href="#introduction" variant="default" size="large">Introduction: Learning About Slavery</sl-button>
+    <sl-button href="#activity1" variant="default" size="large">Activity: The Trans-Atlantic Slave Trade Database</sl-button>
+     <sl-button href="#tutorial" variant="default" size="large">Tutorial: Working With Tabular Data</sl-button>
+    <sl-button href="#discussion" variant="default" size="large">Discussion: Numbers vs. People</sl-button>
 </p>
 
 # Overview {#overview}
