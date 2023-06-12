@@ -172,4 +172,4 @@ As a group, navigate to the [Introduction page for the Mapping Inequality projec
     - [Module Overview](/historicizing-data/)
     - [Return to Homepage](/historicizing-data/)
     - [View All Modules](/historicizing-data/)
-    - [Next Lesson](//historicizing-data/lesson-2/)
+    - [Next Lesson](/historicizing-data/lesson-2/)
