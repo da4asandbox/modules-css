@@ -74,3 +74,9 @@ Based on your data biography of the Philadelphia African American Census 1847 da
 </p>
 
 [^1]: Heather Krause provides a working definition of "data biography" in ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) *Global Investigative Journalism Network* (March 27, 2017).
+
+.ve-footer
+    - [Module Overview](/historicizing-data/)
+    - [Return to Homepage](/historicizing-data/)
+    - [View All Modules](/historicizing-data/)
+    - [Next Lesson](/historicizing-data/lesson-3/)
