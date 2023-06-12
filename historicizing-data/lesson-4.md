@@ -169,7 +169,7 @@ You’re going to practice your spreadsheet skills using a subset of data that w
 - What are some public advocacy projects you could imagine using this data for?
 - Think back to the podcast episode and the challenges faced by the COVID Tracking Project. How confident are you in the "results" of your exploration of the spreadsheet? Do you trust the numbers? 
 - Given its limitations, do you think this data is worth using for a data advocacy project? Why or why not?
-
+<br><br>
 <p align=center>
      <sl-button href="/historicizing-data/lesson-3/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;
     <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
