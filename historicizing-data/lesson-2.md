@@ -144,7 +144,7 @@ Tabular data is the storage of information through a system of rows and columns.
 - [Go to this Google Sheet](https://docs.google.com/spreadsheets/d/1CUrZM06ZRBajyx2gRJN1IkRfZYx7cUgl2fkteNqpvpU/edit?usp=sharing) then make a copy of the entire file in your Google account by going to `File -> Make a copy`. 
 - This new Google Sheet file is what you'll use for the rest of the tutorial.
 
-.ve-iframe https://docs.google.com/spreadsheets/d/1CUrZM06ZRBajyx2gRJN1IkRfZYx7cUgl2fkteNqpvpU/edit?usp=sharing width=80% height=500px
+.ve-iframe https://docs.google.com/spreadsheets/d/1CUrZM06ZRBajyx2gRJN1IkRfZYx7cUgl2fkteNqpvpU/edit?usp=sharing width=80% height=800px
 
 ### Sorting Spreadsheets
 
