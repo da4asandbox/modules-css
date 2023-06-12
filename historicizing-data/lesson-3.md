@@ -38,7 +38,7 @@
     - [↳ Activity 3](#activity3)
     - [↳ Activity 4](#activity4)
 
-<p align=left>
+<p align=center>
      <sl-button href="/historicizing-data/lesson-2/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;
     <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
     <sl-button href="/historicizing-data/lesson-4/" variant="neutral" size="large">Next Lesson</sl-button>
@@ -46,7 +46,7 @@
 
 # Contents {#contents}
 
-<p align=center>
+<p align=left>
     <sl-button href="#overview" variant="default" size="large">Lesson Overview</sl-button>
     <sl-button href="#goals" variant="default" size="large">Learning Goals</sl-button>
     <sl-button href="#readings" variant="default" size="large">Readings</sl-button>
