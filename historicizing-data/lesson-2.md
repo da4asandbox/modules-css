@@ -114,7 +114,7 @@ The Trans-Atlantic Slave Trade Database is a watershed digital project focused o
 
 Go to this starting page: [Trans-Atlantic Slave Trade - Understanding the Database](https://www.slavevoyages.org/voyage/about#methodology/introduction/0/en/). Set a timer for **8 minutes** and try to collectively find answers to the following questions about the dataset, writing notes for each question in a shared Google Doc. 
 
-*Note: this database is part of the larger SlaveVoyages website. You are only answering questions for the "Trans-Atlantic Slave Trade" databse, but to answer them you will need to explore other parts of the website.*
+*Note: this database is part of the larger SlaveVoyages website. You are only answering questions for the "Trans-Atlantic Slave Trade" database, but to answer them you will need to explore other parts of the website.*
 
 - **What** kind of information is contained in this database?
 - **Where** did the data come from? 
