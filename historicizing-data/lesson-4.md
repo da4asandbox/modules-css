@@ -8,17 +8,17 @@
     
     #juncture a { color: #002868; }
 
-    #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 600; }
+    #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 500; }
 
-    #juncture h2 { font-size: 28px; font-weight: 900}
+    #juncture h2 { font-size: 28px; font-weight: 500}
 
     #juncture h3 { font-size: 24px; }
     
     #juncture h4 { font-size: 20px; color: #690114; font-style: italic; }
 
-    #contents.section1 { font-size:40px; }
+    #contents.section1 { font-size:50px; }
     
-    #activities.section1 h2 { color: #002868; }
+    #activities.section1 h2 { color: #002868; padding-bottom: 0px; }
 
     ul li { padding: 3px 0px; }
 
