@@ -117,7 +117,7 @@ Take several minutes and start to explore the website. As you do so, take notes 
 
 When examining any archive or dataset, it's important to always be on the lookout for its silences - ie. not just what information is in there, but also what is MISSING. One way to approach this is to study the geographical coverage of an archive or dataset. For the COVID-19 Archive, we're going to use the [Global Pandemic Map](https://covid-19archive.org/s/archive/page/WorldMap) to examine where its items came from.
 
-.ve-iframe https://covid-19archive.org/s/archive/page/WorldMap width=80%
+.ve-iframe https://covid-19archive.org/s/archive/page/WorldMap width=80% height=800px
 <br><br>
 ***Individually:***
 - Start with the most zoomed-out global scale and zoom into particular regions of the world: what countries are MOST represented and LEAST represented? 
