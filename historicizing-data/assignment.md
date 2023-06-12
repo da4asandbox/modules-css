@@ -34,16 +34,16 @@
     - [↳ Part 2: Reflection](#part2)
 
 <p align=center>
-    <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
-    <sl-button href="/assembling-data/" variant="default" size="large">Next Module</sl-button>
+    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>
+    <sl-button href="/assembling-data/" variant="neutral" size="large">Next Module</sl-button>
 </p>
 
 # Contents {#contents2}
 
 <p align=center>
-    <sl-button href="#overview" variant="neutral" size="large">Lesson Overview</sl-button>
-    <sl-button href="#part1" variant="neutral" size="large">Part 1: Biography</sl-button>
-    <sl-button href="#part2" variant="neutral" size="large">Part 2: Reflection</sl-button>
+    <sl-button href="#overview" variant="default" size="large">Lesson Overview</sl-button>
+    <sl-button href="#part1" variant="default" size="large">Part 1: Biography</sl-button>
+    <sl-button href="#part2" variant="default" size="large">Part 2: Reflection</sl-button>
 </p>
 
 
