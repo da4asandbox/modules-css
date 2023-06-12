@@ -26,8 +26,8 @@
 </style>
 
 .ve-header "Lesson 2.2: Studying Data History (Part 1): U.S. Slavery" position=top sticky logo=https://da4asandbox.github.io/modules/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014
-    - [Homepage](https://www.juncture-digital.org/da4asandbox/modules/historicizing-data)
-    - [All Modules](https://www.juncture-digital.org/da4asandbox/modules/historicizing-data)
+    - [Homepage](/historicizing-data/)
+    - [All Modules](/historicizing-data/)
     - [Module 2](/historicizing-data/)
     - [Lesson Overview](#overview)
     - [↳ Learning Goals](#goals)
