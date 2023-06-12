@@ -32,6 +32,8 @@
     
     #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
+    #.cards { font-width: 400; }
+    
 </style>
 
 .ve-header "Module 2: Historicizing Data" position=top sticky logo=https://da4asandbox.github.io/modules/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014 subtitle="by Cameron Blevins"
