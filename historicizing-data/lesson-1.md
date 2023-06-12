@@ -38,7 +38,7 @@
     - [↳ Activity 3](#activity3)
 
 <p align=center>
-    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>
+    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
     <sl-button href="/lesson-2/" variant="neutral" size="large">Next Lesson</sl-button>
 </p>
 
