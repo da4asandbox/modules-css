@@ -29,7 +29,7 @@
     - [Homepage](/historicizing-data/)
     - [All Modules](/historicizing-data/)
     - [Module 2](/historicizing-data/)
-    - [Lesson 2.2 Overview](#overview)
+    - [Lesson Overview](#overview)
     - [↳ Learning Goals](#goals)
     - [↳ Readings](#readings)
     - [↳ Agenda](#agenda)
@@ -57,7 +57,7 @@
     <sl-button href="#discussion" variant="default" size="large">Discussion: Numbers vs. People</sl-button>
 </p>
 
-# Overview {#overview}
+# Lesson 2.2 Overview {#overview}
 
 This class examines how enslavers constructed, recorded, and used data to reinforce a system of chattel slavery in the United States in the 1700s and 1800s. By studying this history, students will wrestle with whether this kind of data can be ethically used to recover the people and lives behind the numbers. 
 
