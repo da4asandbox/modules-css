@@ -148,20 +148,27 @@ You’re going to practice your spreadsheet skills using a subset of data that w
 
 .ve-iframe https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing width=80%
 
-
+### Instructions: 
 - Make a copy of the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing)
 - Create a new, empty sheet ([instructions](https://www.shorttutorials.com/google-docs-spreadsheet/add-new-sheet.html)) and name it `lesson-2.4`
 - In the original Google Sheet of COVID data, use a filter to only look at data from a single state (you can choose your home state or that of your school)
 - Copy and paste this single state’s data into your newly created `lesson-2.4` sheet.
-- The column `positiveIncrease` is a daily report of new COVID19 cases (suspected and confirmed) in that state reported for that day. Sort your data by the “positiveIncrease” column to find out: what is the largest number of positive cases reported in a single day in your state and what date did that occur?
-- The column “hospitalizedIncrease” is a daily report of the number of people who were admitted to a hospital for COVID19 on that day in your state. Sort your data by this column to find out: what day saw the greatest number of COVID19 hospitalizations in your state and how many hospitalizations were there on that day?
-- Add a new column: write a formula that adds up the daily positive cases (positiveIncrease) and daily negative cases (negativeIncrease) for that day. Autofill that formula all the way down your rows.
-- Add a new column: write a formula that daily positive cases as a percentage of all daily cases (positive + negative) - ie. what percentage of test results are positive?
-- Add a new column: write a formula that calculates a ratio of the number of hospitalizations for that day vs. the total new positive cases for a day - ie. how sick are people who are testing positive for COVID?
+- The column `positiveIncrease` is a daily report of new COVID19 cases (suspected and confirmed) in that state reported for that day. Sort your data by the `positiveIncrease` column to find out: what was the **largest number of positive cases reported in a single day** in your state and **what date did that occur**?
+- The column `hospitalizedIncrease` is a daily report of the number of people who were admitted to a hospital for COVID19 on that day in your state. Sort your data by this column to find out: what was the **largest number of COVID19 hospitalizations reported in your state** in a single day and **what date did that occur**?
+- Add a new column named `allCases`: write a formula in the first cell that adds up (ie. `sum()`) the daily positive cases (`positiveIncrease`) and daily negative cases (`negativeIncrease)` for that day. Autofill that formula all the way down your rows.
+- Add a new column named `percentPositive`: write a formula that calculates the daily positive cases as a percentage of ALL daily cases (positive + negative) - ie. what percentage of test results were positive?
+- Add a new column named `hospitalizedToPositive`: write a formula that calculates a ratio of the number of hospitalizations for that day vs. the total new positive cases for a day - ie. what percentage of of people testing positive for COVID were hospitalized?
+
+#### Teacher’s Note:
+> _It is easy to forget when working with these nice whole numbers that there was a very messy process behind their creation. The last new column in particular stands on pretty shaky ground. The debrief below pushes students to wrestle with gaps and limitations of datasets and the tradeoffs of trying to use imperfect data._
+
+### Whole class debrief: 
+- Did you find anything interesting in working with the spreadsheet? Did anything surprise you?
+- What are some public advocacy projects you could imagine using this data for?
+- Think back to the podcast episode and the challenges faced by the COVID Tracking Project. How confident are you in the "results" of your exploration of the spreadsheet? Do you trust the numbers? 
+- Given its limitations, do you think this data is worth using for a data advocacy project? Why or why not?
 
 
-Teacher’s Note:
-If there is time, debrief with students about working with the data from the COVID Tracking Project vs. all the frustrations and limitations that the project had in collecting that data. It is easy to forget when working with these nice whole numbers that there was a very messy process behind their creation. Think about: What are some of the limitations in this dataset? How confident are you in drawing conclusions from your subset of data? The last new column in particular stands on pretty shaky ground.
 
 
 
