@@ -58,28 +58,28 @@
 </p>
 
 
-# Overview
+# Lesson 2.4 Overview {#overview}
 
 This class uses the modern COVID-19 pandemic as an entry point into understanding how data is created and used within major historical events and processes and the role of historical archives in shaping data collection.
 
-# Learning Goals
+# Learning Goals {#goals}
 
 1. Study the role of data within the COVID-19 pandemic and the longer history of public health data
 2. Understand the concept of “data as archive,” or how data is collected and preserved within specific historical contexts
 3. Refine skills in working with spreadsheets
 
-# Readings
+# Readings {#readings}
 
 - ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
 
-# Agenda
+# Agenda {#agenda}
 
 - Discussion: Public Health Data History (15 min)
 - Activity: Exploring the COVID-19 Archive (20 min)
 - Activity: Metadata and Contributing to the COVID-19 Archive (20 min.)
 - Tutorial: Spreadsheet Practice (20 min)
 
-# Lesson Plan
+# Lesson Plan {#activities}
 
 ## Discussion: Public Health Data History {#discussion}
 
