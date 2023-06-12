@@ -74,10 +74,10 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 
 # Agenda {#agenda}
 
-- Discussion: Public Health Data History (15 min)
-- Activity: Exploring the COVID-19 Archive (20 min)
-- Activity: Metadata and Contributing to the COVID-19 Archive (20 min.)
-- Tutorial: Spreadsheet Practice (20 min)
+- [Discussion: Public Health Data History (15 min)](#discussion)
+- [Activity: Exploring the COVID-19 Archive (20 min)](#activity1)
+- [Activity: Metadata and Contributing to the COVID-19 Archive (20 min.)](#activity2)
+- [Tutorial: Spreadsheet Practice (20 min)](#tutorial)
 
 # Lesson Plan {#activities}
 
