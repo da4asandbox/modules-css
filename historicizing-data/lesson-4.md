@@ -110,9 +110,14 @@ Use the [Global Pandemic Map](https://covid-19archive.org/s/archive/page/WorldMa
 
 .ve-iframe https://covid-19archive.org/s/archive/page/WorldMap width=80%
 
-Start with the most zoomed-out global scale and zoom into particular regions of the world: what countries are most represented and least represented? 
-Zoom down to your particular school. How well represented is YOUR surrounding geographical area in the COVID-19 Archive. Is your geographical area well-represented or poorly represented in this archive? Why do you think this is the case? 
-Explore uploaded items that are closest to your institution. What seems to be in there? Whose experiences are reflected in these items?
-Individually: brainstorm a list of 5 items you could add to this archive that would help ‘round out’ the collection by representing your geographic area. 
-As a group: Share your list with group members and discuss which items you think would be the most effective historical artifacts for shedding light on the experience of the Covid-19 pandemic in your geographical area.
+***Individually:***
+- Start with the most zoomed-out global scale and zoom into particular regions of the world: what countries are most represented and least represented? 
+- Zoom down to your particular school. How well represented is YOUR surrounding geographical area in the COVID-19 Archive. Is your geographical area well-represented or poorly represented in this archive? Why do you think this is the case? 
+- Explore uploaded items that are closest to your institution. What seems to be in there? Whose experiences are reflected in these items?
+- Brainstorm a list of 5 items you could add to this archive that would help ‘round out’ the collection by representing your geographic area. 
+
+***In small groups:***
+- Share your list with group members and discuss which items you think would be the most effective historical artifacts for shedding light on the experience of the Covid-19 pandemic in your geographical area.
+
+
 
