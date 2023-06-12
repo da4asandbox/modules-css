@@ -31,8 +31,8 @@
     - [↳ Learning Outcomes](#outcomes)
     - [↳ Key Concepts](#concepts)
     - [↳ Lesson Plans](#plans)
-    - [↳ Assignments](#assignments)
-    - [↳ Readings](#readings)
+    - [↳ Assignment](#assignments)
+    - [↳ Bibliography](#readings)
 
 # Contents {#contents}
 
