@@ -128,11 +128,11 @@ Go to this starting page: [Trans-Atlantic Slave Trade - Understanding the Databa
 - If you were going to give feedback to the project team about its website and documentation, what would you say?
 
 #### Instructor Note:
-> - One of the important takeawyays of this activity is to develop some strategies for uncovering more information about a database's biography. For this dataset, it requires both skimming the Methodology section of the specific Trans-Atlantic Slave Trade Database but also reading the [About page](https://www.slavevoyages.org/about/) for the entire website. 
+> - _One of the important takeawyays of this activity is to develop some strategies for uncovering more information about a database's biography. For this dataset, it requires both skimming the Methodology section of the specific Trans-Atlantic Slave Trade Database but also reading the [About page](https://www.slavevoyages.org/about/) for the entire website._
 > 
-> - Emphasize that the About page is the primary place you will often go for data projects to answer some of the above questions.
+> - _Emphasize that the About page is the primary place you will often go for data projects to answer some of the above questions._
 >
-> - Finally, sometimes a Google Search can be an even more effcient way to uncover some of this information. For instance, a Google Search for ```Trans-Atlantic Slave Trade Database``` brings up [a much more digestible summary of the project](https://hutchinscenter.fas.harvard.edu/trans-atlantic-slave-trade-database).
+> - _Finally, sometimes a Google Search can be an even more effcient way to uncover some of this information. For instance, a Google Search for ```Trans-Atlantic Slave Trade Database``` brings up [a much more digestible summary of the project](https://hutchinscenter.fas.harvard.edu/trans-atlantic-slave-trade-database)._
 
 ## Tutorial: Working With Tabular Data {#tutorial}
 
