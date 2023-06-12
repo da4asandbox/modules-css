@@ -144,18 +144,20 @@ The COVID-19 Archive is a collection of individual items (news articles, photogr
 
 ## Tutorial: Spreadsheet Practice
 
-You’re going to practice your spreadsheet skills using a subset of data that was collected through The COVID Tracking Project - the same initiative you learned about in the podcast episode you listened to for today. The following Google Sheet contains a subset of data from the project (note: in order to make it easier to work with it does not include all the data that was collected by the project): https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing 
+You’re going to practice your spreadsheet skills using a subset of data that was collected through The COVID Tracking Project - the same initiative you learned about in the podcast episode you listened to for today. The [following Google Sheet](https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing) contains a subset of data from the project (note: in order to make it easier to work with it does not include ALL the data that was collected by the project):  
 
-Make a copy of this Google Sheet and then do the following tasks:
+.ve-iframe https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing width=80%
 
-Create a new, blank Google Sheet and name it “lesson-2.4”
-In the original Google Sheet of COVID data, use a filter to only look at data from a single state (you can choose your home state or that of your school)
-Copy and paste this single state’s data into your newly created “lesson-2.4” sheet.
-The column “positiveIncrease” is a daily report of new COVID19 cases (suspected and confirmed) in that state reported for that day. Sort your data by the “positiveIncrease” column to find out: what is the largest number of positive cases reported in a single day in your state and what date did that occur?
-The column “hospitalizedIncrease” is a daily report of the number of people who were admitted to a hospital for COVID19 on that day in your state. Sort your data by this column to find out: what day saw the greatest number of COVID19 hospitalizations in your state and how many hospitalizations were there on that day?
-Add a new column: write a formula that adds up the daily positive cases (positiveIncrease) and daily negative cases (negativeIncrease) for that day. Autofill that formula all the way down your rows.
-Add a new column: write a formula that daily positive cases as a percentage of all daily cases (positive + negative) - ie. what percentage of test results are positive?
-Add a new column: write a formula that calculates a ratio of the number of hospitalizations for that day vs. the total new positive cases for a day - ie. how sick are people who are testing positive for COVID?
+
+- Make a copy of the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing)
+- Create a new, empty sheet ([instructions](https://www.shorttutorials.com/google-docs-spreadsheet/add-new-sheet.html)) and name it `lesson-2.4`
+- In the original Google Sheet of COVID data, use a filter to only look at data from a single state (you can choose your home state or that of your school)
+- Copy and paste this single state’s data into your newly created `lesson-2.4` sheet.
+- The column `positiveIncrease` is a daily report of new COVID19 cases (suspected and confirmed) in that state reported for that day. Sort your data by the “positiveIncrease” column to find out: what is the largest number of positive cases reported in a single day in your state and what date did that occur?
+- The column “hospitalizedIncrease” is a daily report of the number of people who were admitted to a hospital for COVID19 on that day in your state. Sort your data by this column to find out: what day saw the greatest number of COVID19 hospitalizations in your state and how many hospitalizations were there on that day?
+- Add a new column: write a formula that adds up the daily positive cases (positiveIncrease) and daily negative cases (negativeIncrease) for that day. Autofill that formula all the way down your rows.
+- Add a new column: write a formula that daily positive cases as a percentage of all daily cases (positive + negative) - ie. what percentage of test results are positive?
+- Add a new column: write a formula that calculates a ratio of the number of hospitalizations for that day vs. the total new positive cases for a day - ie. how sick are people who are testing positive for COVID?
 
 
 Teacher’s Note:
