@@ -81,7 +81,7 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 
 # Lesson Plan
 
-## Discussion: Public Health Data History
+## Discussion: Public Health Data History {#discussion}
 
 ### In small groups:
 - What lessons should be drawn from John Graunt’s study of the Bills of Mortality? Why was it a breakthrough and what were some of its limitations?
@@ -89,7 +89,7 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 - What solutions outlined in the second half of the podcast did you find most compelling? Which solutions seem hardest or easiest to implement?
 - What are some of the issues around “aggregation” and “disaggregation” of data that are mentioned at the end of the podcast? Can you think of other examples in which these practices might impact data advocacy projects beyond race and public health?
 
-## Activity: Exploring the COVID-19 Archive
+## Activity: Exploring the COVID-19 Archive {#activity1}
 
 Today you will be examining A Journal of the Plague Year: An Archive of COVID-19, a digital archive project that aims to “document, curate, and preserve experiences of the COVID-19 pandemic for the historical record.”
 
@@ -125,7 +125,7 @@ When examining any archive or dataset, it's important to always be on the lookou
 - Explore uploaded items that are closest to your institution. What seems to be in there? Whose experiences are reflected in these items? Whose experiences and voices seem to be missing?
 - Brainstorm a list of 5 items you could add to this archive that would help ‘round out’ the collection by representing your geographic area. 
 
-## Activity: Metadata and Contributing to the COVID-19 Archive
+## Activity: Metadata and Contributing to the COVID-19 Archive {#activity2}
 
 The COVID-19 Archive is a collection of individual items (news articles, photographs, written memories, oral history recordings, etc.) about the pandemic. But to make these items discoverable, the archive has to also collect information about them. This is called “metadata.” Watch [this short video](https://www.youtube.com/watch?v=ABF2FvSPVYE) to gain a better understanding of this concept:
 
@@ -143,7 +143,7 @@ The COVID-19 Archive is a collection of individual items (news articles, photogr
 - Based on the video about metadata and your own experience in adding metadata to an item, what is the purpose of metadata and why is it important?
 - What challenges did you have in writing the metadata for your item? What was the hardest part? Was anything frustrating or confusing?
 
-## Tutorial: Spreadsheet Practice
+## Tutorial: Spreadsheet Practice {#tutorial}
 
 You’re going to practice your spreadsheet skills using a subset of data that was collected through The COVID Tracking Project - the same initiative you learned about in the podcast episode you listened to for today. The [following Google Sheet](https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing) contains a subset of data from the project (note: in order to make it easier to work with it does not include ALL the data that was collected by the project):  
 
@@ -176,7 +176,3 @@ You’re going to practice your spreadsheet skills using a subset of data that w
     <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
     <sl-button href="/historicizing-data/assignment/" variant="neutral" size="large">Module 2 Assignment</sl-button>
 </p>
-
-
-
-
