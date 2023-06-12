@@ -57,16 +57,28 @@
 </p>
 
 
-## Agenda
+# Overview
 
-## Readings
+This class uses the modern COVID-19 pandemic as an entry point into understanding how data is both created and used within major historical events and processes. 
 
-## Activity: The COVID-19 Archive
+# Learning Goals
 
-- What constitutes data? How might future historians use these kinds of records?
+1. Study the role of data within the COVID-19 pandemic and the longer history of public health data
+2. Understand the concept of “data as archive,” or how data is collected and preserved within specific historical contexts
 
-.ve-footer
-    - [Previous: Module Overview](/module-2/)
-    - [Data 4 All icon](somelink)
-    - [Next: Module 2.2](/module-2/2-2/)
+# Readings
+
+- ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
+
+# Agenda
+
+
+# Lesson Plan
+
+### Discussion: Public Health Data History
+
+What lessons should be drawn from John Graunt’s study of the Bills of Mortality? Why was it a breakthrough and what were some of its limitations?
+What were some of the main challenges that the COVID Tracking Project ran up against?
+What solutions outlined in the second half of the podcast did you find most compelling? Which solutions seem hardest or easiest to implement?
+What are some of the issues around “aggregation” and “disaggregation” of data that are mentioned at the end of the podcast? Can you think of other examples in which these practices might impact other sorts of data besides those related to race and public health?
 
