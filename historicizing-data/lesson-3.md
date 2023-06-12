@@ -69,12 +69,12 @@ This class examines one of the major sources of data used by researchers, activi
 
 # Readings
 
-#### Instructor Note:
-> _Dan Bouk’s Census Stories, USA is a collection of blog posts written during the course of his research for his book, Democracy’s Data. They are written in a more informal style than a traditional academic monograph, and offer bite-sized windows into the social, political, and cultural history behind the US Census. They are, above all, a reminder that data itself has a history and one that is wrapped up in the lives of individual people._
-
 - Bouk, Dan. “8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!” _Census Stories, USA,_ October 29, 2018. [https://censusstories.us/2018/10/29/Alaska-paths.html](https://censusstories.us/2018/10/29/Alaska-paths.html).
 - Bouk, Dan. “Standing on the Crater of a Volcano.” _Census Stories, USA,_ July 27, 2020. [https://censusstories.us/2020/07/27/disfranchisement.html](https://censusstories.us/2020/07/27/disfranchisement.html).
 - Bouk, Dan. “The Partners of Greenwich Village.” _Census Stories, USA,_ July 3, 2018. [https://censusstories.us/2018/07/03/partners.html](https://censusstories.us/2018/07/03/partners.html).
+
+#### Instructor Note:
+> _Dan Bouk’s Census Stories, USA is a collection of blog posts written during the course of his research for his book, Democracy’s Data. They are written in a more informal style than a traditional academic monograph, and offer bite-sized windows into the social, political, and cultural history behind the US Census. They are, above all, a reminder that data itself has a history and one that is wrapped up in the lives of individual people._
 
 # Agenda
 
