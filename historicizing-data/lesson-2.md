@@ -4,7 +4,7 @@
 
     @import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/button/button.js';
 
-    #juncture { font-family: Montserrat; font-size: 20px; -hyphens: none; .bolded font-weight: 900; }
+    #juncture { font-family: Montserrat; font-size: 20px; -hyphens: none; bolded font-weight: 900; }
     
     #juncture a { color: #002868; }
 
