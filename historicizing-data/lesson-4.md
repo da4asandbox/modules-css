@@ -25,7 +25,7 @@
     
 </style>
 
-.ve-header "Lesson 2.4: Studying Data History (Part 3): Public Health and COVID-19" font-width: 500; position=top sticky logo=https://da4asandbox.github.io/modules/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014
+.ve-header "Lesson 2.4: Studying Data History (Part 3): Public Health and COVID-19" font-width:500; position=top sticky logo=https://da4asandbox.github.io/modules/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014
     - [Homepage](/historicizing-data/)
     - [All Modules](/historicizing-data/)
     - [Module 2](/historicizing-data/)
