@@ -51,10 +51,10 @@
     <sl-button href="#goals" variant="default" size="large">Learning Goals</sl-button>
     <sl-button href="#readings" variant="default" size="large">Readings</sl-button>
     <sl-button href="#agenda" variant="default" size="large">Agenda</sl-button>
-    <sl-button href="#activity1" variant="default" size="large">Activity 1</sl-button>
-    <sl-button href="#activity2" variant="default" size="large">Activity 2</sl-button>
-    <sl-button href="#activity3" variant="default" size="large">Activity 3</sl-button>
-    <sl-button href="#activity3" variant="default" size="large">Activity 4</sl-button>
+    <sl-button href="#discussion" variant="default" size="large">Discussion: Public Health Data History</sl-button>
+    <sl-button href="#activity1" variant="default" size="large">Activity: Exploring the COVID-19 Archive</sl-button>
+    <sl-button href="#activity2" variant="default" size="large">Activity: Metadata and Contributing to the COVID-19 Archive</sl-button>
+    <sl-button href="#tutorial" variant="default" size="large">Tutorial: Spreadsheet Practice</sl-button>
 </p>
 
 
