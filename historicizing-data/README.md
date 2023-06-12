@@ -20,18 +20,6 @@
     
     #overview.section1 { background-color: #e3e3e3; margin-top: 0px 0; padding: 30px; }
     
-    #outcomes.section1 { padding-top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
-    
-    #concepts { padding-top: 7px; padding-left: 15px; padding-right: 15px; }
-    
-    #schedule.section1 { padding-left: 15px; padding-right: 15px; padding-bottom: 15px; }
-    
-    #assignments.section1 { padding-top: 25px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
-    
-    #accessment { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
-    
-    #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
-    
 </style>
 
 .ve-header "Module 2: Historicizing Data" position=top sticky logo=https://da4asandbox.github.io/modules/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014 subtitle="by Cameron Blevins"
