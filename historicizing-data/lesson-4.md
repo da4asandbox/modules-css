@@ -87,5 +87,32 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 - What solutions outlined in the second half of the podcast did you find most compelling? Which solutions seem hardest or easiest to implement?
 - What are some of the issues around “aggregation” and “disaggregation” of data that are mentioned at the end of the podcast? Can you think of other examples in which these practices might impact data advocacy projects beyond race and public health?
 
-## The COVID-19 Archive
+## Activity: The COVID-19 Archive
+
+Today you will be examining A Journal of the Plague Year: An Archive of COVID-19, a digital archive project that aims to “document, curate, and preserve experiences of the COVID-19 pandemic for the historical record.”
+
+#### Instructor Note:
+> _This activity centers on the COVID-19 digital archive. This participatory project invites users to submit their own content to the archive. The digital archive format will likely be frustrating and confusing to navigate and understand for some students. This is part of the rapid-response nature of the project and is a useful jumping off point for thinking about the information contained in archives, how that information is collected and made usable, and their silences and gaps._
+
+### Exploring the Archive:
+- Take several minutes and start to explore the website. What seems to be in here? How is it organized? How easy is it to find something you’re looking for? How easy is it to stumble upon something that interests you? What challenges are you facing as a user?
+- Go to the “Advanced Search” page for the archive. Search for a topic that interests you. Scroll through the first 5-10 collection items that appear and choose one of them. What kind of information is included in an “item”? How does it seem to be organized?
+- What questions do you have about the archive based on this first exploration?
+
+***Whole class debrief:***
+- Which types (images, written reflections, audio files, etc.) of submissions are most useful in painting a picture of this COVID-19 year experience? Why? 
+- Which types of submissions resonated the least with you? Why? 
+- What was the user experience like in navigating the archive?
+
+### Silences in the Archive
+
+Use the [Global Pandemic Map](https://covid-19archive.org/s/archive/page/WorldMap) to examine the geographical coverage of the archive.
+
+
+
+Start with the most zoomed-out global scale and zoom into particular regions of the world: what countries are most represented and least represented? 
+Zoom down to your particular school. How well represented is YOUR surrounding geographical area in the COVID-19 Archive. Is your geographical area well-represented or poorly represented in this archive? Why do you think this is the case? 
+Explore uploaded items that are closest to your institution. What seems to be in there? Whose experiences are reflected in these items?
+Individually: brainstorm a list of 5 items you could add to this archive that would help ‘round out’ the collection by representing your geographic area. 
+As a group: Share your list with group members and discuss which items you think would be the most effective historical artifacts for shedding light on the experience of the Covid-19 pandemic in your geographical area.
 
