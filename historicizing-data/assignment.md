@@ -68,5 +68,9 @@ Note that, like most historical datasets, answering some of these questions will
 # Part 2: Reflection {#part2}
 Based on your data biography of the Philadelphia African American Census 1847 data set, write 1-2 paragraphs in which you reflect on lessons this example could hold for working with historical data in order **to pursue contemporary data advocacy projects**. In your response, please draw on your analysis of how the data for the Philadelphia African American Consensus 1847 was collected, processed, and made available - as well as the potential problems you identified.
 
+<p align=center>
+    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>
+    <sl-button href="/assembling-data/" variant="neutral" size="large">Next Module</sl-button>
+</p>
 
 [^1]: Heather Krause provides a working definition of "data biography" in ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) *Global Investigative Journalism Network* (March 27, 2017).
