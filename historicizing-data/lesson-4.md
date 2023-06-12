@@ -159,10 +159,12 @@ You’re going to practice your spreadsheet skills using a subset of data that w
 - Add a new column named `percentPositive`: write a formula that calculates the daily positive cases as a percentage of ALL daily cases (positive + negative) - ie. what percentage of test results were positive?
 - Add a new column named `hospitalizedToPositive`: write a formula that calculates a ratio of the number of hospitalizations for that day vs. the total new positive cases for a day - ie. what percentage of of people testing positive for COVID were hospitalized?
 
+
+### Whole class debrief: 
+
 #### Teacher’s Note:
 > _It is easy to forget when working with these nice whole numbers that there was a very messy process behind their creation. The last new column in particular stands on pretty shaky ground. The debrief below pushes students to wrestle with gaps and limitations of datasets and the tradeoffs of trying to use imperfect data._
 
-### Whole class debrief: 
 - Did you find anything interesting in working with the spreadsheet? Did anything surprise you?
 - What are some public advocacy projects you could imagine using this data for?
 - Think back to the podcast episode and the challenges faced by the COVID Tracking Project. How confident are you in the "results" of your exploration of the spreadsheet? Do you trust the numbers? 
