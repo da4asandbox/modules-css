@@ -54,9 +54,9 @@
     <sl-button href="#readings" variant="default" size="large">Readings</sl-button>
     <sl-button href="#agenda" variant="default" size="large">Agenda</sl-button>
     <sl-button href="#activity1" variant="default" size="large">Activity: Census Data Today</sl-button>
-    <sl-button href="#discussion1" variant="default" size="large">Discussion: Dan Bouk, Census Stories, USA</sl-button>
+    <sl-button href="#discussion1" variant="default" size="large">Discussion 1: Dan Bouk, Census Stories, USA</sl-button>
     <sl-button href="#tutorial" variant="default" size="large">Tutorial: Spreadsheet Functions and Census Data</sl-button>
-    <sl-button href="#discussion2" variant="default" size="large">Discussion: Who Counts in the US Census?</sl-button>
+    <sl-button href="#discussion2" variant="default" size="large">Discussion 2: Who Counts in the US Census?</sl-button>
 </p>
 
 # Lesson Plan 2.3 Overview {#overview}
@@ -107,7 +107,7 @@ This class examines one of the major sources of data used by researchers, activi
 ### Whole class:
 - Each group share your chosen 1 interesting result + 1 additional piece of data that you want to know more about.
 
-## Discussion: Dan Bouk, Census Stories, USA {#discussion1}
+## Discussion 1: Dan Bouk, Census Stories, USA {#discussion1}
 
 ### Individual Free-Write:
 - Which of these “stories” did you find most compelling and why? 
@@ -157,7 +157,7 @@ The total U.S. population counted by the 2020 Census was `331,449,281`. However,
 - Insert a new row into the sheet and add the missing data.
 - Sort your rows by the 2020 population. 
 - Where does your new row fall in a national rank of states by population? What states is it comparable to? 
-## Discussion: Who Counts in the US Census? {#discussion2}
+## Discussion 2: Who Counts in the US Census? {#discussion2}
 The fact that Puerto Rico often does not appear in tables of state-level Census data is a direct result of the United States's history of colonialism. [The following video](https://www.youtube.com/watch?v=8EOxtY3M6Co) gives some historical background on the topic:
 
 .ve-media https://www.youtube.com/watch?v=8EOxtY3M6Co width=70% caption="Christina Thornell, “Why Puerto Rico is not a US state,” Vox Media, (January 15, 2018), "
