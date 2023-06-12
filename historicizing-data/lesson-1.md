@@ -51,7 +51,7 @@
     <sl-button href="#agenda" variant="default" size="large">Agenda</sl-button>
     <sl-button href="#activity1" variant="default" size="large">Activity 1: Discussion: "Collect, Analyze, Imagine, Teach"</sl-button>
     <sl-button href="#activity2" variant="default" size="large">Activity 2: Exploring HOLC Redlining Maps</sl-button>
-    <sl-button href="#activity3: Data Biography of HOLC Redlining Maps" variant="default" size="large">Activity 3</sl-button>
+    <sl-button href="#activity3" variant="default" size="large">Activity 3: Data Biography of HOLC Redlining Maps</sl-button>
 </p>
 
 # Lesson 2.1 Overview {#overview}
