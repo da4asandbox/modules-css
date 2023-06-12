@@ -29,7 +29,7 @@
     - [Homepage](/historicizing-data/)
     - [All Modules](/historicizing-data/)
     - [Module 2](/historicizing-data/)
-    - [Lesson Overview](#overview)
+    - [Lesson 2.2 Overview](#overview)
     - [↳ Learning Goals](#goals)
     - [↳ Readings](#readings)
     - [↳ Agenda](#agenda)
