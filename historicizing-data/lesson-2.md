@@ -82,7 +82,7 @@ This class examines how enslavers constructed, recorded, and used data to reinfo
 - [Discussion: People vs. Numbers (25 min.)](#discussion)
 
 # Lesson Plan {#activities}
-### Introduction: Learning About Slavery {#introduction}
+## Introduction: Learning About Slavery {#introduction}
 
 #### Instructor Note:
 > _This warm-up activity gets students thinking about the history of slavery while also reflecting on how and what they've learned about this topic. Depending on the class and student body, you can add more historical context. There is also a helpful guide with suggested language and vocabulary to use when teaching about slavery: ["Writing About Slavery? Teaching About Slavery?"](https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/mobilebasic)._
