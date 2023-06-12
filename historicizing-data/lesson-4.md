@@ -176,3 +176,9 @@ You’re going to practice your spreadsheet skills using a subset of data that w
     <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
     <sl-button href="/historicizing-data/assignment/" variant="neutral" size="large">Module 2 Assignment</sl-button>
 </p>
+
+.ve-footer
+    - [Module Overview](/historicizing-data/)
+    - [Return to Homepage](/historicizing-data/)
+    - [View All Modules](/historicizing-data/)
+    - [Module 2 Assignment](/historicizing-data/assignment/)
