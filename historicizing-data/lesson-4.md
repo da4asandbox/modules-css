@@ -39,8 +39,9 @@
     - [↳ Activity 4](#activity4)
 
 <p align=center>
-    <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
-    <sl-button href="/assembling-data/" variant="default" size="large">Next Module</sl-button>
+     <sl-button href="/historicizing-data/lesson-3/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/assignment/" variant="neutral" size="large">Module 2 Assignment</sl-button>
 </p>
 
 # Contents {#contents2}
