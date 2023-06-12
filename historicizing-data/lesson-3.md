@@ -28,8 +28,8 @@
 </style>
 
 .ve-header "Lesson 2.3: Studying Data History (Part 2): The U.S. Census" position=top sticky logo=https://da4asandbox.github.io/modules/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014
-    - [Homepage](https://data4all.com)
-    - [All Modules](https://data4all.com/modules)
+    - [Homepage](/historicizing-data/)
+    - [All Modules](/historicizing-data/)
     - [Module 2](/historicizing-data/)
     - [Lesson Overview](#overview)
     - [↳ Learning Goals](#goals)
