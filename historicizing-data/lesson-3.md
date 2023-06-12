@@ -104,7 +104,7 @@ This class examines one of the major sources of data used by researchers, activi
 ### Whole class:
 - Each group share your chosen 1 interesting result + 1 additional piece of data that you want to know more about.
 
-## Discussion: Dan Bouk, Census Stories, USA
+# Discussion: Dan Bouk, Census Stories, USA
 
 ### Individual Free-Write:
 - Which of these “stories” did you find most compelling and why? 
