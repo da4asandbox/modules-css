@@ -18,7 +18,7 @@
     
     #contents.section1 { font-size:50px; text-align: center; }
     
-    #overview.section1 { background-color: #fac6d1; margin-top: 0px 0; padding: 30px; }
+    #overview.section1 { background-color: #e3e3e3; margin-top: 0px 0; padding: 30px; }
     
     #outcomes.section1 { padding-top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
