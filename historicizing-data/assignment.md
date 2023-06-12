@@ -79,4 +79,3 @@ Based on your data biography of the Philadelphia African American Census 1847 da
     - [Module Overview](/historicizing-data/)
     - [Return to Homepage](/historicizing-data/)
     - [View All Modules](/historicizing-data/)
-    - [Next Lesson](/historicizing-data/lesson-3/)
