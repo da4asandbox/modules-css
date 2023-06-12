@@ -158,8 +158,8 @@ Sorting a spreadsheet allows you to "read" a spreadsheet more easily by ordering
 #### Instructor Note:
 > *At this point in the tutorial, it can be useful to pause and try to get students to put these numbers into context and remind them that they represent human beings. One option is to ask students to look around - how many students are in this classroom? If each classroom in this building had roughly the same number of students, how many classes would you need to combine to equal the total number of captives that were forced onto this single ship?*
 
-- Try sorting the spreadsheet so that you can answer the following questions: What year was the  **earliest** and **latest** recorded arrival of a transatlantic slave trade voyage in this database? ```1514``` and ```1866```
-- Sort the spreadhseet by `Voyage ID` so that it is back in its original order.
+*- Try sorting the spreadsheet so that you can answer the following questions: What year was the **earliest** and **latest** recorded arrival of a transatlantic slave trade voyage in this database? ```1514``` and ```1866```
+- Sort the spreadhseet by `Voyage ID` so that it is back in its original order.*
 
 ### Filtering Spreadsheets
 
