@@ -32,7 +32,7 @@
     
     #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-    #.cards { font-width: 400; }
+    #juncture.cards { font-width: 400; }
     
 </style>
 
