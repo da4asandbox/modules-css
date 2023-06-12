@@ -54,9 +54,8 @@
     <sl-button href="#introduction" variant="neutral" size="large">Introduction: Learning About Slavery</sl-button>
     <sl-button href="#activity1" variant="neutral" size="large">Activity: The Trans-Atlantic Slave Trade Database</sl-button>
      <sl-button href="#tutorial" variant="neutral" size="large">Tutorial: Working With Tabular Data</sl-button>
-</p>
     <sl-button href="#discussion" variant="neutral" size="large">Discussion: Numbers vs. People</sl-button>
-
+</p>
 
 # Overview {#overview}
 
