@@ -142,7 +142,7 @@ In this assignment, students apply the concept of a “data biography” to anal
 - ==Rosenthal, Caitlin. “Chapter 2. Slavery’s Scientific Management: Masters and Managers.” _Slavery’s Capitalism,_ University of Pennsylvania Press, 2016, pp. 62–86. www.degruyter.com, [https://doi.org/10.9783/9780812293098-003](https://doi.org/10.9783/9780812293098-003).=={description="Please note is is not an open source resource."} 
 
 .ve-footer
-    - [Previous: Module 1](/module-1/)
-    - [Return to Homepage](/home/)
-    - [View All Modules](/allmodules/)
-    - [Next: Module 3](/module-3/)
+    - [Previous: Module 1](/historicizing-data/)
+    - [Return to Homepage](/historicizing-data/)
+    - [View All Modules](/historicizing-data/)
+    - [Next: Module 3](/historicizing-data/)
