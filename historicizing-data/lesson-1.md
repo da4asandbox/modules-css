@@ -170,6 +170,6 @@ As a group, navigate to the [Introduction page for the Mapping Inequality projec
 
 .ve-footer
     - [Module Overview](/historicizing-data/)
-    - [Return to Homepage](/homepage/)
-    - [View All Modules](/modules/)
-    - [Next Lesson](/lesson-2/)
+    - [Return to Homepage](/historicizing-data/)
+    - [View All Modules](/historicizing-data/)
+    - [Next Lesson](//historicizing-data/lesson-2/)
