@@ -90,7 +90,7 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 <small>This class introduces students to the idea that every dataset has a history behind it that has shaped its production.
 <br><br></small>
 
-<center><sl-button href="/historicizing-data/lesson-1/" target="_blank" size=medium pill>View the full lesson plan</sl-button></center>
+<center><sl-button href="/historicizing-data/lesson-1/" target="_blank" size=medium pill>View full lesson plan</sl-button></center>
 
 #### Lesson 2.2: Studying Data History (Part 1): U.S. Slavery {href=/historicizing-data/lesson-2/}
 
@@ -99,7 +99,7 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 <small>This class examines how enslavers constructed, recorded, and used data to reinforce a system of chattel slavery in the United States in the 1700s and 1800s. 
 <br><br></small>
 
-<center><sl-button href="/historicizing-data/lesson-2/" target="_blank" size=medium pill>View the full lesson plan</sl-button></center>
+<center><sl-button href="/historicizing-data/lesson-2/" target="_blank" size=medium pill>View full lesson plan</sl-button></center>
 
 #### Lesson 2.3: Studying Data History (Part 2): The U.S. Census {href=/historicizing-data/lesson-3/}
 
@@ -112,7 +112,7 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 <small>This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census.
 <br><br></small>
 
-<center><sl-button href="/historicizing-data/lesson-3/" target="_blank" size=medium pill>View the full lesson plan</sl-button></center>
+<center><sl-button href="/historicizing-data/lesson-3/" target="_blank" size=medium pill>View full lesson plan</sl-button></center>
 
 #### Lesson 2.4: Studying Data History (Part 3): Public Health and COVID-19 {href=/historicizing-data/lesson-4/}
 
@@ -121,7 +121,7 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 <small>This class uses the modern COVID-19 pandemic as an entry point into understanding how data is both created and used within major historical events and processes.
 <br><br></small>
 
-<center><sl-button href="/historicizing-data/lesson-4/" target="_blank" size=medium pill>View the full lesson plan</sl-button></center>
+<center><sl-button href="/historicizing-data/lesson-4/" target="_blank" size=medium pill>View full lesson plan</sl-button></center>
 
 # Assignment {#assignments}
 
