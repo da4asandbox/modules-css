@@ -6,7 +6,7 @@
 
     #juncture { font-family: Montserrat; font-size: 20px; -hyphens: none; }
     
-    #** { font-weight: 900; }
+    #bolded { font-weight: 900; }
     
     #juncture a { color: #002868; }
 
