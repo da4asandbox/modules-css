@@ -33,10 +33,10 @@
     - [↳ Learning Goals](#goals)
     - [↳ Readings](#readings)
     - [↳ Agenda](#agenda)
+    - [↳ Discussion](#discussion)
     - [↳ Activity 1](#activity1)
     - [↳ Activity 2](#activity2)
-    - [↳ Activity 3](#activity3)
-    - [↳ Activity 4](#activity4)
+    - [↳ Tutorial](#tutorial)
 
 <p align=center>
      <sl-button href="/historicizing-data/lesson-3/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;
