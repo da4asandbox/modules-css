@@ -78,7 +78,7 @@ This class examines how enslavers constructed, recorded, and used data to reinfo
 
 - [Introduction: Learning About Slavery (10 min.)](#introduction)
 - [Activity: The Trans-Atlantic Slave Trade Database (15 min.)](#activity1)
-- Tutorial: Working With Tabular Data (25 min.)
+- [Tutorial: Working With Tabular Data (25 min.)](#tutorial)
 - Discussion: People vs. Numbers (25 min.)
 
 # Lesson Plan {#activities}
@@ -134,7 +134,7 @@ Go to this starting page: [Trans-Atlantic Slave Trade - Understanding the Databa
 >
 > - Finally, sometimes a Google Search can be an even more effcient way to uncover some of this information. For instance, a Google Search for ```Trans-Atlantic Slave Trade Database``` brings up [a much more digestible summary of the project](https://hutchinscenter.fas.harvard.edu/trans-atlantic-slave-trade-database).
 
-## Tutorial: Working With Tabular Data
+## Tutorial: Working With Tabular Data {#tutorial}
 
 Tabular data is the storage of information through a system of rows and columns. Arguably the most common format for tabular data is a spreadsheet. Although spreadsheets can come in several different file types, for today we're going to work in Google Sheets. For homework you watched the beginning of the video tutorial, "How to use Google Sheets - Tutorial for Beginners". This provides a nice introduction to spreadsheets and the Google Sheets interface. Your goal today is to apply some of those lessons to a different spreadsheet.
 
