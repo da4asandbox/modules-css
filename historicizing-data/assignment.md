@@ -63,11 +63,6 @@ In this assignment, students apply the concept of a “data biography” to anal
 
 # Part 1: Biography
 
-#### Instructor Note:
-> _In this assignment, students apply the concept of a “data biography” to analyze the history behind a particular dataset: the who, what, when, how, and why of the dataset and its creation. In doing so, they learn about the different interpretative filters that shape the historical trajectory of a dataset, from its initial collection to its availability and usability today._
-
-## Part 1: Biography 
-
 Your assignment is to write a "data biography" about a historical dataset.[^1] This is the dataset you will be examining: [Philadelphia African American Census 1847](https://ds-pages.swarthmore.edu/paac/). I am not providing you with any additional information about the dataset beyond the above link. You will need to put on your detective hats and try to familiarize yourself with the data and its history. Make sure that you download the actual dataset and take a look at its contents in addition to tracking down its history. Your data biography should tell a story about the dataset that addresses the following:
 
 - **Introduce** the dataset and its contents. What kind of information is in there? How much data is there?
@@ -80,116 +75,8 @@ Your assignment is to write a "data biography" about a historical dataset.[^1] T
 
 Note that, like most historical datasets, answering some of these questions will require you to think about the multiple stages through which this information has passed to get to its current state as machine-readable data. So "Who collected it?" needs to include both the original historical actors who created the information along with the subsequent people who ultimately made it available for you.
 
-## Part 2: Reflection
+# Part 2: Reflection
 Based on your data biography of the Philadelphia African American Census 1847 data set, write 1-2 paragraphs in which you reflect on lessons this example could hold for working with historical data in order **to pursue contemporary data advocacy projects**. In your response, please draw on your analysis of how the data for the Philadelphia African American Consensus 1847 was collected, processed, and made available - as well as the potential problems you identified.
 
 
 [^1]: Heather Krause provides a working definition of "data biography" in ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) *Global Investigative Journalism Network* (March 27, 2017).
-
-
-1. Study the role of data within the COVID-19 pandemic and the longer history of public health data
-2. Understand the concept of “data as archive,” or how data is collected and preserved within specific historical contexts
-3. Refine skills in working with spreadsheets
-
-# Readings
-
-- ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
-
-# Agenda
-
-- Discussion: Public Health Data History (15 min)
-- Activity: Exploring the COVID-19 Archive (20 min)
-- Activity: Metadata and Contributing to the COVID-19 Archive (20 min.)
-- Tutorial: Spreadsheet Practice (20 min)
-
-# Lesson Plan
-
-## Discussion: Public Health Data History
-
-### In small groups:
-- What lessons should be drawn from John Graunt’s study of the Bills of Mortality? Why was it a breakthrough and what were some of its limitations?
-- What were some of the main challenges that the COVID Tracking Project ran up against?
-- What solutions outlined in the second half of the podcast did you find most compelling? Which solutions seem hardest or easiest to implement?
-- What are some of the issues around “aggregation” and “disaggregation” of data that are mentioned at the end of the podcast? Can you think of other examples in which these practices might impact data advocacy projects beyond race and public health?
-
-## Activity: Exploring the COVID-19 Archive
-
-Today you will be examining A Journal of the Plague Year: An Archive of COVID-19, a digital archive project that aims to “document, curate, and preserve experiences of the COVID-19 pandemic for the historical record.”
-
-#### Instructor Note:
-> _This activity centers on the COVID-19 digital archive. This participatory project invites users to submit their own content to the archive. The digital archive format will likely be frustrating and confusing to navigate and understand for some students. This is part of the rapid-response nature of the project and is a useful jumping off point for thinking about the information contained in archives, how that information is collected and made usable, and their silences and gaps._
-
-### Explore the Archive
-
-***Individually:***
-Take several minutes and start to explore the website. As you do so, take notes on the following:
-- What seems to be in here? 
-- How is it organized? 
-- How easy is it to find something you’re looking for? 
-- How easy is it to stumble upon something that interests you? 
-- What challenges are you facing as a user?
-- Go to the “Advanced Search” page for the archive. Search for a topic that interests you. Scroll through the first 5-10 collection items that appear and choose one of them. What kind of information is included in an “item”? How does it seem to be organized?
-- What questions do you have about the archive based on this first exploration?
-
-***Whole class:***
-- Which types (images, written reflections, audio files, etc.) of submissions are most useful in painting a picture of this COVID-19 year experience? Why? 
-- Which types of submissions resonated the least with you? Why? 
-- What was the user experience like in navigating the archive?
-
-### Silences in the Archive
-
-When examining any archive or dataset, it's important to always be on the lookout for its silences - ie. not just what information is in there, but also what is MISSING. One way to approach this is to study the geographical coverage of an archive or dataset. For the COVID-19 Archive, we're going to use the [Global Pandemic Map](https://covid-19archive.org/s/archive/page/WorldMap) to examine where its items came from.
-
-.ve-iframe https://covid-19archive.org/s/archive/page/WorldMap width=80%
-
-***Individually:***
-- Start with the most zoomed-out global scale and zoom into particular regions of the world: what countries are MOST represented and LEAST represented? 
-- Zoom down to your particular school. How well represented is YOUR surrounding geographical area in the COVID-19 Archive. Is your geographical area well-represented or poorly represented in this archive? Why do you think this is the case? 
-- Explore uploaded items that are closest to your institution. What seems to be in there? Whose experiences are reflected in these items? Whose experiences and voices seem to be missing?
-- Brainstorm a list of 5 items you could add to this archive that would help ‘round out’ the collection by representing your geographic area. 
-
-## Activity: Metadata and Contributing to the COVID-19 Archive
-
-The COVID-19 Archive is a collection of individual items (news articles, photographs, written memories, oral history recordings, etc.) about the pandemic. But to make these items discoverable, the archive has to also collect information about them. This is called “metadata.” Watch [this short video](https://www.youtube.com/watch?v=ABF2FvSPVYE) to gain a better understanding of this concept:
-
-.ve-media https://www.youtube.com/watch?v=ABF2FvSPVYE width=70% caption="The Metadata Librarian Explains Metadata" (December 4, 2014)
-
-### Working in pairs:
-- Share your brainstormed list of 5 items you thought of that you could add to this archive that would help ‘round out’ the collection by representing your geographic area. 
-- Choose one item from your combined list to contribute to the archive. *Note: although you can make your own information as a contributor anonymous, the item you choose will be publicly available. Think about the issue of privacy when selecting your item.*
-- Go to [this page](https://covid-19archive.org/s/archive/page/Share) and fill out the template to contribute your item: 
-    - Work as a group and try to reach a consensus on what to include in the different metadata fields to describe the item.
-    - Note: it is recommend that you check the box to share this story anonymously, unless you want your personal information linked to the item.
-
-### Whole class debrief:
-
-- Based on the video about metadata and your own experience in adding metadata to an item, what is the purpose of metadata and why is it important?
-- What challenges did you have in writing the metadata for your item? What was the hardest part? Was anything frustrating or confusing?
-
-## Tutorial: Spreadsheet Practice
-
-You’re going to practice your spreadsheet skills using a subset of data that was collected through The COVID Tracking Project - the same initiative you learned about in the podcast episode you listened to for today. The [following Google Sheet](https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing) contains a subset of data from the project (note: in order to make it easier to work with it does not include ALL the data that was collected by the project):  
-
-.ve-iframe https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing width=80%
-
-### Instructions: 
-- Make a copy of the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing)
-- Create a new, empty sheet ([instructions](https://www.shorttutorials.com/google-docs-spreadsheet/add-new-sheet.html)) and name it `lesson-2.4`
-- In the original Google Sheet of COVID data, use a filter to only look at data from a single state (you can choose your home state or that of your school)
-- Copy and paste this single state’s data into your newly created `lesson-2.4` sheet.
-- The column `positiveIncrease` is a daily report of new COVID19 cases (suspected and confirmed) in that state reported for that day. Sort your data by the `positiveIncrease` column to find out: what was the **largest number of positive cases reported in a single day** in your state and **what date did that occur**?
-- The column `hospitalizedIncrease` is a daily report of the number of people who were admitted to a hospital for COVID19 on that day in your state. Sort your data by this column to find out: what was the **largest number of COVID19 hospitalizations reported in your state** in a single day and **what date did that occur**?
-- Add a new column named `allCases`: write a formula in the first cell that adds up (ie. `sum()`) the daily positive cases (`positiveIncrease`) and daily negative cases (`negativeIncrease)` for that day. Autofill that formula all the way down your rows.
-- Add a new column named `percentPositive`: write a formula that calculates the daily positive cases as a percentage of ALL daily cases (positive + negative) - ie. what percentage of test results were positive?
-- Add a new column named `hospitalizedToPositive`: write a formula that calculates a ratio of the number of hospitalizations for that day vs. the total new positive cases for a day - ie. what percentage of of people testing positive for COVID were hospitalized?
-
-
-### Whole class debrief: 
-
-#### Teacher’s Note:
-> _It is easy to forget when working with these nice whole numbers that there was a very messy process behind their creation. The last new column in particular stands on pretty shaky ground. The debrief below pushes students to wrestle with gaps and limitations of datasets and the tradeoffs of trying to use imperfect data._
-
-- Did you find anything interesting in working with the spreadsheet? Did anything surprise you?
-- What are some public advocacy projects you could imagine using this data for?
-- Think back to the podcast episode and the challenges faced by the COVID Tracking Project. How confident are you in the "results" of your exploration of the spreadsheet? Do you trust the numbers? 
-- Given its limitations, do you think this data is worth using for a data advocacy project? Why or why not?
