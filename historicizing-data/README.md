@@ -20,7 +20,7 @@
     
     #overview.section1 { background-color: #e3e3e3; margin-top: 0px 0; padding: 30px; }
     
-    #assignments.section1 { padding-top: 25px; }
+    #assignments.section1 { padding-top: 35px; }
     
 </style>
 
