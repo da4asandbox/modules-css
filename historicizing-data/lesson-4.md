@@ -71,7 +71,6 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 # Readings {#readings}
 
 - ["Pandemic Tracking and the Future of Data"](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/), *99% Invisible* podcast (May 3, 2022). ([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
-
 # Agenda {#agenda}
 
 - [Discussion: Public Health Data History (15 min)](#discussion)
