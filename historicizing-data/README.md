@@ -16,7 +16,7 @@
     
     ul li { padding: 3px 0px; }
     
-    #contents.section1 { font-size:40px; text-align: center; }
+    #contents.section1 { font-size:50px; text-align: center; }
     
     #overview.section1 { background-color: #eee; margin-top: 0px 0; padding: 30px; }
     
