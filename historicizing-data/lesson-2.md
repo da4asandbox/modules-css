@@ -222,8 +222,9 @@ Compare your notes on these two examples (the data visualization of Transatlanti
 
 <br>
 <p align=center>
-    <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module 2 Overview</sl-button>
-    <sl-button href="/lesson-3/" variant="default" size="large">Next Lesson</sl-button>
+     <sl-button href="/historicizing-data/lesson-1/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/lesson-3/" variant="neutral" size="large">Next Lesson</sl-button>
 </p>
 
 .ve-footer
