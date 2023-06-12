@@ -155,6 +155,7 @@ The total U.S. population counted by the 2020 Census was `331,449,281`. However,
 - Insert a new row into the sheet and add the missing data.
 - Sort your rows by the 2020 population. 
 - Where does your new row fall in a national rank of states by population? What states is it comparable to?
+<br>
 ## Discussion: Who Counts in the US Census? {#discussion2}
 
 The fact that Puerto Rico often does not appear in tables of state-level Census data is a direct result of the United States's history of colonialism. [The following video](https://www.youtube.com/watch?v=8EOxtY3M6Co) gives some historical background on the topic:
