@@ -21,7 +21,6 @@
     #activities.section1 h2 { color: #002868; padding-bottom: 0px; }
 
     ul li { padding: 3px 0px; }
-
     
 </style>
 
