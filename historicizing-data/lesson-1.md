@@ -75,7 +75,6 @@ This class introduces students to studying data as a historical artifact - the i
 - [Small Group Work: Data Biography of HOLC Redlining Maps](#activity3)
 
 # Activities {#activities}
-
 ## Discussion: "Collect, Analyze, Imagine, Teach" {#activity1}
 
 ### Defining Concepts
