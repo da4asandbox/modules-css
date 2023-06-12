@@ -57,17 +57,17 @@
     <sl-button href="#discussion2" variant="default" size="large">Discussion: Who Counts in the US Census?</sl-button>
 </p>
 
-# Lesson Plan 2.3 Overview
+# Lesson Plan 2.3 Overview {#overview}
 
 This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
 
-# Learning Goals
+# Learning Goals {#goals}
 
 1. Study the social and cultural history behind census data and its creation
 2. Understand the process of categorization and data collection
 3. How to work with tabular datasets
 
-# Readings
+# Readings {#readings}
 
 - Bouk, Dan. “8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!” _Census Stories, USA,_ October 29, 2018. [https://censusstories.us/2018/10/29/Alaska-paths.html](https://censusstories.us/2018/10/29/Alaska-paths.html).
 - Bouk, Dan. “Standing on the Crater of a Volcano.” _Census Stories, USA,_ July 27, 2020. [https://censusstories.us/2020/07/27/disfranchisement.html](https://censusstories.us/2020/07/27/disfranchisement.html).
@@ -76,7 +76,7 @@ This class examines one of the major sources of data used by researchers, activi
 #### Instructor Note:
 > _Dan Bouk’s Census Stories, USA is a collection of blog posts written during the course of his research for his book, Democracy’s Data. They are written in a more informal style than a traditional academic monograph, and offer bite-sized windows into the social, political, and cultural history behind the US Census. They are, above all, a reminder that data itself has a history and one that is wrapped up in the lives of individual people._
 
-# Agenda
+# Agenda {#agenda}
 
 - Activity: Census Data Today (15 min.)
 - Discussion: Dan Bouk, Census Stories, USA (20 min.)
@@ -84,7 +84,7 @@ This class examines one of the major sources of data used by researchers, activi
 - Discussion: Who Counts in the US Census? (15 min.)
 
 # Lesson Plan {#activities}
-## Activity: Census Data Today
+## Activity: Census Data Today {#activity1}
 
 #### Instructor Note:
 > _This activity has students explore modern census data for their home state. They should get a sense for what kind of data the government is collecting along with sparking their interest about some of the data insights into their state. This will set up the rest of today’s discussion about how this information has been collected and used at different points in American history._
@@ -105,7 +105,7 @@ This class examines one of the major sources of data used by researchers, activi
 ### Whole class:
 - Each group share your chosen 1 interesting result + 1 additional piece of data that you want to know more about.
 
-## Discussion: Dan Bouk, Census Stories, USA
+## Discussion: Dan Bouk, Census Stories, USA {#discussion1}
 
 ### Individual Free-Write:
 - Which of these “stories” did you find most compelling and why? 
@@ -121,7 +121,7 @@ This class examines one of the major sources of data used by researchers, activi
 - How do you think this modern data was collected?
 
 
-## Tutorial: Spreadsheet Functions and Census Data
+## Tutorial: Spreadsheet Functions and Census Data {#tutorial}
 
 #### Instructor Note:
 > _These activities will help students get more comfortable working with spreadsheets and understanding how spreadsheet functions work while also highlighting some of the political choices that shape the Census data and how it is recorded and categorized._
@@ -156,7 +156,7 @@ The total U.S. population counted by the 2020 Census was `331,449,281`. However,
 - Sort your rows by the 2020 population. 
 - Where does your new row fall in a national rank of states by population? What states is it comparable to?
 
-## Discussion: Who Counts in the US Census?
+## Discussion: Who Counts in the US Census? {#discussion2}
 
 The fact that Puerto Rico often does not appear in tables of state-level Census data is a direct result of the United States's history of colonialism. [The following video](https://www.youtube.com/watch?v=8EOxtY3M6Co) gives some historical background on the topic:
 
