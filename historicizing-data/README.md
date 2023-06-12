@@ -28,11 +28,11 @@
     
     #assignments.section1 { padding-top: 25px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
+        #assignments.section1 { font-width: 400; }
+    
     #accessment { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
     #readings { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
-    
-    #juncture.cards { font-width: 400; }
     
 </style>
 
