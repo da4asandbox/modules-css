@@ -186,12 +186,13 @@ The Census Bureau aims to record the state in which a person resides and the spe
 
 <br>
 <p align=center>
-    <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module 2 Overview</sl-button>
-    <sl-button href="/lesson-4/" variant="default" size="large">Next Lesson</sl-button>
+     <sl-button href="/historicizing-data/lesson-2/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/lesson-4/" variant="neutral" size="large">Next Lesson</sl-button>
 </p>
 
 .ve-footer
     - [Module Overview](/historicizing-data/)
-    - [Return to Homepage](/homepage/)
-    - [View All Modules](/modules/)
-    - [Next Lesson](/lesson-4/)
+    - [Return to Homepage](/historicizing-data/)
+    - [View All Modules](/historicizing-data/)
+    - [Next Lesson](/historicizing-data/lesson-4/)
