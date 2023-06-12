@@ -229,6 +229,6 @@ Compare your notes on these two examples (the data visualization of Transatlanti
 
 .ve-footer
     - [Module Overview](/historicizing-data/)
-    - [Return to Homepage](/homepage/)
-    - [View All Modules](/modules/)
-    - [Next Lesson](/lesson-3/)
+    - [Return to Homepage](/historicizing-data/)
+    - [View All Modules](/historicizing-data/)
+    - [Next Lesson](/historicizing-data/lesson-3/)
