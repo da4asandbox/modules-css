@@ -28,7 +28,7 @@
     
     #assignments.section1 { padding-top: 25px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
-        #plans.section1 { font-width: 400; }
+        #plans.section1 { font-width: 400; font-size: 900px; }
     
     #accessment { padding-top: 7px; padding-left: 15px; padding-right: 15px; padding-bottom: 7px; }
     
