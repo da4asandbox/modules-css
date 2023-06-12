@@ -48,7 +48,7 @@
 
 # Contents {#contents}
 
-<p align=left>
+<p align=center>
     <sl-button href="#overview" variant="default" size="large">Lesson Overview</sl-button>
     <sl-button href="#goals" variant="default" size="large">Learning Goals</sl-button>
     <sl-button href="#readings" variant="default" size="large">Readings</sl-button>
