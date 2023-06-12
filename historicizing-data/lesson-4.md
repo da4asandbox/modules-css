@@ -59,12 +59,13 @@
 
 # Overview
 
-This class uses the modern COVID-19 pandemic as an entry point into understanding how data is both created and used within major historical events and processes. 
+This class uses the modern COVID-19 pandemic as an entry point into understanding how data is created and used within major historical events and processes and the role of historical archives in shaping data collection.
 
 # Learning Goals
 
 1. Study the role of data within the COVID-19 pandemic and the longer history of public health data
 2. Understand the concept of “data as archive,” or how data is collected and preserved within specific historical contexts
+3. Refine skills in working with spreadsheets
 
 # Readings
 
@@ -72,13 +73,19 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 
 # Agenda
 
+- Discussion: Public Health Data History (15 min)
+- Activity: The COVID-19 Archive (40 min)
+- Tutorial: Spreadsheet Practice (20 min)
 
 # Lesson Plan
 
-### Discussion: Public Health Data History
+## Discussion: Public Health Data History
 
-What lessons should be drawn from John Graunt’s study of the Bills of Mortality? Why was it a breakthrough and what were some of its limitations?
-What were some of the main challenges that the COVID Tracking Project ran up against?
-What solutions outlined in the second half of the podcast did you find most compelling? Which solutions seem hardest or easiest to implement?
-What are some of the issues around “aggregation” and “disaggregation” of data that are mentioned at the end of the podcast? Can you think of other examples in which these practices might impact other sorts of data besides those related to race and public health?
+### In small groups:
+- What lessons should be drawn from John Graunt’s study of the Bills of Mortality? Why was it a breakthrough and what were some of its limitations?
+- What were some of the main challenges that the COVID Tracking Project ran up against?
+- What solutions outlined in the second half of the podcast did you find most compelling? Which solutions seem hardest or easiest to implement?
+- What are some of the issues around “aggregation” and “disaggregation” of data that are mentioned at the end of the podcast? Can you think of other examples in which these practices might impact data advocacy projects beyond race and public health?
+
+## The COVID-19 Archive
 
