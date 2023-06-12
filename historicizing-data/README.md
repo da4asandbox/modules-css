@@ -36,12 +36,12 @@
 
 # Contents {#contents}
 
-<sl-button href="#overview" variant="neutral" size="large">Module Overview</sl-button>
-<sl-button href="#outcomes" variant="neutral" size="large">Learning Outcomes</sl-button>
-<sl-button href="#concepts" variant="neutral" size="large">Key Concepts</sl-button>
-<sl-button href="#plans" variant="neutral" size="large">Lesson Plans</sl-button>
-<sl-button href="#assignments" variant="neutral" size="large">Assignment</sl-button>
-<sl-button href="#readings" variant="neutral" size="large">Bibliography</sl-button>
+<sl-button href="#overview" variant="default" size="large">Module Overview</sl-button>
+<sl-button href="#outcomes" variant="default" size="large">Learning Outcomes</sl-button>
+<sl-button href="#concepts" variant="default" size="large">Key Concepts</sl-button>
+<sl-button href="#plans" variant="default" size="large">Lesson Plans</sl-button>
+<sl-button href="#assignments" variant="default" size="large">Assignment</sl-button>
+<sl-button href="#readings" variant="default" size="large">Bibliography</sl-button>
 
 # Overview {#overview}
 
