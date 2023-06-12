@@ -32,7 +32,7 @@
     
 </style>
 
-.ve-header "Module 2: Historicizing Data" position=top sticky logo=https://da4asandbox.github.io/modules/media/DataAdvocacyForAllLogoWebsite.jpg url=dataadvocacy.com background=#690014 subtitle="by Cameron Blevins"
+.ve-header "Module 2: Historicizing Data" position=top sticky logo=https://da4asandbox.github.io/modules/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014 subtitle="by Cameron Blevins"
     - [Homepage](https://data4all.com)
     - [All Modules](https://data4all.com/modules)
     - [Module Overview](#overview)
