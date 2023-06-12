@@ -52,8 +52,8 @@
     <sl-button href="#readings" variant="default" size="large">Readings</sl-button>
     <sl-button href="#agenda" variant="default" size="large">Agenda</sl-button>
     <sl-button href="#discussion" variant="default" size="large">Discussion: Public Health Data History</sl-button>
-    <sl-button href="#activity1" variant="default" size="large">Activity: Exploring the COVID-19 Archive</sl-button>
-    <sl-button href="#activity2" variant="default" size="large">Activity: Metadata and Contributing to the COVID-19 Archive</sl-button>
+    <sl-button href="#activity1" variant="default" size="large">Activity 1: Exploring the COVID-19 Archive</sl-button>
+    <sl-button href="#activity2" variant="default" size="large">Activity 2: Metadata and Contributing to the COVID-19 Archive</sl-button>
     <sl-button href="#tutorial" variant="default" size="large">Tutorial: Spreadsheet Practice</sl-button>
 </p>
 
@@ -74,8 +74,8 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 # Agenda {#agenda}
 
 - [Discussion: Public Health Data History (15 min)](#discussion)
-- [Activity: Exploring the COVID-19 Archive (20 min)](#activity1)
-- [Activity: Metadata and Contributing to the COVID-19 Archive (20 min.)](#activity2)
+- [Activity 1: Exploring the COVID-19 Archive (20 min)](#activity1)
+- [Activity 2: Metadata and Contributing to the COVID-19 Archive (20 min.)](#activity2)
 - [Tutorial: Spreadsheet Practice (20 min)](#tutorial)
 
 # Lesson Plan {#activities}
@@ -88,7 +88,7 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 - What solutions outlined in the second half of the podcast did you find most compelling? Which solutions seem hardest or easiest to implement?
 - What are some of the issues around “aggregation” and “disaggregation” of data that are mentioned at the end of the podcast? Can you think of other examples in which these practices might impact data advocacy projects beyond race and public health?
 
-## Activity: Exploring the COVID-19 Archive {#activity1}
+## Activity 1: Exploring the COVID-19 Archive {#activity1}
 
 Today you will be examining A Journal of the Plague Year: An Archive of COVID-19, a digital archive project that aims to “document, curate, and preserve experiences of the COVID-19 pandemic for the historical record.”
 
@@ -124,7 +124,7 @@ When examining any archive or dataset, it's important to always be on the lookou
 - Explore uploaded items that are closest to your institution. What seems to be in there? Whose experiences are reflected in these items? Whose experiences and voices seem to be missing?
 - Brainstorm a list of 5 items you could add to this archive that would help ‘round out’ the collection by representing your geographic area. 
 
-## Activity: Metadata and Contributing to the COVID-19 Archive {#activity2}
+## Activity 2: Metadata and Contributing to the COVID-19 Archive {#activity2}
 
 The COVID-19 Archive is a collection of individual items (news articles, photographs, written memories, oral history recordings, etc.) about the pandemic. But to make these items discoverable, the archive has to also collect information about them. This is called “metadata.” Watch [this short video](https://www.youtube.com/watch?v=ABF2FvSPVYE) to gain a better understanding of this concept:
 
