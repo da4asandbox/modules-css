@@ -103,7 +103,11 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 
 #### Lesson 2.3: Studying Data History (Part 2): The U.S. Census {href=/historicizing-data/lesson-3/}
 
+<!-- 
 ![](https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80)
+-->
+
+![](https://tile.loc.gov/image-services/iiif/service:gmd:gmd370m:g3701m:g3701gm:gct00010:ca000018/full/pct:12.5/0/default.jpg)
 
 <small>This class studies the history of one of the major sources of data used by researchers, activists, and policy-makers today: the US Census.
 <br><br></small>
