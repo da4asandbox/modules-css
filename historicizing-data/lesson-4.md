@@ -126,9 +126,9 @@ When examining any archive or dataset, it's important to always be on the lookou
 
 ## Activity: Metadata and Contributing to the COVID-19 Archive
 
-The COVID-19 Archive is a collection of individual items (news articles, photographs, written memories, oral history recordings, etc.) about the pandemic. But to make these items discoverable, the archive has to also collect information about them. This is called “metadata.” Watch this 4-minute video to gain a better understanding of this concept: https://www.youtube.com/watch?v=ABF2FvSPVYE
+The COVID-19 Archive is a collection of individual items (news articles, photographs, written memories, oral history recordings, etc.) about the pandemic. But to make these items discoverable, the archive has to also collect information about them. This is called “metadata.” Watch [this short video](https://www.youtube.com/watch?v=ABF2FvSPVYE) to gain a better understanding of this concept:
 
-.ve-media 
+.ve-media https://www.youtube.com/watch?v=ABF2FvSPVYE width=70% caption="The Metadata Librarian Explains Metadata" (December 4, 2014)
 
 ### Working in pairs:
 - Share your brainstormed list of 5 items you thought of that you could add to this archive that would help ‘round out’ the collection by representing your geographic area. 
@@ -142,9 +142,9 @@ The COVID-19 Archive is a collection of individual items (news articles, photogr
 - Based on the video about metadata and your own experience in adding metadata to an item, what is the purpose of metadata and why is it important?
 - What challenges did you have in writing the metadata for your item? What was the hardest part? Was anything frustrating or confusing?
 
-Tutorial: Spreadsheet Practice
+## Tutorial: Spreadsheet Practice
 
-You’re going to practice your spreadsheet skills using a subset of data that was collected through The COVID Tracking Project - the same initiative you learned about in the podcast episode for today. The following Google Sheet contains a subset of data from the project (note: in order to make it easier to work with it does not include all the data that was collected by the project): https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing 
+You’re going to practice your spreadsheet skills using a subset of data that was collected through The COVID Tracking Project - the same initiative you learned about in the podcast episode you listened to for today. The following Google Sheet contains a subset of data from the project (note: in order to make it easier to work with it does not include all the data that was collected by the project): https://docs.google.com/spreadsheets/d/1g2xZ1ctyRLNfIBR0HfAp7oJ3fQBs2sUNya509E1kS_M/edit?usp=sharing 
 
 Make a copy of this Google Sheet and then do the following tasks:
 
