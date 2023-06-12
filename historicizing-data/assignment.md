@@ -29,14 +29,9 @@
     - [Homepage](/historicizing-data/)
     - [All Modules](/historicizing-data/)
     - [Module 2](/historicizing-data/)
-    - [Lesson Overview](#overview)
-    - [↳ Learning Goals](#goals)
-    - [↳ Readings](#readings)
-    - [↳ Agenda](#agenda)
-    - [↳ Activity 1](#activity1)
-    - [↳ Activity 2](#activity2)
-    - [↳ Activity 3](#activity3)
-    - [↳ Activity 4](#activity4)
+    - [Assignment Overview](#overview)
+    - [↳ Part 1: Biography](#part1)
+    - [↳ Part 2: Reflection](#part2)
 
 <p align=center>
     <sl-button href="/historicizing-data/" variant="default" size="large">Return to Module Overview</sl-button>
