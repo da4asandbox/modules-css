@@ -75,7 +75,7 @@ This class introduces students to studying data as a historical artifact - the i
 - [Small Group Work: Data Biography of HOLC Redlining Maps](#activity3)
 
 # Activities {#activities}
-## Discussion: "Collect, Analyze, Imagine, Teach" {#activity1}
+## Activity 1: Discussion: "Collect, Analyze, Imagine, Teach" {#activity1}
 
 ### Defining Concepts
 - ***In small groups:***
@@ -98,7 +98,7 @@ This class introduces students to studying data as a historical artifact - the i
 > 
 > _- Can you think of other examples of "counterdata" that weren't mentioned in this chapter?_
 
-## Exploring HOLC Redlining Maps {#activity2}
+## Activity 2: Exploring HOLC Redlining Maps {#activity2}
 
 #### Instructor Note:
 > _In this activity, students use an interactive mapping project, *Mapping Inequality*, which has scanned, georeferenced, and overlaid HOLC maps from the 1930s onto modern cities. These maps were referenced in the *Data Feminism* reading for this module. This allows students to zoom into different nieighborhoods and explore how this federal agency overlaid conceptions of race, class, and ethnicity onto their grading system for mortgage lending. This activity uses **Denver, Colorado**, as its map, but teachers can substitute another city that might be more familiar for their students. This does require finding some suitable groupings of areas for students to zero in on._
@@ -141,7 +141,7 @@ Here is some background to get you started:
 - Entire class: What seem to be the common factors that the mapmakers used to determine the "lending risk" of different areas of the city?
 - Entire class: What do you notice about the **differences** between these areas and neighborhoods, both in the 1930s and today?
 
-## Data Biography of HOLC Redlining Maps {#activity3}
+## Activity 3: Data Biography of HOLC Redlining Maps {#activity3}
 
 ### Small Groups:
 Your main assignment for this module is to produce a "data biography" about a historical dataset.[^1] A "data biography" is an attempt to narrate the particular history of a dataset - the when, where, how, why, etc. of its production. Today, we're going to practice this approach using the HOLC redlining maps that you explored.
