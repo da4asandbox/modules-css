@@ -51,8 +51,8 @@
     <sl-button href="#goals" variant="neutral" size="large">Learning Goals</sl-button>
     <sl-button href="#readings" variant="neutral" size="large">Readings</sl-button>
     <sl-button href="#agenda" variant="neutral" size="large">Agenda</sl-button>
-    <sl-button href="#activity1" variant="neutral" size="large">Activity 1</sl-button>
-    <sl-button href="#activity2" variant="neutral" size="large">Activity 2</sl-button>
+    <sl-button href="#introduction" variant="neutral" size="large">Introduction: Learning About Slavery</sl-button>
+    <sl-button href="#activity1" variant="neutral" size="large">Activity: The Trans-Atlantic Slave Trade Database</sl-button>
     <sl-button href="#activity3" variant="neutral" size="large">Activity 3</sl-button>
     <sl-button href="#activity3" variant="neutral" size="large">Activity 4</sl-button>
 </p>
