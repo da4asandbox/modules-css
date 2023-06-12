@@ -61,13 +61,13 @@
 
 This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
 
-## Learning Goals
+# Learning Goals
 
 1. Study the social and cultural history behind census data and its creation
 2. Understand the process of categorization and data collection
 3. How to work with tabular datasets
 
-## Readings
+# Readings
 
 #### Instructor Note:
 > _Dan Bouk’s Census Stories, USA is a collection of blog posts written during the course of his research for his book, Democracy’s Data. They are written in a more informal style than a traditional academic monograph, and offer bite-sized windows into the social, political, and cultural history behind the US Census. They are, above all, a reminder that data itself has a history and one that is wrapped up in the lives of individual people._
@@ -76,14 +76,14 @@ This class examines one of the major sources of data used by researchers, activi
 - Bouk, Dan. “Standing on the Crater of a Volcano.” _Census Stories, USA,_ July 27, 2020. [https://censusstories.us/2020/07/27/disfranchisement.html](https://censusstories.us/2020/07/27/disfranchisement.html).
 - Bouk, Dan. “The Partners of Greenwich Village.” _Census Stories, USA,_ July 3, 2018. [https://censusstories.us/2018/07/03/partners.html](https://censusstories.us/2018/07/03/partners.html).
 
-## Agenda
+# Agenda
 
 - Activity: Census Data Today (15 min.)
 - Discussion: Dan Bouk, Census Stories, USA (20 min.)
 - Tutorial: Spreadsheet Functions and Census Data (25 min.)
 - Discussion: Who Counts in the US Census? (15 min.)
 
-## Activity: Census Data Today
+# Activity: Census Data Today
 
 #### Instructor Note:
 > _This activity has students explore modern census data for their home state. They should get a sense for what kind of data the government is collecting along with sparking their interest about some of the data insights into their state. This will set up the rest of today’s discussion about how this information has been collected and used at different points in American history._
