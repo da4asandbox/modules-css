@@ -6,7 +6,7 @@
     
     #juncture { base-font-family: 'Montserrat;' font-size: 20px; -hyphens: none; }
     
-    #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 400; }
+    #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 500; }
     
     #juncture h2 { font-size: 28px; }
     
