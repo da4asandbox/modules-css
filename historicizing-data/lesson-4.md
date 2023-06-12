@@ -108,7 +108,7 @@ Today you will be examining A Journal of the Plague Year: An Archive of COVID-19
 
 Use the [Global Pandemic Map](https://covid-19archive.org/s/archive/page/WorldMap) to examine the geographical coverage of the archive.
 
-
+.ve-iframe https://covid-19archive.org/s/archive/page/WorldMap width=80%
 
 Start with the most zoomed-out global scale and zoom into particular regions of the world: what countries are most represented and least represented? 
 Zoom down to your particular school. How well represented is YOUR surrounding geographical area in the COVID-19 Archive. Is your geographical area well-represented or poorly represented in this archive? Why do you think this is the case? 
