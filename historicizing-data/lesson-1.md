@@ -79,7 +79,8 @@ This class introduces students to studying data as a historical artifact - the i
 ## Discussion: "Collect, Analyze, Imagine, Teach" {#activity1}
 
 ### Defining Concepts
-- **In small groups:** try to come up with a working definition of the following concepts from in your own words
+- ***In small groups:***
+- Try to come up with a working definition of the following concepts from in your own words:
     - Counterdata
     - "The Pitfalls of Proof"
     - Data Ethics vs. Data Justice
