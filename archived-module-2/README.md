@@ -42,6 +42,8 @@
     - [↳ Assignments](#assignments)
     - [↳ Readings](#readings)
 
+**This is a sample of me bolding.**
+
 # Contents {#contents}
 <sl-button href="#overview" variant="neutral" size="large">Module Overview</sl-button>
 <sl-button href="#outcomes" variant="neutral" size="large">Learning Outcomes</sl-button>
