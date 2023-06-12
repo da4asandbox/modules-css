@@ -42,7 +42,7 @@
     <sl-button href="/lesson-2/" variant="default" size="large">Next Lesson</sl-button>
 </p>
 
-# Contents {#contents2}
+# Contents {#contents}
 
 <p align=center>
     <sl-button href="#overview" variant="neutral" size="large">Lesson Overview</sl-button>
