@@ -79,7 +79,7 @@ This class examines how enslavers constructed, recorded, and used data to reinfo
 - [Introduction: Learning About Slavery (10 min.)](#introduction)
 - [Activity: The Trans-Atlantic Slave Trade Database (15 min.)](#activity1)
 - [Tutorial: Working With Tabular Data (25 min.)](#tutorial)
-- Discussion: People vs. Numbers (25 min.)
+- [Discussion: People vs. Numbers (25 min.)](#discussion)
 
 # Lesson Plan {#activities}
 ### Introduction: Learning About Slavery {#introduction}
@@ -177,7 +177,7 @@ Filtering a spreadsheet allows you to only look at a particular subset of the sp
     - Use the filter option for `Flag of vessel` to **only** see ships that flew the country flags: `U.S.A` or `Great Britain`. How many vessels fall under this category? `14,275`
     - Use the filter option for `Outcome of voyage for owner`. How many voyages ended in the outcome: `Original goal thwarted (natural hazard)` ? `3,157`
     
-## Discussion: Numbers vs. People
+## Discussion: Numbers vs. People {#discussion}
 
 The Transatlantic Slave Trade Database is one example of how researchers can use data to study the history of slavery in the United States. In the remainder of class, we’re going to put this example into conversation with a second example: Daina Ramey Berry’s book, *The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave*. 
 
