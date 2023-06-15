@@ -63,24 +63,6 @@
     <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
 </p>
 
-<sl-details summary="Details" closed>
-  <sl-select label="Select one" hoist>
-    <sl-option value="option-1">Option 1</sl-option>
-    <sl-option value="option-2">Option 2</sl-option>
-    <sl-option value="option-3">Option 3</sl-option>
-  </sl-select>
-</details>
-
-<sl-details summary="Agenda" open size="medium">
-  <sl-select label="Select one">
-    <sl-option value="option-1">[Activity: Census Data Today (15 min.)](#activity1)</sl-option><br><br>
-    <sl-option value="option-2">[Discussion: Dan Bouk, Census Stories, USA (20 min.)](#discussion1)</sl-option><br><br>
-    <sl-option value="option-3">[Tutorial: Spreadsheet Functions and Census Data (25 min.)](#tutorial)</sl-option>
-  </sl-select>
-</details>
-
-const App = () => (
-
   <SlButtonGroup label="Example Button Group">
     <SlButton>Button</SlButton>
     <SlButton>Button</SlButton>
