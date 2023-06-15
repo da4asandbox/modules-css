@@ -4,6 +4,8 @@
 
     @import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/button/button.js';
     
+    @import url('https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/shoelace-autoloader.js');
+    
     #juncture { font-family: Montserrat; font-size: 20px; -hyphens: none; }
     
     #juncture a { color: #002868; }
