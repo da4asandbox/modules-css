@@ -16,7 +16,7 @@
     
     #juncture h4 { font-size: 20px; color: #690114; font-style: italic; }
 
-    #contents.section1 { font-size:50px; }
+    #contents.section1 { font-size: 40px; }
     
     #activities.section1 h2 { color: #002868; padding-bottom: 0px; }
 
@@ -39,22 +39,22 @@
     - [↳ Tutorial](#tutorial)
 
 <p align=center>
-     <sl-button href="/historicizing-data/lesson-3/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;
-    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
-    <sl-button href="/historicizing-data/assignment/" variant="neutral" size="large">Module 2 Assignment</sl-button>
+     <sl-button href="/historicizing-data/lesson-3/" variant="neutral" size="medium">Previous Lesson</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/" variant="neutral" size="medium">Return to Module Overview</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/assignment/" variant="neutral" size="medium">Module 2 Assignment</sl-button>
 </p>
 
 # Contents {#contents}
 
 <p align=center>
-    <sl-button href="#overview" variant="default" size="large">Lesson Overview</sl-button>
-    <sl-button href="#goals" variant="default" size="large">Learning Goals</sl-button>
-    <sl-button href="#readings" variant="default" size="large">Readings</sl-button>
-    <sl-button href="#agenda" variant="default" size="large">Agenda</sl-button>
-    <sl-button href="#discussion" variant="default" size="large">Discussion: Public Health Data History</sl-button>
-    <sl-button href="#activity1" variant="default" size="large">Activity 1: Exploring the COVID-19 Archive</sl-button>
-    <sl-button href="#activity2" variant="default" size="large">Activity 2: Metadata and Contributing to the COVID-19 Archive</sl-button>
-    <sl-button href="#tutorial" variant="default" size="large">Tutorial: Spreadsheet Practice</sl-button>
+    <sl-button href="#overview" variant="default" size="medium">Lesson Overview</sl-button>
+    <sl-button href="#goals" variant="default" size="medium">Learning Goals</sl-button>
+    <sl-button href="#readings" variant="default" size="medium">Readings</sl-button>
+    <sl-button href="#agenda" variant="default" size="medium">Agenda</sl-button>
+    <sl-button href="#discussion" variant="default" size="medium">Discussion: Public Health Data History</sl-button>
+    <sl-button href="#activity1" variant="default" size="medium">Activity 1: Exploring the COVID-19 Archive</sl-button>
+    <sl-button href="#activity2" variant="default" size="medium">Activity 2: Metadata and Contributing to the COVID-19 Archive</sl-button>
+    <sl-button href="#tutorial" variant="default" size="medium">Tutorial: Spreadsheet Practice</sl-button>
 </p>
 
 
@@ -171,9 +171,9 @@ You’re going to practice your spreadsheet skills using a subset of data that w
 - Given its limitations, do you think this data is worth using for a data advocacy project? Why or why not?
 <br><br>
 <p align=center>
-     <sl-button href="/historicizing-data/lesson-3/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;
-    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
-    <sl-button href="/historicizing-data/assignment/" variant="neutral" size="large">Module 2 Assignment</sl-button>
+     <sl-button href="/historicizing-data/lesson-3/" variant="neutral" size="medium">Previous Lesson</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/" variant="neutral" size="medium">Return to Module Overview</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/assignment/" variant="neutral" size="medium">Module 2 Assignment</sl-button>
 </p>
 
 .ve-footer
