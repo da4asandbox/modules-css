@@ -61,22 +61,6 @@
     <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
 </p>
 
-@import { SlButton } from '@shoelace-style/shoelace/dist/react';
-
-const App = () => (
-  <>
-    <SlButton size="small" caret>
-      Small
-    </SlButton>
-    <SlButton size="medium" caret>
-      Medium
-    </SlButton>
-    <SlButton size="large" caret>
-      Large
-    </SlButton>
-  </>
-);
-
 # Lesson Plan 2.3 Overview {#overview}
 
 This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
