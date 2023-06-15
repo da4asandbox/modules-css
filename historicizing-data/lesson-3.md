@@ -58,59 +58,6 @@
     <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
 </p>
 
-  <SlButtonGroup label="Example Button Group">
-    <SlButton>Button</SlButton>
-    <SlButton>Button</SlButton>
-    <SlDropdown>
-      <SlButton slot="trigger" caret>
-        Dropdown
-      </SlButton>
-      <SlMenu>
-        <SlMenuItem>Item 1</SlMenuItem>
-        <SlMenuItem>Item 2</SlMenuItem>
-        <SlMenuItem>Item 3</SlMenuItem>
-      </SlMenu>
-    </SlDropdown>
-  </SlButtonGroup>
-  
-  <sl-button>Click me</sl-button>
-  
-  <template>
-  <div class="container">
-    <h1>QR code generator</h1>
-
-    <sl-input maxlength="255" clearable label="Value" v-model="qrCode"></sl-input>
-
-    <sl-qr-code :value="qrCode"></sl-qr-code>
-  </div>
-</template>
-
-<script setup>
-  import { ref } from 'vue';
-  import '@shoelace-style/shoelace/dist/components/qr-code/qr-code.js';
-  import '@shoelace-style/shoelace/dist/components/input/input.js';
-
-  const qrCode = ref();
-</script>
-
-<style>
-  .container {
-    max-width: 400px;
-    margin: 0 auto;
-  }
-
-  sl-input {
-    margin: var(--sl-spacing-large) 0;
-  }
-</style>
-
-<sl-drawer label="Drawer" placement="start" class="drawer-placement-start" :open="drawerIsOpen">
-  This drawer slides in from the start.
-  <div slot="footer">
-    <sl-button variant="primary" @click=" drawerIsOpen = false">Close</sl-button>
-  </div>
-</sl-drawer>
-
 # Lesson Plan 2.3 Overview {#overview}
 
 This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
