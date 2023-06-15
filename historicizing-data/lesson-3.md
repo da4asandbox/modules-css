@@ -77,6 +77,25 @@
   </sl-select>
 </details>
 
+import { SlButton, SlButtonGroup, SlDropdown, SlMenu, SlMenuItem } from '@shoelace-style/shoelace/dist/react';
+
+const App = () => (
+  <SlButtonGroup label="Example Button Group">
+    <SlButton>Button</SlButton>
+    <SlButton>Button</SlButton>
+    <SlDropdown>
+      <SlButton slot="trigger" caret>
+        Dropdown
+      </SlButton>
+      <SlMenu>
+        <SlMenuItem>Item 1</SlMenuItem>
+        <SlMenuItem>Item 2</SlMenuItem>
+        <SlMenuItem>Item 3</SlMenuItem>
+      </SlMenu>
+    </SlDropdown>
+  </SlButtonGroup>
+);
+
 # Lesson Plan 2.3 Overview {#overview}
 
 This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
