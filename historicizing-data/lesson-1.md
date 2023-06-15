@@ -37,8 +37,8 @@
     - [↳ Activity 3](#activity3)
 
 <p align=center>
-    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
-    <sl-button href="/historicizing-data/lesson-2/" variant="neutral" size="large">Next Lesson</sl-button>
+    <sl-button href="/historicizing-data/" variant="neutral" size="medium">Return to Module Overview</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/lesson-2/" variant="neutral" size="medium">Next Lesson</sl-button>
 </p>
 
 # Contents {#contents}
@@ -163,8 +163,8 @@ As a group, navigate to the [Introduction page for the Mapping Inequality projec
 
 <br>
 <p align=center>
-    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
-    <sl-button href="/historicizing-data/lesson-2/" variant="neutral" size="large">Next Lesson</sl-button>
+    <sl-button href="/historicizing-data/" variant="neutral" size="medium">Return to Module Overview</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/lesson-2/" variant="neutral" size="medium">Next Lesson</sl-button>
 </p>
 
 .ve-footer
