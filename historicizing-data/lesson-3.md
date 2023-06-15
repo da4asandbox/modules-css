@@ -64,6 +64,9 @@
     <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
 </p>
 
+import { SlButton, SlButtonGroup, SlDropdown, SlMenu, SlMenuItem } from '@shoelace-style/shoelace/dist/react';
+
+const App = () => (
   <SlButtonGroup label="Example Button Group">
     <SlButton>Button</SlButton>
     <SlButton>Button</SlButton>
