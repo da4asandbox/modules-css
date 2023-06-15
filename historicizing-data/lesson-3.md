@@ -61,7 +61,7 @@
     <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
 </p>
 
-<sl-details summary="Details" open>
+<sl-details summary="Details" closed>
   <sl-select label="Select one" hoist>
     <sl-option value="option-1">Option 1</sl-option>
     <sl-option value="option-2">Option 2</sl-option>
