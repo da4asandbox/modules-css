@@ -16,7 +16,7 @@
     
     #juncture h4 { font-size: 20px; color: #690114; font-style: italic; }
 
-    #contents.section1 { font-size:50px; }
+    #contents.section1 { font-size:30px; }
     
     #activities.section1 h2 { color: #002868; padding-bottom: 0px; }
     
