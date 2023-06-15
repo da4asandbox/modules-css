@@ -71,9 +71,9 @@
 
 <sl-details summary="Agenda" open>
   <sl-select label="Select one">
-    <sl-option value="option-1" href="#activity1" variant="default" size="medium">Discussion 1: Dan Bouk, Census Stories, USA</sl-option>
-    <sl-option value="option-2" href="#tutorial" variant="default" size="medium">Tutorial: Spreadsheet Functions and Census Data</sl-option>
-    <sl-option value="option-3" href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-option>
+    <sl-option value="option-1" href="#activity1" variant="default" size="medium">[Activity: Census Data Today (15 min.)](#activity1)
+    <sl-option value="option-2" href="#tutorial" variant="default" size="medium">[Discussion: Dan Bouk, Census Stories, USA (20 min.)](#discussion1)</sl-option>
+    <sl-option value="option-3" href="#discussion2" variant="default" size="medium">[Tutorial: Spreadsheet Functions and Census Data (25 min.)](#tutorial)</sl-option>
   </sl-select>
 </details>
 
