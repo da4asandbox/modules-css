@@ -185,9 +185,9 @@ The Census Bureau aims to record the state in which a person resides and the spe
 
 <br>
 <p align=center>
-     <sl-button href="/historicizing-data/lesson-2/" variant="neutral" size="large">Previous Lesson</sl-button>&nbsp;&nbsp;
-    <sl-button href="/historicizing-data/" variant="neutral" size="large">Return to Module Overview</sl-button>&nbsp;&nbsp;
-    <sl-button href="/historicizing-data/lesson-4/" variant="neutral" size="large">Next Lesson</sl-button>
+     <sl-button href="/historicizing-data/lesson-2/" variant="neutral" size="medium">Previous Lesson</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/" variant="neutral" size="medium">Return to Module Overview</sl-button>&nbsp;&nbsp;
+    <sl-button href="/historicizing-data/lesson-4/" variant="neutral" size="medium">Next Lesson</sl-button>
 </p>
 
 .ve-footer
