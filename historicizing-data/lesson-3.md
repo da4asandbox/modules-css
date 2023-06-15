@@ -66,11 +66,13 @@
     <sl-button href="#goals" variant="default" size="medium">Learning Goals</sl-button>
     <sl-button href="#readings" variant="default" size="medium">Readings</sl-button>
     <sl-button href="#agenda" variant="default" size="medium">Agenda</sl-button>
-    <sl-button href="#activity1" variant="default" size="medium">Activity: Census Data Today</sl-button>
-    <sl-button href="#discussion1" variant="default" size="medium">Discussion 1: Dan Bouk, Census Stories, USA</sl-button>
-    <sl-button href="#tutorial" variant="default" size="medium">Tutorial: Spreadsheet Functions and Census Data</sl-button>
-    <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
+    <sl-button href="#activity1" variant="default" size="medium">==Activity=={description="Census Data Today"}</sl-button>
+    <sl-button href="#discussion1" variant="default" size="medium">==Discussion 1=={description="Dan Bouk, Census Stories, USA"}</sl-button>
+    <sl-button href="#tutorial" variant="default" size="medium">==Tutorial=={description="Spreadsheet Functions and Census Data"}</sl-button>
+    <sl-button href="#discussion2" variant="default" size="medium">==Discussion 2=={description="Who Counts in the US Census?"}</sl-button>
 </p>
+
+==**What accounts for this discrepancy of more than 3 million people?**=={description="Answer: Puerto Rico"}
 
 # Lesson Plan 2.3 Overview {#overview}
 
