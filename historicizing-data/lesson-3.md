@@ -3,6 +3,8 @@
     @import url('https://fonts.googleapis.com/css?family=Montserrat:thin,extra-light,light,100,200,300,400,500,600,700,800');
 
     @import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/button/button.js';
+    
+    @import { SlButton, SlIcon } from '@shoelace-style/shoelace/dist/react';
 
     #juncture { font-family: Montserrat; font-size: 20px; -hyphens: none; }
     
