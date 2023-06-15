@@ -113,7 +113,7 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 <small>This class uses the modern COVID-19 pandemic as an entry point into understanding how data is both created and used within major historical events and processes.
 <br><br></small>
 
-<center><sl-button href="/historicizing-data/lesson-4/" target="_blank" size=medium pill>View full lesson plan</sl-button></center>
+<center><sl-button href="/historicizing-data/lesson-4/" target="_blank" size=large pill>View full lesson plan</sl-button></center>
 
 # Assignment {#assignments}
 
