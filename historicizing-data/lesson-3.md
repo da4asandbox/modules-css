@@ -104,6 +104,13 @@
   }
 </style>
 
+<sl-drawer label="Drawer" placement="start" class="drawer-placement-start" :open="drawerIsOpen">
+  This drawer slides in from the start.
+  <div slot="footer">
+    <sl-button variant="primary" @click=" drawerIsOpen = false">Close</sl-button>
+  </div>
+</sl-drawer>
+
 # Lesson Plan 2.3 Overview {#overview}
 
 This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
