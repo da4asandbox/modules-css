@@ -75,6 +75,8 @@
       </SlMenu>
     </SlDropdown>
   </SlButtonGroup>
+  
+  <sl-button>Click me</sl-button>
 
 # Lesson Plan 2.3 Overview {#overview}
 
