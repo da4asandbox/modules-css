@@ -69,10 +69,10 @@
   </sl-select>
 </details>
 
-<sl-details summary="Agenda" open>
+<sl-details summary="Agenda" open size="medium">
   <sl-select label="Select one">
-    <sl-option value="option-1">[Activity: Census Data Today (15 min.)](#activity1)</sl-option><br>
-    <sl-option value="option-2">[Discussion: Dan Bouk, Census Stories, USA (20 min.)](#discussion1)</sl-option><br>
+    <sl-option value="option-1">[Activity: Census Data Today (15 min.)](#activity1)</sl-option><br><br>
+    <sl-option value="option-2">[Discussion: Dan Bouk, Census Stories, USA (20 min.)](#discussion1)</sl-option><br><br>
     <sl-option value="option-3">[Tutorial: Spreadsheet Functions and Census Data (25 min.)](#tutorial)</sl-option>
   </sl-select>
 </details>
