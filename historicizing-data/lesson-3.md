@@ -69,6 +69,14 @@
   </sl-select>
 </details>
 
+<sl-details summary="Agenda" open>
+  <sl-select label="Select one">
+    <sl-option value="option-1" href="#activity1" variant="default" size="medium">Discussion 1: Dan Bouk, Census Stories, USA</sl-option>
+    <sl-option value="option-2" href="#tutorial" variant="default" size="medium">Tutorial: Spreadsheet Functions and Census Data</sl-option>
+    <sl-option value="option-3" href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-option>
+  </sl-select>
+</details>
+
 # Lesson Plan 2.3 Overview {#overview}
 
 This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
