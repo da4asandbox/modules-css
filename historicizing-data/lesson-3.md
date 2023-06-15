@@ -61,6 +61,14 @@
     <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
 </p>
 
+<sl-details summary="Details" open>
+  <sl-select label="Select one">
+    <sl-option value="option-1">Option 1</sl-option>
+    <sl-option value="option-2">Option 2</sl-option>
+    <sl-option value="option-3">Option 3</sl-option>
+  </sl-select>
+</details>
+
 # Lesson Plan 2.3 Overview {#overview}
 
 This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
