@@ -71,6 +71,7 @@ This class uses the modern COVID-19 pandemic as an entry point into understandin
 # Readings {#readings}
 
 - Mars, Roman. _Pandemic Tracking and the Future of Data._ 489, [https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/).([Transcript](https://99percentinvisible.org/episode/pandemic-tracking-and-the-future-of-data/transcript))
+
 # Agenda {#agenda}
 
 - [Discussion: Public Health Data History (15 min)](#discussion)
