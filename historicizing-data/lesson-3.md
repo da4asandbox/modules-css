@@ -29,6 +29,8 @@
     
 </style>
 
+<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/components/button/button.js"></script>
+
 .ve-header "Lesson 2.3: Studying Data History (Part 2): The U.S. Census" position=top sticky logo=https://da4asandbox.github.io/modules/media/DataAdvocacyForAllLogoWebsite.jpg url=https://www.juncture-digital.org/da4asandbox/modules/historicizing-data background=#690014
     - [Homepage](/historicizing-data/)
     - [All Modules](/historicizing-data/)
