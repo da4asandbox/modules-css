@@ -9,6 +9,8 @@
     import '@shoelace-style/shoelace/dist/components/button/button.js';
     
     @import { SlButton } from '@shoelace-style/shoelace/dist/react';
+    
+    import { SlButton } from '@shoelace-style/shoelace/dist/react';
 
     #juncture { font-family: Montserrat; font-size: 20px; -hyphens: none; }
     
