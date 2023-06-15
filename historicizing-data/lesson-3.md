@@ -49,11 +49,11 @@
 # Contents {#contents}
 
 <p align=center>
-    <sl-button href="#overview" variant="default" size="medium">Lesson Overview</sl-button>
-    <sl-button href="#goals" variant="default" size="medium">Learning Goals</sl-button>
-    <sl-button href="#readings" variant="default" size="medium">Readings</sl-button>
-    <sl-button href="#agenda" variant="default" size="medium">Agenda</sl-button>
-    <sl-button href="#activity1" variant="default" size="medium">Activity: Census Data Today</sl-button>
+    <sl-button href="#overview" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Lesson Overview</sl-button>
+    <sl-button href="#goals" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Learning Goals</sl-button>
+    <sl-button href="#readings" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Readings</sl-button>
+    <sl-button href="#agenda" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Agenda</sl-button>
+    <sl-button href="#activity1" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Activity: Census Data Today</sl-button>
     <sl-button href="#discussion1" variant="default" size="medium">Discussion 1: Dan Bouk, Census Stories, USA</sl-button>
     <sl-button href="#tutorial" variant="default" size="medium">Tutorial: Spreadsheet Functions and Census Data</sl-button>
     <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
