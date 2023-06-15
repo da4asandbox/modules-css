@@ -61,7 +61,7 @@
     <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
 </p>
 
-import { SlButton } from '@shoelace-style/shoelace/dist/react';
+@import { SlButton } from '@shoelace-style/shoelace/dist/react';
 
 const App = () => (
   <>
