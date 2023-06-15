@@ -57,15 +57,6 @@
     <sl-button href="#tutorial" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Tutorial: Spreadsheet Functions and Census Data</sl-button>
     <sl-button href="#discussion2" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Discussion 2: Who Counts in the US Census?</sl-button>
 
-const App = () => (
-  <>
-    <sl-button href="#overview" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Lesson Overview</sl-button><br>—<br>
-    <sl-button href="#goals" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Learning Goals</sl-button><br>—<br>
-    <sl-button href="#readings" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Readings</sl-button><br>—<br>
-    <sl-button href="#agenda" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Agenda</sl-button>
-  </>
-);
-
 # Lesson Plan 2.3 Overview {#overview}
 
 This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
