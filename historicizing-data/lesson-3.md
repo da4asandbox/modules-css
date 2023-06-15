@@ -58,12 +58,10 @@
 
 # Contents {#contents}
 
-2 icons
-
 <p align=center>
     <sl-button href="#overview" variant="default" size="medium"><SlIcon slot="prefix" name="gear"></SlIcon>Lesson Overview</sl-button>
     <sl-button href="#goals" variant="default" size="medium"><SlIcon slot="suffix" name="box-arrow-up-right"></SlIcon>Learning Goals</sl-button>
-    <sl-button href="#readings" variant="default" size="medium">Readings</sl-button>
+    <sl-button href="#readings" variant="default" size="medium"><slot name="prefix" part="prefix" class="button__prefix"></slot>Readings</sl-button>
     <sl-button href="#agenda" variant="default" size="medium">Agenda</sl-button>
     <sl-button href="#activity1" variant="default" size="medium">Activity: Census Data Today</sl-button>
     <sl-button href="#discussion1" variant="default" size="medium">Discussion 1: Dan Bouk, Census Stories, USA</sl-button>
