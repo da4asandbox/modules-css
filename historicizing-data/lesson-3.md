@@ -62,7 +62,7 @@
 </p>
 
 <sl-details summary="Details" open>
-  <sl-select label="Select one">
+  <sl-select label="Select one" hoist>
     <sl-option value="option-1">Option 1</sl-option>
     <sl-option value="option-2">Option 2</sl-option>
     <sl-option value="option-3">Option 3</sl-option>
