@@ -16,7 +16,7 @@
     
     ul li { padding: 3px 0px; }
     
-    #contents.section1 { font-size:50px; text-align: center; }
+    #contents.section1 { font-size:40px; text-align: center; }
     
     #overview.section1 { background-color: #e3e3e3; margin-top: 0px 0; padding: 30px; }
     
@@ -36,12 +36,12 @@
 
 # Contents {#contents}
 
-<sl-button href="#overview" variant="default" size="large">Module Overview</sl-button>
-<sl-button href="#outcomes" variant="default" size="large">Learning Outcomes</sl-button>
-<sl-button href="#concepts" variant="default" size="large">Key Concepts</sl-button>
-<sl-button href="#plans" variant="default" size="large">Lesson Plans</sl-button>
-<sl-button href="#assignments" variant="default" size="large">Assignment</sl-button>
-<sl-button href="#readings" variant="default" size="large">Bibliography</sl-button>
+<sl-button href="#overview" variant="default" size="medium">Module Overview</sl-button>
+<sl-button href="#outcomes" variant="default" size="medium">Learning Outcomes</sl-button>
+<sl-button href="#concepts" variant="default" size="medium">Key Concepts</sl-button>
+<sl-button href="#plans" variant="default" size="medium">Lesson Plans</sl-button>
+<sl-button href="#assignments" variant="default" size="medium">Assignment</sl-button>
+<sl-button href="#readings" variant="default" size="medium">Bibliography</sl-button>
 
 # Overview {#overview}
 
@@ -121,7 +121,7 @@ Tabular data, often stored as spreadsheets, is one of the most common data forma
 
 In this assignment, students apply the concept of a “data biography” to analyze the history behind a particular dataset: the who, what, when, how, and why of the dataset and its creation. In doing so, they learn about the different interpretative filters that shape the historical trajectory of a dataset, from its initial collection to its availability and usability today. 
 
-<sl-button href="/historicizing-data/assignment/" target="_blank" size=large pill>Read full assignment description</sl-button>
+<sl-button href="/historicizing-data/assignment/" target="_blank" size=medium pill>Read full assignment description</sl-button>
 
 # Bibliography {#readings}
 
