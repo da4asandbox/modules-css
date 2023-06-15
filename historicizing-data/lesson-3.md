@@ -16,7 +16,7 @@
     
     #juncture h4 { font-size: 20px; color: #690114; font-style: italic; }
 
-    #contents.section1 { font-size:30px; }
+    #contents.section1 { font-size:50px; }
     
     #activities.section1 h2 { color: #002868; padding-bottom: 0px; }
     
@@ -48,15 +48,17 @@
 
 # Contents {#contents}
 
+# Contents {#contents}
+
 <p align=center>
-    <sl-button href="#overview" variant="default" size="large">Lesson Overview</sl-button>
-    <sl-button href="#goals" variant="default" size="large">Learning Goals</sl-button>
-    <sl-button href="#readings" variant="default" size="large">Readings</sl-button>
-    <sl-button href="#agenda" variant="default" size="large">Agenda</sl-button>
-    <sl-button href="#activity1" variant="default" size="large">Activity: Census Data Today</sl-button>
-    <sl-button href="#discussion1" variant="default" size="large">Discussion 1: Dan Bouk, Census Stories, USA</sl-button>
-    <sl-button href="#tutorial" variant="default" size="large">Tutorial: Spreadsheet Functions and Census Data</sl-button>
-    <sl-button href="#discussion2" variant="default" size="large">Discussion 2: Who Counts in the US Census?</sl-button>
+    <sl-button href="#overview" variant="default" size="medium">Lesson Overview</sl-button>
+    <sl-button href="#goals" variant="default" size="medium">Learning Goals</sl-button>
+    <sl-button href="#readings" variant="default" size="medium">Readings</sl-button>
+    <sl-button href="#agenda" variant="default" size="medium">Agenda</sl-button>
+    <sl-button href="#activity1" variant="default" size="medium">Activity: Census Data Today</sl-button>
+    <sl-button href="#discussion1" variant="default" size="medium">Discussion 1: Dan Bouk, Census Stories, USA</sl-button>
+    <sl-button href="#tutorial" variant="default" size="medium">Tutorial: Spreadsheet Functions and Census Data</sl-button>
+    <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
 </p>
 
 # Lesson Plan 2.3 Overview {#overview}
