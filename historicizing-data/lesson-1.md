@@ -44,13 +44,13 @@
 # Contents {#contents}
 
 <p align=center>
-    <sl-button href="#overview" variant="default" size="large">Lesson Overview</sl-button>
-    <sl-button href="#goals" variant="default" size="large">Learning Goals</sl-button>
-    <sl-button href="#readings" variant="default" size="large">Readings</sl-button>
-    <sl-button href="#agenda" variant="default" size="large">Agenda</sl-button>
-    <sl-button href="#activity1" variant="default" size="large">Activity 1: Discussion: "Collect, Analyze, Imagine, Teach"</sl-button>
-    <sl-button href="#activity2" variant="default" size="large">Activity 2: Exploring HOLC Redlining Maps</sl-button>
-    <sl-button href="#activity3" variant="default" size="large">Activity 3: Data Biography of HOLC Redlining Maps</sl-button>
+    <sl-button href="#overview" variant="default" size="medium">Lesson Overview</sl-button>
+    <sl-button href="#goals" variant="default" size="medium">Learning Goals</sl-button>
+    <sl-button href="#readings" variant="default" size="medium">Readings</sl-button>
+    <sl-button href="#agenda" variant="default" size="medium">Agenda</sl-button>
+    <sl-button href="#activity1" variant="default" size="medium">Activity 1: Discussion: "Collect, Analyze, Imagine, Teach"</sl-button>
+    <sl-button href="#activity2" variant="default" size="medium">Activity 2: Exploring HOLC Redlining Maps</sl-button>
+    <sl-button href="#activity3" variant="default" size="medium">Activity 3: Data Biography of HOLC Redlining Maps</sl-button>
 </p>
 
 # Lesson 2.1 Overview {#overview}
