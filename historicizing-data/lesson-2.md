@@ -70,7 +70,7 @@ This class examines how enslavers constructed, recorded, and used data to reinfo
 # Readings {#readings}
 - ["Episode 176: Daina Ramey Berry, The Value of the Enslaved from Womb to Grave"](https://benfranklinsworld.com/episode-176-daina-ramey-berry-the-value-of-the-enslaved-from-womb-to-grave/), *Ben Franklin's World Podcast* (March 6, 2018).
     - Teacher’s Note: This interview is based on a larger book project by Daina Ramey Berry. If students have access to the reading, you could assign the following excerpts instead of the podcast: Daina Ramey Berry, *The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave* (2016), pp. 1-9, 33-57.
-- Follow the first 13 minutes of the tutorial: Kevin Stratvert, ["How to use Google Sheets - Tutorial for Beginners"](https://www.youtube.com/watch?v=TENAbUa-R-w) (November 14, 2022):
+- Follow the first 13 minutes of the tutorial: [_How to Use Google Sheets - Tutorial for Beginners._](https://www.youtube.com/watch?v=TENAbUa-R-w) Directed by Kevin Stratvert, 2022. _YouTube:_
 
 .ve-media https://www.youtube.com/watch?v=TENAbUa-R-w start=103 end=771 width=70%
 
