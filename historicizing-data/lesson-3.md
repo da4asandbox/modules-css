@@ -49,8 +49,8 @@
 # Contents {#contents}
 
 <p align=center>
-    <sl-button href="#overview" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Lesson Overview</sl-button>
-    <sl-button href="#goals" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Learning Goals</sl-button>
+    <sl-button href="#overview" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Lesson Overview</sl-button><br>
+    <sl-button href="#goals" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Learning Goals</sl-button><br>
     <sl-button href="#readings" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Readings</sl-button>
     <sl-button href="#agenda" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Agenda</sl-button>
     <sl-button href="#activity1" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Activity: Census Data Today</sl-button>
