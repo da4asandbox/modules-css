@@ -54,9 +54,9 @@
     <sl-button href="#readings" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Readings</sl-button>
     <sl-button href="#agenda" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Agenda</sl-button>
     <sl-button href="#activity1" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Activity: Census Data Today</sl-button>
-    <sl-button href="#discussion1" variant="default" size="medium">Discussion 1: Dan Bouk, Census Stories, USA</sl-button>
-    <sl-button href="#tutorial" variant="default" size="medium">Tutorial: Spreadsheet Functions and Census Data</sl-button>
-    <sl-button href="#discussion2" variant="default" size="medium">Discussion 2: Who Counts in the US Census?</sl-button>
+    <sl-button href="#discussion1" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Discussion 1: Dan Bouk, Census Stories, USA</sl-button>
+    <sl-button href="#tutorial" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Tutorial: Spreadsheet Functions and Census Data</sl-button>
+    <sl-button href="#discussion2" variant="default" size="medium" style={{ width: '100%', marginBottom: '1rem' }}>Discussion 2: Who Counts in the US Census?</sl-button>
 </p>
 
 # Lesson Plan 2.3 Overview {#overview}
