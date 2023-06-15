@@ -58,6 +58,8 @@
 
 # Contents {#contents}
 
+2 icons
+
 <p align=center>
     <sl-button href="#overview" variant="default" size="medium"><SlIcon slot="prefix" name="gear"></SlIcon>Lesson Overview</sl-button>
     <sl-button href="#goals" variant="default" size="medium"><SlIcon slot="suffix" name="box-arrow-up-right"></SlIcon>Learning Goals</sl-button>
