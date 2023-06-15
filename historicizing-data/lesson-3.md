@@ -80,6 +80,7 @@
 import { SlButton, SlButtonGroup, SlDropdown, SlMenu, SlMenuItem } from '@shoelace-style/shoelace/dist/react';
 
 const App = () => (
+
   <SlButtonGroup label="Example Button Group">
     <SlButton>Button</SlButton>
     <SlButton>Button</SlButton>
