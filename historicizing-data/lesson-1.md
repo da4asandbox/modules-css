@@ -73,7 +73,7 @@ Through this lesson plan, students will be able to:
 - [Small Group Work: HOLC Redlining Maps (30 min.)](#activity2)
 - [Small Group Work: Data Biography of HOLC Redlining Maps](#activity3)
 
-# Lesson Plan {#activities}
+# Activities {#activities}
 ## Activity 1: Discussion: "Collect, Analyze, Imagine, Teach" {#activity1}
 
 ### Defining Concepts
