@@ -83,7 +83,7 @@ Through this lesson plan, students will be able to:
 - [Tutorial: Working With Tabular Data (25 min.)](#tutorial)
 - [Discussion: People vs. Numbers (25 min.)](#discussion)
 
-# Lesson Plan {#activities}
+# Activities {#activities}
 ## Introduction: Learning About Slavery {#introduction}
 
 #### Instructor Note:
