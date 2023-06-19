@@ -63,7 +63,7 @@
 This class uses the modern COVID-19 pandemic as an entry point into understanding how data is created and used within major historical events and processes and the role of historical archives in shaping data collection.
 
 # Learning Goals {#goals}
-
+Through this lesson plan, students will be able to:
 1. Study the role of data within the COVID-19 pandemic and the longer history of public health data
 2. Understand the concept of “data as archive,” or how data is collected and preserved within specific historical contexts
 3. Refine skills in working with spreadsheets
