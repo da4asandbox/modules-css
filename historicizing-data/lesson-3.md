@@ -63,7 +63,7 @@
 This class examines one of the major sources of data used by researchers, activists, and policy-makers today: the US Census. By working with Census data and studying the history of how it has collected and categorized information about the US population, students learn how political and social categories have been mapped onto quantifiable data and some of the limitations of this population-level data.
 
 # Learning Goals {#goals}
-
+Through this lesson plan, students will be able to:
 1. Study the social and cultural history behind census data and its creation
 2. Understand the process of categorization and data collection
 3. How to work with tabular datasets
