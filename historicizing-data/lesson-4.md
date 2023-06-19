@@ -136,7 +136,7 @@ The COVID-19 Archive is a collection of individual items (news articles, photogr
 - Choose one item from your combined list to contribute to the archive. *Note: although you can make your own information as a contributor anonymous, the item you choose will be publicly available. Think about the issue of privacy when selecting your item.*
 - Go to [this page](https://covid-19archive.org/s/archive/page/Share) and fill out the template to contribute your item: 
     - Work as a group and try to reach a consensus on what to include in the different metadata fields to describe the item.
-    - Note: it is recommend that you check the box to share this story anonymously, unless you want your personal information linked to the item.
+    - Note: it is recommended that you check the box to share this story anonymously, unless you want your personal information linked to the item.
 
 ### Whole class debrief:
 
