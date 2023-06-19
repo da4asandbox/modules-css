@@ -173,7 +173,7 @@ Filtering a spreadsheet allows you to only look at a particular subset of the sp
 - This has "filtered" your data to only show you ships named `Abigail` in your spreadsheet.
 - Look at the bottom right corner of Google Sheets and you should see `17 of 36,085 rows displayed` - this is telling you that 17 ships names `Abigail` in your spreadsheet.
 - You can also select multiple values for your filter. Notice that the filter button for `Vessel Name` now looks like a funnel. This means it's currently filtering your data. Click once on the filter button. You should see `Abigail` still selected. Scroll down to `Abby` and click once to add that to the filter.
-- If you hit OK, you'll see that this has added three aditional rows to what we can see through this filter - bringing the total up to 20.
+- If you hit OK, you'll see that this has added three additional rows to what we can see through this filter - bringing the total up to 20.
 - To reset the filter and see all of your data, click on the filter button for `Vessel Name` then click `Select all` in the pop-up menu. 
 - Practice: 
     - Use the filter option for `Flag of vessel` to **only** see ships that flew the country flags: `U.S.A` or `Great Britain`. How many vessels fall under this category? `14,275`
