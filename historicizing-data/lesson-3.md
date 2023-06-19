@@ -84,7 +84,7 @@ Through this lesson plan, students will be able to:
 - [Tutorial: Spreadsheet Functions and Census Data (25 min.)](#tutorial)
 - [Discussion: Who Counts in the US Census? (15 min.)](#discussion2)
 
-# Lesson Plan {#activities}
+# Activities {#activities}
 ## Activity: Census Data Today {#activity1}
 
 #### Instructor Note:
