@@ -62,7 +62,7 @@
 This class examines how enslavers constructed, recorded, and used data to reinforce a system of chattel slavery in the United States in the 1700s and 1800s. By studying this history, students will wrestle with whether this kind of data can be ethically used to recover the people and lives behind the numbers. 
 
 # Learning Goals {#goals}
-
+Through this lesson plan, students will be able to:
 1. Understand the role of data within the history of slavery in the United States
 2. Gain skills in working with tabular datasets 
 3. Examine the tensions between using data to study the history of slavery vs. the risks of dehumanizing the people and lives behind those numbers.
