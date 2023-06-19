@@ -130,7 +130,7 @@ Go to this starting page: [Trans-Atlantic Slave Trade - Understanding the Databa
 - If you were going to give feedback to the project team about its website and documentation, what would you say?
 
 #### Instructor Note:
-> - _One of the important takeawyays of this activity is to develop some strategies for uncovering more information about a database's biography. For this dataset, it requires both skimming the Methodology section of the specific Trans-Atlantic Slave Trade Database but also reading the [About page](https://www.slavevoyages.org/about/) for the entire website._
+> - _One of the important takeaways of this activity is to develop some strategies for uncovering more information about a database's biography. For this dataset, it requires both skimming the Methodology section of the specific Trans-Atlantic Slave Trade Database but also reading the [About page](https://www.slavevoyages.org/about/) for the entire website._
 > 
 > - _Emphasize that the About page is the primary place you will often go for data projects to answer some of the above questions._
 >
