@@ -100,7 +100,7 @@ Through this lesson plan, students will be able to:
 ## Activity 2: Exploring HOLC Redlining Maps {#activity2}
 
 #### Instructor Note:
-> _In this activity, students use an interactive mapping project, *Mapping Inequality*, which has scanned, georeferenced, and overlaid HOLC maps from the 1930s onto modern cities. These maps were referenced in the *Data Feminism* reading for this module. This allows students to zoom into different nieighborhoods and explore how this federal agency overlaid conceptions of race, class, and ethnicity onto their grading system for mortgage lending. This activity uses **Denver, Colorado**, as its map, but teachers can substitute another city that might be more familiar for their students. This does require finding some suitable groupings of areas for students to zero in on._
+> _In this activity, students use an interactive mapping project, *Mapping Inequality*, which has scanned, georeferenced, and overlaid HOLC maps from the 1930s onto modern cities. These maps were referenced in the *Data Feminism* reading for this module. This allows students to zoom into different neighborhoods and explore how this federal agency overlaid conceptions of race, class, and ethnicity onto their grading system for mortgage lending. This activity uses **Denver, Colorado**, as its map, but teachers can substitute another city that might be more familiar for their students. This does require finding some suitable groupings of areas for students to zero in on._
 
 .ve-media gh:da4asandbox/modules/media/denver-holc-scan.jpeg caption="Homeowner's Loan Corporation (HOLC) Map of Denver, Colorado (1938)"
 
