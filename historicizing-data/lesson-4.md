@@ -79,7 +79,7 @@ Through this lesson plan, students will be able to:
 - [Activity 2: Metadata and Contributing to the COVID-19 Archive (20 min.)](#activity2)
 - [Tutorial: Spreadsheet Practice (20 min)](#tutorial)
 
-# Lesson Plan {#activities}
+# Activities {#activities}
 
 ## Discussion: Public Health Data History {#discussion}
 
