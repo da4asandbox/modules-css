@@ -58,7 +58,7 @@
 This class introduces students to studying data as a historical artifact - the idea that data is not simply quantifiable information, but that all data has a history behind it that has shaped its production and use.
 
 # Learning Goals {#goals}
-
+Through this lesson plan, students will be able to:
 1. Establish a larger theoretical framework from Data Feminism to approach data as a historical artifact
 2. Help students explore a particular form of historical data (HOLC Redlining Maps) and how biases of race, class, and religion shaped their production during the 1930s.
 3. Introduce students to the [Data Biography](historicizing-data/data-biography) assignment and start to apply some of its framework to the HOLC Redlining Maps.
