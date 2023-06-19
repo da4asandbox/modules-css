@@ -181,7 +181,7 @@ The Census Bureau aims to record the state in which a person resides and the spe
 
 ### Whole class discussion:
 
-- What are some the lessons you learned today about census data that you might apply to contemporary data advocacy projects? What should you keep in mind while working with census data?
+- What are some of the lessons you learned today about census data that you might apply to contemporary data advocacy projects? What should you keep in mind while working with census data?
 
 <br>
 <p align=center>
