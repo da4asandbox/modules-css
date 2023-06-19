@@ -163,7 +163,7 @@ You’re going to practice your spreadsheet skills using a subset of data that w
 
 ### Whole class debrief: 
 
-#### Teacher’s Note:
+#### Instructor Note:
 > _It is easy to forget when working with these nice whole numbers that there was a very messy process behind their creation. The last new column in particular stands on pretty shaky ground. The debrief below pushes students to wrestle with gaps and limitations of datasets and the tradeoffs of trying to use imperfect data._
 
 - Did you find anything interesting in working with the spreadsheet? Did anything surprise you?
