@@ -134,7 +134,7 @@ Go to this starting page: [Trans-Atlantic Slave Trade - Understanding the Databa
 > 
 > - _Emphasize that the About page is the primary place you will often go for data projects to answer some of the above questions._
 >
-> - _Finally, sometimes a Google Search can be an even more effcient way to uncover some of this information. For instance, a Google Search for ```Trans-Atlantic Slave Trade Database``` brings up [a much more digestible summary of the project](https://hutchinscenter.fas.harvard.edu/trans-atlantic-slave-trade-database)._
+> - _Finally, sometimes a Google Search can be an even more efficient way to uncover some of this information. For instance, a Google Search for ```Trans-Atlantic Slave Trade Database``` brings up [a much more digestible summary of the project](https://hutchinscenter.fas.harvard.edu/trans-atlantic-slave-trade-database)._
 
 ## Tutorial: Working With Tabular Data {#tutorial}
 
