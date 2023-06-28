@@ -1,4 +1,4 @@
-.ve-style ../custom.css
+.ve-style ./custom.css
 
 <style>
     
