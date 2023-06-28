@@ -8,8 +8,6 @@
     
     #juncture { font-family: Montserrat; font-size: 20px; }
     
-    #juncture h1 { font-size: 32px; color: #BF0A31; font-weight: 500; }
-    
     #juncture h2 { font-size: 28px; font-weight: 500; }
     
     #juncture h3 { font-size: 24px; }
