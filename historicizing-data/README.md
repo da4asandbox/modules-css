@@ -1,3 +1,5 @@
+.ve-style ../custom.css
+
 <style>
     
     @import url('https://fonts.googleapis.com/css?family=Montserrat:thin,extra-light,light,100,200,300,400,500,600,700,800');
